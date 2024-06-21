@@ -5,3 +5,5 @@ early_work/instance_segmentation_viz.ipynb
 early_work/__pycache__
 /training_test/
 early_work/efficient_sam/EfficientSAM/
+/modeling/
+
