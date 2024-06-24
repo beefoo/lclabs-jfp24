@@ -1,3 +1,10 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import torch
+from torchvision.transforms import ToTensor
+from PIL import Image
+import io
+
 import os
 from torchvision.io.image import read_image
 from torchvision.utils import draw_bounding_boxes
@@ -14,118 +21,74 @@ from torchvision.models.detection import (
     # Faster R-CNN
     fasterrcnn_resnet50_fpn_v2,
     FasterRCNN_ResNet50_FPN_V2_Weights,
-    # # FCOS
-    fcos_resnet50_fpn,
-    FCOS_ResNet50_FPN_Weights,
-    # RetinaNet
-    retinanet_resnet50_fpn_v2,
-    RetinaNet_ResNet50_FPN_V2_Weights,
-    # SSD
-    ssd300_vgg16,
-    SSD300_VGG16_Weights,
-    # SSDlite
-    ssdlite320_mobilenet_v3_large,
-    SSDLite320_MobileNet_V3_Large_Weights,
 )
 
 
-def output_image(output_path, model_name, image_path, im):
-    # creating the general output dirctory
-    if not os.path.exists(output_path):
-        os.makedirs(output_path)
-
-    # creating the model's output directory:
-    model_output_directory = os.path.join(output_path, model_name)
-    if not os.path.exists(model_output_directory):
-        os.makedirs(model_output_directory)
-    # extracting the image base name:
-    base_name = os.path.basename(image_path)
-
-    # creating the full image output file name
-    output_path = os.path.join(model_output_directory, base_name)
-    print(f"Model Output saved to {output_path}")
-    im.save(output_path, "JPEG")
-
-
-def extract_number(directory_name):
-    match = re.findall(r"\d+", directory_name)
-    # if match:
-    return int(match[0])
-    # return float("inf")
-
-
-# Creating a sorted list of the filenames from my images dir
-# sorted_filenames = sorted(os.listdir("images"), key=extract_number)
-
-
-def load_model(model, weights):
-    model = model(weights=weights)
-    model.eval()
-
-
-def object_detection(
-    model, weights, image_path, output_path="evaluation/outputs", threshold=0.90
-):
-    img = read_image(image_path)
-    # Step 1: Initialize model with the best available weights
-    weights = weights.DEFAULT
-    model_name = model.__name__
-
-    model = model(weights=weights)
-    model.eval()
-
-    # Step 2: Initialize the inference transforms
-    preprocess = weights.transforms()
-
-    # Step 3: Apply inference preprocessing transforms
-    batch = [preprocess(img)]
-
-    # Step 4: Use the model and visualize the prediction
-    prediction = model(batch)[0]
-
-    # Extracting the len of Index of the scores that meet the threshold value:
-    score_len = (prediction["scores"] >= threshold).sum().item()
-    # Limits the scores at the threshold to just the top 5
-    if score_len >= 5:
-        score_len = 5
+def show_mask(mask, ax, random_color=False):
+    if random_color:
+        color = np.concatenate([np.random.random(3), np.array([0.6])], axis=0)
     else:
-        pass
+        color = np.array([30 / 255, 144 / 255, 255 / 255, 0.8])
+    h, w = mask.shape[-2:]
+    mask_image = mask.reshape(h, w, 1) * color.reshape(1, 1, -1)
+    ax.imshow(mask_image)
 
-    # Step 5: Visualizing Model predictions onto image.
 
-    # Annotation features
-    image_heading = f"Evaluating Top Detections\n{model_name}: {score_len} detections at {threshold}"
-    fill = (57, 255, 20)
-    font_path = os.path.abspath("fonts/OpenSans-Regular.ttf")
-    font = ImageFont.truetype(font_path, 30)
+def show_points(coords, labels, ax, marker_size=375):
+    pos_points = coords[labels == 1]
+    neg_points = coords[labels == 0]
+    ax.scatter(
+        pos_points[:, 0],
+        pos_points[:, 1],
+        color="green",
+        marker="*",
+        s=marker_size,
+        edgecolor="white",
+        linewidth=1.25,
+    )
+    ax.scatter(
+        neg_points[:, 0],
+        neg_points[:, 1],
+        color="red",
+        marker="*",
+        s=marker_size,
+        edgecolor="white",
+        linewidth=1.25,
+    )
 
-    if score_len == 0:  # If there are no predictions at the threshold, just o
-        im = to_pil_image(img)
-        draw = ImageDraw.Draw(im)
-        draw.text((5, 5), image_heading, font=font, fill=fill, align="left")
 
-    else:  # If there are predictions, generate annotated visualization and save to corresponding output directory
-        labels = [
-            weights.meta["categories"][i] for i in prediction["labels"][:score_len]
-        ]
-        scores = prediction["scores"][:score_len]
-        labels_with_scores = [
-            f"{label} {score:.2f}" for label, score in zip(labels, scores)
-        ]
+def show_box(box, ax):
+    x0, y0 = box[0], box[1]
+    w, h = box[2] - box[0], box[3] - box[1]
+    ax.add_patch(
+        plt.Rectangle((x0, y0), w, h, edgecolor="yellow", facecolor=(0, 0, 0, 0), lw=5)
+    )
 
-        box = draw_bounding_boxes(
-            img,
-            boxes=prediction["boxes"][:score_len],
-            labels=labels_with_scores,
-            colors="red",
-            width=4,
-            font=font_path,
-            font_size=20,
-        )
-        im = to_pil_image(box.detach())
 
-        # Draw the model name at the top left of the image
-        draw = ImageDraw.Draw(im)
-        draw.text((5, 5), image_heading, font=font, fill=fill, align="left")
+def show_anns_ours(mask, ax):
+    ax.set_autoscale_on(False)
+    img = np.ones((mask.shape[0], mask.shape[1], 4))
+    img[:, :, 3] = 0
+    color_mask = [0, 1, 0, 0.7]
+    img[np.logical_not(mask)] = color_mask
+    ax.imshow(img)
 
-    output_image(output_path, model_name, image_path, im)
+
+def run_ours_box_or_points(img_path, pts_sampled, pts_labels, model):
+    image_np = np.array(Image.open(img_path))
+    img_tensor = ToTensor()(image_np)
+    pts_sampled = torch.reshape(torch.tensor(pts_sampled), [1, 1, -1, 2])
+    pts_labels = torch.reshape(torch.tensor(pts_labels), [1, 1, -1])
+    predicted_logits, predicted_iou = model(
+        img_tensor[None, ...],
+        pts_sampled,
+        pts_labels,
+    )
+
+    sorted_ids = torch.argsort(predicted_iou, dim=-1, descending=True)
+    predicted_iou = torch.take_along_dim(predicted_iou, sorted_ids, dim=2)
+    predicted_logits = torch.take_along_dim(
+        predicted_logits, sorted_ids[..., None, None], dim=2
+    )
+
+    return torch.ge(predicted_logits[0, 0, 0, :, :], 0).cpu().detach().numpy()
