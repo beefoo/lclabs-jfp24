@@ -1,0 +1,10 @@
+{
+    "name": "collage-tool",
+    "description": "Explore the Library of Congress DC Photo Collections through collage and creativity",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
