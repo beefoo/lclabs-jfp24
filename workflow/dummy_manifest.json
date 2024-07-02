@@ -131,5 +131,208 @@
             994
         ],
         "thumbnail": "image_88694120_thumbnail.jpg"
+    },
+    "image_00650949.jpg": {
+        "resource_id": 650949,
+        "original_format": [
+            1024,
+            628
+        ],
+        "thumbnail": "image_00650949_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    20.005451202392578,
+                    179.0795135498047,
+                    402.64349365234375,
+                    601.5416870117188
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_650949_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_650949_person_0.png"
+            },
+            {
+                "bounding_box": [
+                    475.8175354003906,
+                    146.7380828857422,
+                    698.1453247070312,
+                    517.9982299804688
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_650949_person_1.png",
+                "mask": "../workflow_ui_sample/masks/mask_650949_person_1.png"
+            }
+        ]
+    },
+    "image_2016869441.jpg": {
+        "resource_id": 2016869441,
+        "original_format": [
+            741,
+            1024
+        ],
+        "thumbnail": "image_2016869441_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    360.18011474609375,
+                    313.2438659667969,
+                    529.9805297851562,
+                    899.5244140625
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016869441_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016869441_person_0.png"
+            },
+            {
+                "bounding_box": [
+                    168.3771514892578,
+                    305.47552490234375,
+                    385.83721923828125,
+                    907.727294921875
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016869441_person_1.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016869441_person_1.png"
+            }
+        ]
+    },
+    "image_2010641712.jpg": {
+        "resource_id": 2010641712,
+        "original_format": [
+            1794,
+            2529
+        ],
+        "thumbnail": "image_2010641712_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    313.4005432128906,
+                    270.8692321777344,
+                    1510.86328125,
+                    2342.62158203125
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2010641712_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_2010641712_person_0.png"
+            }
+        ]
+    },
+    "image_2016866957.jpg": {
+        "resource_id": 2016866957,
+        "original_format": [
+            1024,
+            762
+        ],
+        "thumbnail": "image_2016866957_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    302.1134338378906,
+                    140.2788543701172,
+                    503.3295593261719,
+                    718.1956787109375
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016866957_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016866957_person_0.png"
+            },
+            {
+                "bounding_box": [
+                    589.6578979492188,
+                    138.0210723876953,
+                    798.2540893554688,
+                    718.077880859375
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016866957_person_1.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016866957_person_1.png"
+            }
+        ]
+    },
+    "image_2016873397.jpg": {
+        "resource_id": 2016873397,
+        "original_format": [
+            1024,
+            825
+        ],
+        "thumbnail": "image_2016873397_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    882.4912719726562,
+                    600.4380493164062,
+                    912.7456665039062,
+                    689.282958984375
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016873397_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016873397_person_0.png"
+            },
+            {
+                "bounding_box": [
+                    113.47854614257812,
+                    45.475833892822266,
+                    1003.5223999023438,
+                    664.2680053710938
+                ],
+                "label": "airplane",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016873397_airplane_1.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016873397_airplane_1.png"
+            },
+            {
+                "bounding_box": [
+                    450.315673828125,
+                    605.7691040039062,
+                    475.75689697265625,
+                    667.314453125
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_2016873397_person_2.png",
+                "mask": "../workflow_ui_sample/masks/mask_2016873397_person_2.png"
+            }
+        ]
+    },
+    "image_00650962.jpg": {
+        "resource_id": 650962,
+        "original_format": [
+            1024,
+            803
+        ],
+        "thumbnail": "image_00650962_thumbnail.jpg",
+        "segments": [
+            {
+                "bounding_box": [
+                    68.27828216552734,
+                    110.51578521728516,
+                    490.7704162597656,
+                    790.0986328125
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_650962_person_0.png",
+                "mask": "../workflow_ui_sample/masks/mask_650962_person_0.png"
+            },
+            {
+                "bounding_box": [
+                    522.9970703125,
+                    81.32926177978516,
+                    994.955078125,
+                    781.4523315429688
+                ],
+                "label": "person",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_650962_person_1.png",
+                "mask": "../workflow_ui_sample/masks/mask_650962_person_1.png"
+            },
+            {
+                "bounding_box": [
+                    282.616943359375,
+                    274.05218505859375,
+                    306.0367736816406,
+                    318.49993896484375
+                ],
+                "label": "tie",
+                "cutout": "../workflow_ui_sample/cutouts/cutout_650962_tie_2.png",
+                "mask": "../workflow_ui_sample/masks/mask_650962_tie_2.png"
+            }
+        ]
     }
 }
