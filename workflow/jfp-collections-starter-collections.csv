@@ -1,0 +1,9 @@
+﻿Collection Name,Collection Link,Notes,Objects of Interest
+National Photo Company Collection,https://www.loc.gov/collections/national-photo-company/,"Filter by restriction: ""right_information"" and ""rights_advisory""","People, Animals, Landmarks, Vehicles"
+Highsmith (Carol M.) Archive,https://www.loc.gov/collections/carol-m-highsmith/,"Would need to be filtered by place since it captures projects outside of D.C. Given how Highsmith organized/labeled these images, we could (for the most part) safely do a ""if D.C. in XXX:"" from the ""subject_headings"" field or ""title"" field (the latter seems easier as it's less nested).
+
+Filter by restriction: ""right_information"" and ""rights_advisory""","Landscape, Landmarks, Roads"
+Free to Use,https://www.loc.gov/free-to-use/,"Filter for D.C. by ""title"" and ""subhect_headings""
+Filter by restriction: ""right_information"" and ""rights_advisory""
+
+","Animals, People"
