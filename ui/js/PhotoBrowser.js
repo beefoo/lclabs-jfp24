@@ -3,6 +3,7 @@ export default class PhotoBrowser {
         const defaults = {
             debug: false,
             dataPath: 'dummy-data/',
+            displayCount: 10,
             listElement: 'photos',
         };
         this.options = Object.assign(defaults, options);
@@ -10,9 +11,10 @@ export default class PhotoBrowser {
     }
 
     async init() {
-        const photos = await this.loadData();
+        this.photos = await this.loadData();
         this.listElement = document.getElementById(this.options.listElement);
-        this.render(photos);
+        this.shufflePhotos();
+        this.loadListeners();
     }
 
     async loadData() {
@@ -21,6 +23,12 @@ export default class PhotoBrowser {
         const data = await response.json();
         const parsedData = PhotoBrowser.parseData(data);
         return parsedData;
+    }
+
+    loadListeners() {
+        document.getElementById('photo-shuffle').onclick = (e) => {
+            this.shufflePhotos();
+        };
     }
 
     static parseData(rawData) {
@@ -54,8 +62,8 @@ export default class PhotoBrowser {
 
     render(photos) {
         let html = '';
-        const { dataPath } = this.options;
-        photos.forEach((photo) => {
+        const { dataPath, displayCount } = this.options;
+        photos.slice(0, displayCount).forEach((photo) => {
             if (!photo.is_valid) return;
             html += '<li><button class="photo">';
             html += `  <img src="${dataPath}${photo.thumbnail}" class="photo-thumbnail" alt="${photo.title}" title="${photo.title}" />`;
@@ -68,5 +76,14 @@ export default class PhotoBrowser {
             html += '</button></li>';
         });
         this.listElement.innerHTML = html;
+    }
+
+    shufflePhotos() {
+        const photos = this.photos.slice(0);
+        for (let i = photos.length - 1; i > 0; i -= 1) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [photos[i], photos[j]] = [photos[j], photos[i]];
+        }
+        this.render(photos);
     }
 }
