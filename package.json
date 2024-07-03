@@ -2,6 +2,7 @@
     "name": "collage-tool",
     "description": "Explore the Library of Congress DC Photo Collections through collage and creativity",
     "scripts": {
+        "publish": "git subtree push --prefix ui origin gh-pages",
         "start": "node server.js"
     },
     "dependencies": {
