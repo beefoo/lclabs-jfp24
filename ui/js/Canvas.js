@@ -1,4 +1,5 @@
 import CanvasPointer from './CanvasPointer.js';
+import Helper from './Helper.js';
 
 export default class Canvas {
     constructor(options = {}) {
@@ -24,6 +25,7 @@ export default class Canvas {
         el.onpointerdown = (event) => this.onPointerDown(event);
         el.onpointermove = (event) => this.onPointerMove(event);
         el.onpointerup = (event) => this.onPointerUp(event);
+        el.onpointercancel = (event) => this.onPointerUp(event);
     }
 
     onPointerDown(event) {
@@ -35,6 +37,7 @@ export default class Canvas {
         // check to see if we should select an existing segment instance
         const segmentInstance = event.target.closest('.canvas-segment');
         if (segmentInstance) {
+            if (this.options.debug) console.log('Canvas segment detected');
             foundValidPointer = true;
             this.onSegmentTouchStart(event, segmentInstance);
         }
@@ -67,6 +70,10 @@ export default class Canvas {
     onPointerUp(event) {
         // only listen for primary pointer (i.e. not multitouch)
         if (!event.isPrimary) return;
+        if (!this.pointer) return;
+
+        const { clientX, clientY } = event;
+        this.pointer.onMoveEnd({ x: clientX, y: clientY });
         this.pointer = false;
     }
 
@@ -83,20 +90,23 @@ export default class Canvas {
             const imageURL = segment.getAttribute('data-image');
             const el = document.createElement('div');
             el.classList.add('canvas-segment');
-            el.style.width = `${width}px`;
-            el.style.height = `${height}px`;
-            el.style.left = `${x - c.x}px`;
-            el.style.top = `${y - c.y}px`;
+            el.style.width = `${Helper.pxToPercent(width, c.width)}%`;
+            el.style.height = `${Helper.pxToPercent(height, c.height)}%`;
+            el.style.left = `${Helper.pxToPercent(x - c.x, c.width)}%`;
+            el.style.top = `${Helper.pxToPercent(y - c.y, c.height)}%`;
             el.style.backgroundImage = `url(${imageURL})`;
             canvas.appendChild(el);
             segInstances.push({
                 el,
                 startX: x - c.x,
                 startY: y - c.y,
+                width,
+                height,
             });
         });
         this.pointer = new CanvasPointer({
             id: event.pointerId,
+            canvas,
             startX: clientX,
             startY: clientY,
             elements: segInstances,
@@ -104,6 +114,25 @@ export default class Canvas {
     }
 
     onSegmentTouchStart(event, target) {
-
+        const { canvas } = this;
+        const { clientX, clientY } = event;
+        const c = canvas.getBoundingClientRect();
+        const {
+            x, y, width, height,
+        } = target.getBoundingClientRect();
+        const element = {
+            el: target,
+            startX: x - c.x,
+            startY: y - c.y,
+            width,
+            height,
+        };
+        this.pointer = new CanvasPointer({
+            id: event.pointerId,
+            canvas,
+            startX: clientX,
+            startY: clientY,
+            elements: [element],
+        });
     }
 }

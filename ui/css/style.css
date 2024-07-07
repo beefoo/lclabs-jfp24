@@ -137,6 +137,13 @@ main {
     text-align: center;
 }
 
+#main-ui {
+    touch-action: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
 #tools-section {
     background-color: var(--bg-base-lighter);
     flex-grow: 0;
@@ -189,6 +196,13 @@ main {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+.canvas-segment:hover,
+.canvas-segment:focus {
+    z-index: 1001;
+}
+.canvas-segment.animating {
+    transition: left ease-in-out 0.5s, top ease-in-out 0.5s;
 }
 #background-photo-credit {
     text-align: center;
