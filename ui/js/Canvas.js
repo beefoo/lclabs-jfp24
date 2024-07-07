@@ -44,6 +44,7 @@ export default class Canvas {
 
         // check to see if we should create a new instances of segments from a photo
         if (!foundValidPointer) {
+            Canvas.selectSegment(false); // deselect all segments
             const photo = event.target.closest('.photo');
             if (photo) {
                 if (this.options.debug) console.log('Photo detected');
@@ -133,6 +134,19 @@ export default class Canvas {
             startX: clientX,
             startY: clientY,
             elements: [element],
+        });
+        Canvas.selectSegment(target);
+    }
+
+    static selectSegment(target = false) {
+        // select this segment and de-select others
+        const segments = document.querySelectorAll('.canvas-segment');
+        segments.forEach((segment) => {
+            if (segment === target && !segment.classList.contains('selected')) {
+                segment.classList.add('selected');
+            } else if (segment !== target && segment.classList.contains('selected')) {
+                segment.classList.remove('selected');
+            }
         });
     }
 }
