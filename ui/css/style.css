@@ -196,6 +196,7 @@ main {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    transform-origin: 50% 50%;
 }
 .canvas-segment:hover,
 .canvas-segment:focus {
@@ -206,6 +207,30 @@ main {
 }
 .canvas-segment.selected {
     outline: 3px solid var(--bg-secondary);
+    z-index: 1002;
+}
+.canvas-segment-bar {
+    width: 60px;
+    height: 3px;
+    background: var(--bg-secondary);
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    margin-top: -1.5px;
+    display: none;
+}
+.canvas-segment-handle {
+    position: absolute;
+    background: var(--bg-secondary);
+    width: 24px;
+    height: 24px;
+    right: -12px;
+    top: 50%;
+    margin-top: -12px;
+    border-radius: 50%;
+}
+.canvas-segment.selected .canvas-segment-bar {
+    display: block;
 }
 #background-photo-credit {
     text-align: center;
