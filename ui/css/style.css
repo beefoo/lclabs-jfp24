@@ -180,6 +180,15 @@ main {
     background-position: center center;
     background-size: contain;
     flex-grow: 1;
+    position: relative;
+    z-index: 1;
+}
+.canvas-segment {
+    position: absolute;
+    z-index: 1000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 #background-photo-credit {
     text-align: center;
