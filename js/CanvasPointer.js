@@ -27,18 +27,45 @@ export default class CanvasPointer {
 
     onManipulate(xy) {
         const [segment] = this.elements;
-        const { el, rotationStart } = segment;
+        const {
+            el, rotationStart, startX, startY, startWidth, startHeight,
+        } = segment;
+        // perform scale
+        const distance = Helper.distance(xy, this.segmentCenter);
+        const scale = distance / this.distanceStart;
+        const newWidth = startWidth * scale;
+        const newHeight = startHeight * scale;
+        const deltaX = (newWidth - startWidth) * 0.5;
+        const deltaY = (newHeight - startHeight) * 0.5;
+        const newX = startX - deltaX;
+        const newY = startY - deltaY;
+        el.style.left = `${newX}%`;
+        el.style.top = `${newY}%`;
+        el.style.width = `${newWidth}%`;
+        el.style.height = `${newHeight}%`;
+        this.elements[0].x = newX;
+        this.elements[0].y = newY;
+        this.elements[0].width = newWidth;
+        this.elements[0].height = newHeight;
+
+        // perform rotation
         const rotation = Helper.degreesBetweenPoints(xy, this.segmentCenter);
         const rotationDelta = rotation - this.rotationStart;
         const newRotation = (rotationStart + rotationDelta) % 360.0;
         el.style.transform = `rotate3d(0, 0, 1, ${newRotation}deg)`;
-        this.newRotation = newRotation;
+        this.elements[0].rotation = newRotation;
     }
 
     onManipulateEnd(xy) {
         const [segment] = this.elements;
-        const { el } = segment;
-        el.setAttribute('data-rotation', this.newRotation);
+        const {
+            el, rotation, x, y, width, height,
+        } = segment;
+        el.setAttribute('data-rotation', rotation);
+        el.setAttribute('data-x', x);
+        el.setAttribute('data-y', y);
+        el.setAttribute('data-width', width);
+        el.setAttribute('data-height', height);
     }
 
     onManipulateStart() {
@@ -46,6 +73,7 @@ export default class CanvasPointer {
         const s = segment.el.getBoundingClientRect();
         this.segmentCenter = { x: s.x + s.width * 0.5, y: s.y + s.height * 0.5 };
         this.rotationStart = Helper.degreesBetweenPoints(this.start, this.segmentCenter);
+        this.distanceStart = Helper.distance(this.start, this.segmentCenter);
     }
 
     onMove(xy) {
@@ -96,7 +124,7 @@ export default class CanvasPointer {
                 setTimeout(() => {
                     el.classList.remove('animating');
                 }, 550);
-            } else {
+            } else if ('x' in element && 'y' in element) {
                 el.setAttribute('data-x', element.x);
                 el.setAttribute('data-y', element.y);
             }
