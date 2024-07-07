@@ -140,16 +140,17 @@ export default class Canvas {
         const { canvas } = this;
         const { clientX, clientY } = event;
         const c = canvas.getBoundingClientRect();
-        const {
-            x, y, width, height,
-        } = target.getBoundingClientRect();
+        const x = parseFloat(segment.getAttribute('data-x'));
+        const y = parseFloat(segment.getAttribute('data-y'));
+        const width = parseFloat(segment.getAttribute('data-width'));
+        const height = parseFloat(segment.getAttribute('data-height'));
         const element = {
             el: segment,
             rotationStart: parseFloat(segment.getAttribute('data-rotation')),
-            startX: x - c.x,
-            startY: y - c.y,
-            width,
-            height,
+            startX: x,
+            startY: y,
+            startWidth: width,
+            startHeight: height,
         };
         this.pointer = new CanvasPointer({
             id: event.pointerId,
@@ -169,6 +170,8 @@ export default class Canvas {
         const y = parseFloat(target.getAttribute('data-y'));
         const width = parseFloat(target.getAttribute('data-width'));
         const height = parseFloat(target.getAttribute('data-height'));
+        // console.log(x, y, width, height);
+        // console.log(target.getAttribute('data-x'), target.getAttribute('data-y'), target.getAttribute('data-width'), target.getAttribute('data-height'));
         const element = {
             el: target,
             startX: (x / 100.0) * c.width,
