@@ -1,3 +1,4 @@
+import Canvas from './Canvas.js';
 import PhotoBrowser from './PhotoBrowser.js';
 
 export default class App {
@@ -10,6 +11,8 @@ export default class App {
     }
 
     init() {
-        const photo_browser = new PhotoBrowser();
+        const canvas = new Canvas(this.options);
+        const photo_browser = new PhotoBrowser(this.options);
+        this.initialized = true;
     }
 }
