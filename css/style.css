@@ -204,6 +204,9 @@ main {
 .canvas-segment.animating {
     transition: left ease-in-out 0.5s, top ease-in-out 0.5s;
 }
+.canvas-segment.selected {
+    outline: 3px solid var(--bg-secondary);
+}
 #background-photo-credit {
     text-align: center;
     flex-basis: 40px;
