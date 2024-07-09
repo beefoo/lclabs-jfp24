@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Collage Tool</title>
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <meta name="description" content="">
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+</head>
+
+<body>
+
+    <!-- LoC banner starts here -->
+    <header class="loc-header">
+        <div class="loc-logo">
+            <a href="https://www.loc.gov/">
+                <img src="img/LOC_Logo_horiz_inv.png" alt="The Library of Congress logo" title="Go to the Library of Congress homepage" />
+            </a>
+        </div>
+        <div class="project-description">
+            <p>Explore the Library of Congress DC Photo Collections through collage and creativity
+            <a href="#" class="button small">Use of AI</a> <a href="https://github.com/libraryOfCongress/my-repo" class="button small">View the code</a></p>
+        </div>
+    </header>
+    <!-- /LoC banner end here -->
+
+    <main>
+
+        <div class="row">
+            <div id="prompt-section" class="section">
+                <h1>Collage tool</h1>
+                <div id="prompt-text">Create your DC Collage!</div>
+                <button id="prompt-button">New prompt</button>
+            </div>
+        </div>
+
+        <div id="main-ui" class="row grow">
+            <div id="tools-section" class="section">
+                <nav id="tool-menu" class="menu">
+                    <h2>Tools</h2>
+                    <ul id="main-tools" class="tool-list">
+                        <li><button id="tool-select" class="tool"><img src="img/placeholder-icon.png" alt="Select tool" title="Select tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-delete" class="tool"><img src="img/placeholder-icon.png" alt="Delete tool" title="Delete tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-undo" class="tool"><img src="img/placeholder-icon.png" alt="Undo tool" title="Undo tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-redo" class="tool"><img src="img/placeholder-icon.png" alt="Redo tool" title="Redo tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-save" class="tool"><img src="img/placeholder-icon.png" alt="Save tool" title="Save tool" class="tool-icon" /></button></li>
+                    </ul>
+                    <ul id="object-tools" class="tool-list">
+                        <li><button id="tool-move" class="tool"><img src="img/placeholder-icon.png" alt="Move tool" title="Move tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-grow" class="tool"><img src="img/placeholder-icon.png" alt="Grow tool" title="Grow tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-shrink" class="tool"><img src="img/placeholder-icon.png" alt="Shrink tool" title="Shrink tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-rotate" class="tool"><img src="img/placeholder-icon.png" alt="Rotate tool" title="Rotate tool" class="tool-icon" /></button></li>
+                        <li><button id="tool-info" class="tool"><img src="img/placeholder-icon.png" alt="Info tool" title="Info tool" class="tool-icon" /></button></li>
+                    </ul>
+                  </nav>
+            </div>
+            <div id="canvas-section" class="section">
+                <div id="canvas" style="background-image: url(https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09400/4a09425v.jpg)"></div>
+                <div id="background-photo-credit">
+                    <p>Background photo from: <a href="https://www.loc.gov/resource/det.4a09425/">Pennsylvania Avenue, Washington</a></p>
+                </div>
+            </div>
+            <div id="photo-section" class="section">
+                <nav id="photo-menu" class="menu">
+                    <h2>Photos</h2>
+                    <!-- <label for="photo-select" class="visually-hidden">Select a photo category</label>
+                    <select id="photo-select">
+                        <option value="people" selected>People</option>
+                        <option value="cars">Cars</option>
+                        <option value="animals">Animals</option>
+                    </select> -->
+                    <button id="photo-shuffle">Shuffle photos</button>
+                    <ul id="photos" class="photo-list"></ul>
+                  </nav>
+            </div>
+        </div>
+        
+    </main>
+
+    <!-- LoC footer starts here -->
+    <footer class="loc-footer">
+        <p>Explore the Library of Congress DC Photo Collections through collage and creativity</p>
+        <ul class="loc-footer-nav-list">
+            <li><a href="#">Use of AI</a></li>  
+            <li><a href="https://github.com/libraryOfCongress/my-repo">Source code</a></li>  
+            <li><a href="https://www.loc.gov/">The Library of Congress</a></li>
+            <li><a href="https://loc.gov/legal">Privacy Policy</a></li>
+            <li><a href="https://www.loc.gov/accessibility/">Accessibilty</a></li>
+            <li><a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">Github Privacy Statement</a></li>
+            <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">License</a></li>
+            <li><a href="mailto:LC-Labs@loc.gov">Contact</a></li>
+        </ul>
+    </footer>
+    <!-- /LoC footer end here -->
+
+    <script src="js/init.js" type="module"></script>
+
+</body>
+
+</html>
