@@ -319,7 +319,7 @@
         "display_level": null,
         "distance": null,
         "downloadOption": null,
-        "duration": 0.8243145942687988,
+        "duration": 1.1508049964904785,
         "embed": [],
         "embed!": [],
         "excludeTerms": null,
@@ -379,7 +379,7 @@
         "suggested": null,
         "target": null,
         "template": "managed-content/layouts",
-        "timestamp": 1720516175.3547668,
+        "timestamp": 1720549809.6798246,
         "unionFacets": "",
         "webcast_permalink": null
     },
@@ -20765,7 +20765,7 @@
     "previous": null,
     "previous_sibling": null,
     "site_type": "free-to-use",
-    "timestamp": 1720516176179,
+    "timestamp": 1720549810830,
     "title": "Library of Congress Free to Use and Reuse",
     "type": "orientation-portal"
 }

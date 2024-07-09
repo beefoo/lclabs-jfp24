@@ -148,10 +148,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2022-01-02t10:07:26",
                     "93511941",
+                    "http://www.loc.gov/item/11622944",
                     "http://www.loc.gov/item/93511941",
-                    "http://www.loc.gov/item/11622944"
+                    "2022-01-02t10:07:26"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11622944",
@@ -172,9 +172,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "https://www.loc.gov/pictures/related/?&co=npco&pk=93511941&st=gallery&sb=call_number#focus"
@@ -194,9 +194,9 @@
                     "catalog"
                 ],
                 "subject": [
+                    "armour, tommy",
                     "portrait photographs",
-                    "photographic prints",
-                    "armour, tommy"
+                    "photographic prints"
                 ],
                 "timestamp": "2022-04-30T23:19:57.058Z",
                 "title": "Tom Armour wins U.S. golf title by defeating Harry Cooper",
@@ -300,8 +300,8 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/13534256",
                     "2009-10-23t17:24:30",
+                    "http://www.loc.gov/item/13534256",
                     "2004668297"
                 ],
                 "number_former_id": [
@@ -322,9 +322,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2004668297&st=gallery&sb=call_number#focus"
@@ -467,10 +467,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2013-04-08t13:59:58",
+                    "97518968",
                     "http://www.loc.gov/item/11705760",
                     "http://www.loc.gov/item/97518968",
-                    "97518968"
+                    "2013-04-08t13:59:58"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11705760",
@@ -491,9 +491,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97518968&st=gallery&sb=call_number#focus"
@@ -514,8 +514,8 @@
                 ],
                 "subject": [
                     "curtis, charles",
-                    "photographic prints",
-                    "portrait photographs"
+                    "portrait photographs",
+                    "photographic prints"
                 ],
                 "timestamp": "2022-04-30T23:23:26.979Z",
                 "title": "[Charles Curtis, 31st vice president, half-length portrait, facing front, standing on the Senate rostrum in the U.S. Capitol]",
@@ -664,11 +664,11 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/16517770",
-                    "2010651700",
-                    "2011-04-29t09:26:09",
                     "2013-04-08t14:00:59",
-                    "2010651699"
+                    "http://www.loc.gov/item/16517770",
+                    "2010651699",
+                    "2010651700",
+                    "2011-04-29t09:26:09"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/16517770"
@@ -690,9 +690,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2010651699&st=gallery&sb=call_number#focus"
@@ -718,17 +718,17 @@
                     "catalog"
                 ],
                 "subject": [
-                    "new york",
-                    "ships",
-                    "photographic prints",
-                    "group portraits",
-                    "portrait photographs",
-                    "new york (state)",
-                    "napier, trevylyan dacres willes",
                     "military officers",
-                    "ship captains",
+                    "napier, trevylyan dacres willes",
+                    "new york",
+                    "new york (state)",
+                    "group portraits",
+                    "daniels, josephus",
+                    "ships",
                     "hudson river (n.y. and n.j.)",
-                    "daniels, josephus"
+                    "photographic prints",
+                    "portrait photographs",
+                    "ship captains"
                 ],
                 "timestamp": "2022-04-30T18:38:01.049Z",
                 "title": "[Secretary of Navy Josephus Daniels (center) seated with Admiral [Trevylyan] Napier, R.N.; standing left to right: Capt. Blake of Naval Attache British Embassy, Admiral Long of U.S.N., Lt. Curzon-Howe, R.N., Com. Bevan, R.N., Com. Foote, U.S.N.]",
@@ -866,10 +866,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/12209909",
                     "http://www.loc.gov/item/00652544",
-                    "2016-08-27t16:21:32",
-                    "00652544"
+                    "http://www.loc.gov/item/12209909",
+                    "00652544",
+                    "2016-08-27t16:21:32"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/00652544",
@@ -890,10 +890,10 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
-                    "national photo company collection",
                     "prints and photographs division",
                     "prints & photographs online catalog (library of congress)",
-                    "american leaders speak: recordings from world war i"
+                    "american leaders speak: recordings from world war i",
+                    "national photo company collection"
                 ],
                 "resources": [
                     {
@@ -909,9 +909,9 @@
                     "pictures"
                 ],
                 "subject": [
-                    "portrait photographs",
+                    "de valera, \u00e9amon",
                     "photographic prints",
-                    "de valera, \u00e9amon"
+                    "portrait photographs"
                 ],
                 "timestamp": "2022-12-10T04:23:26.621Z",
                 "title": "[Eamonn De Valera, head-and-shoulders portrait, facing front]",
@@ -1022,10 +1022,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2009-10-16t09:30:58",
-                    "http://www.loc.gov/item/2002710466",
+                    "http://www.loc.gov/item/12759066",
                     "2002710466",
-                    "http://www.loc.gov/item/12759066"
+                    "2009-10-16t09:30:58",
+                    "http://www.loc.gov/item/2002710466"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/12759066",
@@ -1046,9 +1046,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002710466&st=gallery&sb=call_number#focus"
@@ -1192,10 +1192,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/11786449",
-                    "99471841",
                     "http://www.loc.gov/item/99471841",
-                    "2009-10-22t16:01:53"
+                    "99471841",
+                    "2009-10-22t16:01:53",
+                    "http://www.loc.gov/item/11786449"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11786449",
@@ -1216,9 +1216,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=99471841&st=gallery&sb=call_number#focus"
@@ -1238,9 +1238,9 @@
                     "catalog"
                 ],
                 "subject": [
-                    "hay, mary garrett",
+                    "portrait photographs",
                     "photographic prints",
-                    "portrait photographs"
+                    "hay, mary garrett"
                 ],
                 "timestamp": "2022-04-30T23:23:38.823Z",
                 "title": "Miss Mary Garrett Hay, treasurer of the Republican Women's National Executive Committee",
@@ -1366,8 +1366,8 @@
                     "image/tif"
                 ],
                 "number": [
-                    "96508832",
                     "2009-10-20t09:48:26",
+                    "96508832",
                     "http://www.loc.gov/item/11673789",
                     "http://www.loc.gov/item/96508832"
                 ],
@@ -1390,9 +1390,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508832&st=gallery&sb=call_number#focus"
@@ -1413,9 +1413,9 @@
                 ],
                 "subject": [
                     "family",
-                    "photographic prints",
                     "group portraits",
                     "portrait photographs",
+                    "photographic prints",
                     "hughes, charles evans"
                 ],
                 "timestamp": "2022-04-30T23:22:54.594Z",
@@ -1542,10 +1542,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/11525602",
                     "89709659",
-                    "http://www.loc.gov/item/89709659",
-                    "2009-10-20t09:48:52"
+                    "2009-10-20t09:48:52",
+                    "http://www.loc.gov/item/11525602",
+                    "http://www.loc.gov/item/89709659"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11525602",
@@ -1566,9 +1566,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=89709659&st=gallery&sb=call_number#focus"
@@ -1588,9 +1588,9 @@
                     "catalog"
                 ],
                 "subject": [
-                    "photographic prints",
                     "portrait photographs",
                     "group portraits",
+                    "photographic prints",
                     "hughes, charles evans"
                 ],
                 "timestamp": "2022-04-30T23:16:42.793Z",
@@ -1713,9 +1713,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003680152&st=gallery&sb=call_number#focus"
@@ -1856,8 +1856,8 @@
                 ],
                 "number": [
                     "http://www.loc.gov/item/98507080",
-                    "http://www.loc.gov/item/11714323",
                     "2009-10-20t09:49:19",
+                    "http://www.loc.gov/item/11714323",
                     "98507080"
                 ],
                 "number_former_id": [
@@ -1879,9 +1879,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=98507080&st=gallery&sb=call_number#focus"
@@ -1902,9 +1902,9 @@
                 ],
                 "subject": [
                     "family",
+                    "portrait photographs",
                     "photographic prints",
-                    "hughes, charles evans",
-                    "portrait photographs"
+                    "hughes, charles evans"
                 ],
                 "timestamp": "2022-04-30T23:23:26.979Z",
                 "title": "[Charles Evans Hughes, wife, and daughter, standing on lawn]",
@@ -2004,8 +2004,8 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2006681388",
                     "2006-05-10t13:13:05",
+                    "2006681388",
                     "http://www.loc.gov/item/14352563"
                 ],
                 "number_former_id": [
@@ -2026,9 +2026,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2006681388&st=gallery&sb=call_number#focus"
@@ -2166,10 +2166,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "97502654",
-                    "http://www.loc.gov/item/97502654",
+                    "2014-10-25t21:32:44",
                     "http://www.loc.gov/item/11691175",
-                    "2014-10-25t21:32:44"
+                    "97502654",
+                    "http://www.loc.gov/item/97502654"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11691175",
@@ -2190,9 +2190,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97502654&st=gallery&sb=call_number#focus"
@@ -2212,10 +2212,10 @@
                     "catalog"
                 ],
                 "subject": [
-                    "photographic prints",
                     "cornerstones",
-                    "hughes, charles evans",
-                    "cornerstone laying"
+                    "photographic prints",
+                    "cornerstone laying",
+                    "hughes, charles evans"
                 ],
                 "timestamp": "2022-04-30T23:23:26.979Z",
                 "title": "[Charles Evans Hughes, laying cornerstone for National Baptist Memorial Church at 16th & Columbia Rd. NW, Washington, DC]",
@@ -2316,8 +2316,8 @@
                 ],
                 "number": [
                     "2009-10-27t16:16:27",
-                    "2003669736",
-                    "http://www.loc.gov/item/13186475"
+                    "http://www.loc.gov/item/13186475",
+                    "2003669736"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/13186475"
@@ -2337,9 +2337,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003669736&st=gallery&sb=call_number#focus"
@@ -2461,11 +2461,11 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2009-11-09t14:26:27",
-                    "http://www.loc.gov/item/12687582",
-                    "http://www.loc.gov/item/2002705621",
                     "http://www.loc.gov/item/3563",
-                    "2002705621"
+                    "2002705621",
+                    "http://www.loc.gov/item/2002705621",
+                    "http://www.loc.gov/item/12687582",
+                    "2009-11-09t14:26:27"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/12687582",
@@ -2487,9 +2487,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705621&st=gallery&sb=call_number#focus"
@@ -2628,10 +2628,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2009-10-23t17:08:15",
-                    "http://www.loc.gov/item/11673543",
                     "96508557",
-                    "http://www.loc.gov/item/96508557"
+                    "http://www.loc.gov/item/96508557",
+                    "http://www.loc.gov/item/11673543",
+                    "2009-10-23t17:08:15"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11673543",
@@ -2652,9 +2652,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508557&st=gallery&sb=call_number#focus"
@@ -2675,9 +2675,9 @@
                 ],
                 "subject": [
                     "portrait photographs",
+                    "kellogg, frank b.",
                     "photographic prints",
-                    "(frank billings)",
-                    "kellogg, frank b."
+                    "(frank billings)"
                 ],
                 "timestamp": "2022-04-30T23:22:54.594Z",
                 "title": "[Frank Billings Kellogg, three-quarter length portrait, seated, facing left, holding eyeglasses]",
@@ -2778,9 +2778,9 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2005-07-25t13:44:19",
                     "http://www.loc.gov/item/14037064",
-                    "2005690021"
+                    "2005690021",
+                    "2005-07-25t13:44:19"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/14037064"
@@ -2800,9 +2800,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2005690021&st=gallery&sb=call_number#focus"
@@ -2923,8 +2923,8 @@
                 ],
                 "number": [
                     "2009-10-22t08:25:06",
-                    "http://www.loc.gov/item/13001523",
-                    "2002724022"
+                    "2002724022",
+                    "http://www.loc.gov/item/13001523"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/13001523"
@@ -2944,9 +2944,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002724022&st=gallery&sb=call_number#focus"
@@ -3062,8 +3062,8 @@
                 ],
                 "number": [
                     "http://www.loc.gov/item/13172606",
-                    "2009-10-26t09:31:44",
-                    "2003666590"
+                    "2003666590",
+                    "2009-10-26t09:31:44"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/13172606"
@@ -3083,9 +3083,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666590&st=gallery&sb=call_number#focus"
@@ -3201,8 +3201,8 @@
                 ],
                 "number": [
                     "2003666591",
-                    "2009-10-27t16:22:16",
-                    "http://www.loc.gov/item/13172610"
+                    "http://www.loc.gov/item/13172610",
+                    "2009-10-27t16:22:16"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/13172610"
@@ -3222,9 +3222,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666591&st=gallery&sb=call_number#focus"
@@ -3371,9 +3371,9 @@
                 ],
                 "number": [
                     "95512849",
-                    "2009-10-29t09:26:56",
+                    "http://www.loc.gov/item/11654138",
                     "http://www.loc.gov/item/95512849",
-                    "http://www.loc.gov/item/11654138"
+                    "2009-10-29t09:26:56"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11654138",
@@ -3394,9 +3394,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512849&st=gallery&sb=call_number#focus"
@@ -3416,11 +3416,11 @@
                     "catalog"
                 ],
                 "subject": [
+                    "nuorteva, santeri",
                     "martens, lyudvig karlovich",
-                    "photographic prints",
                     "group portraits",
                     "portrait photographs",
-                    "nuorteva, santeri"
+                    "photographic prints"
                 ],
                 "timestamp": "2022-04-30T23:22:54.594Z",
                 "title": "[Lyudvig Martens (left) and his secretary, Mr. S. Nuorteva(right), posed standing, full-length, facing front]",
@@ -3551,10 +3551,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/95512864",
-                    "http://www.loc.gov/item/11654151",
                     "95512864",
-                    "2009-10-29t09:25:13"
+                    "2009-10-29t09:25:13",
+                    "http://www.loc.gov/item/95512864",
+                    "http://www.loc.gov/item/11654151"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/11654151",
@@ -3575,9 +3575,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512864&st=gallery&sb=call_number#focus"
@@ -3597,12 +3597,12 @@
                     "catalog"
                 ],
                 "subject": [
-                    "motion picture cameras",
+                    "nuorteva, santeri",
                     "martens, lyudvig karlovich",
                     "group portraits",
                     "photographic prints",
                     "portrait photographs",
-                    "nuorteva, santeri"
+                    "motion picture cameras"
                 ],
                 "timestamp": "2022-04-30T23:22:54.594Z",
                 "title": "[Ludwig Martens (right), representative of the Soviet government, with his secretary, Mr. S. Nuorteva (left), and Madam Nuorteva, posed on roof, for motion picture camera crew]",
@@ -3703,9 +3703,9 @@
                     "image/tif"
                 ],
                 "number": [
-                    "http://www.loc.gov/item/13114072",
+                    "2009-10-22t10:50:14",
                     "2003662267",
-                    "2009-10-22t10:50:14"
+                    "http://www.loc.gov/item/13114072"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/13114072"
@@ -3725,9 +3725,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003662267&st=gallery&sb=call_number#focus"
@@ -3853,11 +3853,11 @@
                     "image/tif"
                 ],
                 "number": [
-                    "2009-10-22t15:58:56",
-                    "http://www.loc.gov/item/2002705861",
-                    "http://www.loc.gov/item/12689920",
                     "2002705861",
-                    "http://www.loc.gov/item/5168"
+                    "2009-10-22t15:58:56",
+                    "http://www.loc.gov/item/5168",
+                    "http://www.loc.gov/item/2002705861",
+                    "http://www.loc.gov/item/12689920"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/12689920",
@@ -3879,9 +3879,9 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
+                    "prints and photographs division",
                     "national photo company collection",
-                    "prints & photographs online catalog (library of congress)",
-                    "prints and photographs division"
+                    "prints & photographs online catalog (library of congress)"
                 ],
                 "related": {
                     "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705861&st=gallery&sb=call_number#focus"
@@ -4036,10 +4036,10 @@
                     "image/tif"
                 ],
                 "number": [
-                    "00652557",
+                    "http://www.loc.gov/item/00652557",
                     "2016-04-12t08:05:25",
                     "http://www.loc.gov/item/12210787",
-                    "http://www.loc.gov/item/00652557"
+                    "00652557"
                 ],
                 "number_former_id": [
                     "http://www.loc.gov/item/00652557",
@@ -4060,10 +4060,10 @@
                 "other_title": [],
                 "partof": [
                     "catalog",
-                    "national photo company collection",
                     "prints and photographs division",
                     "prints & photographs online catalog (library of congress)",
-                    "american leaders speak: recordings from world war i"
+                    "american leaders speak: recordings from world war i",
+                    "national photo company collection"
                 ],
                 "resources": [
                     {
@@ -4080,8 +4080,8 @@
                 ],
                 "subject": [
                     "photographic prints",
-                    "portrait photographs",
-                    "poindexter, miles"
+                    "poindexter, miles",
+                    "portrait photographs"
                 ],
                 "timestamp": "2022-12-10T04:23:26.621Z",
                 "title": "[Miles Poindexter, three-quarter length portrait, seated at desk, facing left]",
@@ -4712,7 +4712,7 @@
         "display_level": null,
         "distance": null,
         "downloadOption": null,
-        "duration": 0.36785149574279785,
+        "duration": 0.32787346839904785,
         "embed": [],
         "embed!": [],
         "excludeTerms": null,
@@ -4772,7 +4772,7 @@
         "suggested": null,
         "target": null,
         "template": "search/base",
-        "timestamp": 1720538438.3963983,
+        "timestamp": 1720551992.4595904,
         "unionFacets": "",
         "webcast_permalink": null
     },
@@ -4947,10 +4947,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2022-01-02t10:07:26",
                                 "93511941",
+                                "http://www.loc.gov/item/11622944",
                                 "http://www.loc.gov/item/93511941",
-                                "http://www.loc.gov/item/11622944"
+                                "2022-01-02t10:07:26"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11622944",
@@ -4971,9 +4971,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "https://www.loc.gov/pictures/related/?&co=npco&pk=93511941&st=gallery&sb=call_number#focus"
@@ -4993,9 +4993,9 @@
                                 "catalog"
                             ],
                             "subject": [
+                                "armour, tommy",
                                 "portrait photographs",
-                                "photographic prints",
-                                "armour, tommy"
+                                "photographic prints"
                             ],
                             "timestamp": "2022-04-30T23:19:57.058Z",
                             "title": "Tom Armour wins U.S. golf title by defeating Harry Cooper",
@@ -5099,8 +5099,8 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/13534256",
                                 "2009-10-23t17:24:30",
+                                "http://www.loc.gov/item/13534256",
                                 "2004668297"
                             ],
                             "number_former_id": [
@@ -5121,9 +5121,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2004668297&st=gallery&sb=call_number#focus"
@@ -5266,10 +5266,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2013-04-08t13:59:58",
+                                "97518968",
                                 "http://www.loc.gov/item/11705760",
                                 "http://www.loc.gov/item/97518968",
-                                "97518968"
+                                "2013-04-08t13:59:58"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11705760",
@@ -5290,9 +5290,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97518968&st=gallery&sb=call_number#focus"
@@ -5313,8 +5313,8 @@
                             ],
                             "subject": [
                                 "curtis, charles",
-                                "photographic prints",
-                                "portrait photographs"
+                                "portrait photographs",
+                                "photographic prints"
                             ],
                             "timestamp": "2022-04-30T23:23:26.979Z",
                             "title": "[Charles Curtis, 31st vice president, half-length portrait, facing front, standing on the Senate rostrum in the U.S. Capitol]",
@@ -5463,11 +5463,11 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/16517770",
-                                "2010651700",
-                                "2011-04-29t09:26:09",
                                 "2013-04-08t14:00:59",
-                                "2010651699"
+                                "http://www.loc.gov/item/16517770",
+                                "2010651699",
+                                "2010651700",
+                                "2011-04-29t09:26:09"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/16517770"
@@ -5489,9 +5489,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2010651699&st=gallery&sb=call_number#focus"
@@ -5517,17 +5517,17 @@
                                 "catalog"
                             ],
                             "subject": [
-                                "new york",
-                                "ships",
-                                "photographic prints",
-                                "group portraits",
-                                "portrait photographs",
-                                "new york (state)",
-                                "napier, trevylyan dacres willes",
                                 "military officers",
-                                "ship captains",
+                                "napier, trevylyan dacres willes",
+                                "new york",
+                                "new york (state)",
+                                "group portraits",
+                                "daniels, josephus",
+                                "ships",
                                 "hudson river (n.y. and n.j.)",
-                                "daniels, josephus"
+                                "photographic prints",
+                                "portrait photographs",
+                                "ship captains"
                             ],
                             "timestamp": "2022-04-30T18:38:01.049Z",
                             "title": "[Secretary of Navy Josephus Daniels (center) seated with Admiral [Trevylyan] Napier, R.N.; standing left to right: Capt. Blake of Naval Attache British Embassy, Admiral Long of U.S.N., Lt. Curzon-Howe, R.N., Com. Bevan, R.N., Com. Foote, U.S.N.]",
@@ -5665,10 +5665,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/12209909",
                                 "http://www.loc.gov/item/00652544",
-                                "2016-08-27t16:21:32",
-                                "00652544"
+                                "http://www.loc.gov/item/12209909",
+                                "00652544",
+                                "2016-08-27t16:21:32"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/00652544",
@@ -5689,10 +5689,10 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
-                                "national photo company collection",
                                 "prints and photographs division",
                                 "prints & photographs online catalog (library of congress)",
-                                "american leaders speak: recordings from world war i"
+                                "american leaders speak: recordings from world war i",
+                                "national photo company collection"
                             ],
                             "resources": [
                                 {
@@ -5708,9 +5708,9 @@
                                 "pictures"
                             ],
                             "subject": [
-                                "portrait photographs",
+                                "de valera, \u00e9amon",
                                 "photographic prints",
-                                "de valera, \u00e9amon"
+                                "portrait photographs"
                             ],
                             "timestamp": "2022-12-10T04:23:26.621Z",
                             "title": "[Eamonn De Valera, head-and-shoulders portrait, facing front]",
@@ -5821,10 +5821,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2009-10-16t09:30:58",
-                                "http://www.loc.gov/item/2002710466",
+                                "http://www.loc.gov/item/12759066",
                                 "2002710466",
-                                "http://www.loc.gov/item/12759066"
+                                "2009-10-16t09:30:58",
+                                "http://www.loc.gov/item/2002710466"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/12759066",
@@ -5845,9 +5845,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002710466&st=gallery&sb=call_number#focus"
@@ -5991,10 +5991,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/11786449",
-                                "99471841",
                                 "http://www.loc.gov/item/99471841",
-                                "2009-10-22t16:01:53"
+                                "99471841",
+                                "2009-10-22t16:01:53",
+                                "http://www.loc.gov/item/11786449"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11786449",
@@ -6015,9 +6015,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=99471841&st=gallery&sb=call_number#focus"
@@ -6037,9 +6037,9 @@
                                 "catalog"
                             ],
                             "subject": [
-                                "hay, mary garrett",
+                                "portrait photographs",
                                 "photographic prints",
-                                "portrait photographs"
+                                "hay, mary garrett"
                             ],
                             "timestamp": "2022-04-30T23:23:38.823Z",
                             "title": "Miss Mary Garrett Hay, treasurer of the Republican Women's National Executive Committee",
@@ -6165,8 +6165,8 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "96508832",
                                 "2009-10-20t09:48:26",
+                                "96508832",
                                 "http://www.loc.gov/item/11673789",
                                 "http://www.loc.gov/item/96508832"
                             ],
@@ -6189,9 +6189,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508832&st=gallery&sb=call_number#focus"
@@ -6212,9 +6212,9 @@
                             ],
                             "subject": [
                                 "family",
-                                "photographic prints",
                                 "group portraits",
                                 "portrait photographs",
+                                "photographic prints",
                                 "hughes, charles evans"
                             ],
                             "timestamp": "2022-04-30T23:22:54.594Z",
@@ -6341,10 +6341,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/11525602",
                                 "89709659",
-                                "http://www.loc.gov/item/89709659",
-                                "2009-10-20t09:48:52"
+                                "2009-10-20t09:48:52",
+                                "http://www.loc.gov/item/11525602",
+                                "http://www.loc.gov/item/89709659"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11525602",
@@ -6365,9 +6365,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=89709659&st=gallery&sb=call_number#focus"
@@ -6387,9 +6387,9 @@
                                 "catalog"
                             ],
                             "subject": [
-                                "photographic prints",
                                 "portrait photographs",
                                 "group portraits",
+                                "photographic prints",
                                 "hughes, charles evans"
                             ],
                             "timestamp": "2022-04-30T23:16:42.793Z",
@@ -6512,9 +6512,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003680152&st=gallery&sb=call_number#focus"
@@ -6655,8 +6655,8 @@
                             ],
                             "number": [
                                 "http://www.loc.gov/item/98507080",
-                                "http://www.loc.gov/item/11714323",
                                 "2009-10-20t09:49:19",
+                                "http://www.loc.gov/item/11714323",
                                 "98507080"
                             ],
                             "number_former_id": [
@@ -6678,9 +6678,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=98507080&st=gallery&sb=call_number#focus"
@@ -6701,9 +6701,9 @@
                             ],
                             "subject": [
                                 "family",
+                                "portrait photographs",
                                 "photographic prints",
-                                "hughes, charles evans",
-                                "portrait photographs"
+                                "hughes, charles evans"
                             ],
                             "timestamp": "2022-04-30T23:23:26.979Z",
                             "title": "[Charles Evans Hughes, wife, and daughter, standing on lawn]",
@@ -6803,8 +6803,8 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2006681388",
                                 "2006-05-10t13:13:05",
+                                "2006681388",
                                 "http://www.loc.gov/item/14352563"
                             ],
                             "number_former_id": [
@@ -6825,9 +6825,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2006681388&st=gallery&sb=call_number#focus"
@@ -6965,10 +6965,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "97502654",
-                                "http://www.loc.gov/item/97502654",
+                                "2014-10-25t21:32:44",
                                 "http://www.loc.gov/item/11691175",
-                                "2014-10-25t21:32:44"
+                                "97502654",
+                                "http://www.loc.gov/item/97502654"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11691175",
@@ -6989,9 +6989,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97502654&st=gallery&sb=call_number#focus"
@@ -7011,10 +7011,10 @@
                                 "catalog"
                             ],
                             "subject": [
-                                "photographic prints",
                                 "cornerstones",
-                                "hughes, charles evans",
-                                "cornerstone laying"
+                                "photographic prints",
+                                "cornerstone laying",
+                                "hughes, charles evans"
                             ],
                             "timestamp": "2022-04-30T23:23:26.979Z",
                             "title": "[Charles Evans Hughes, laying cornerstone for National Baptist Memorial Church at 16th & Columbia Rd. NW, Washington, DC]",
@@ -7115,8 +7115,8 @@
                             ],
                             "number": [
                                 "2009-10-27t16:16:27",
-                                "2003669736",
-                                "http://www.loc.gov/item/13186475"
+                                "http://www.loc.gov/item/13186475",
+                                "2003669736"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/13186475"
@@ -7136,9 +7136,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003669736&st=gallery&sb=call_number#focus"
@@ -7260,11 +7260,11 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2009-11-09t14:26:27",
-                                "http://www.loc.gov/item/12687582",
-                                "http://www.loc.gov/item/2002705621",
                                 "http://www.loc.gov/item/3563",
-                                "2002705621"
+                                "2002705621",
+                                "http://www.loc.gov/item/2002705621",
+                                "http://www.loc.gov/item/12687582",
+                                "2009-11-09t14:26:27"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/12687582",
@@ -7286,9 +7286,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705621&st=gallery&sb=call_number#focus"
@@ -7427,10 +7427,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2009-10-23t17:08:15",
-                                "http://www.loc.gov/item/11673543",
                                 "96508557",
-                                "http://www.loc.gov/item/96508557"
+                                "http://www.loc.gov/item/96508557",
+                                "http://www.loc.gov/item/11673543",
+                                "2009-10-23t17:08:15"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11673543",
@@ -7451,9 +7451,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508557&st=gallery&sb=call_number#focus"
@@ -7474,9 +7474,9 @@
                             ],
                             "subject": [
                                 "portrait photographs",
+                                "kellogg, frank b.",
                                 "photographic prints",
-                                "(frank billings)",
-                                "kellogg, frank b."
+                                "(frank billings)"
                             ],
                             "timestamp": "2022-04-30T23:22:54.594Z",
                             "title": "[Frank Billings Kellogg, three-quarter length portrait, seated, facing left, holding eyeglasses]",
@@ -7577,9 +7577,9 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2005-07-25t13:44:19",
                                 "http://www.loc.gov/item/14037064",
-                                "2005690021"
+                                "2005690021",
+                                "2005-07-25t13:44:19"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/14037064"
@@ -7599,9 +7599,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2005690021&st=gallery&sb=call_number#focus"
@@ -7722,8 +7722,8 @@
                             ],
                             "number": [
                                 "2009-10-22t08:25:06",
-                                "http://www.loc.gov/item/13001523",
-                                "2002724022"
+                                "2002724022",
+                                "http://www.loc.gov/item/13001523"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/13001523"
@@ -7743,9 +7743,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002724022&st=gallery&sb=call_number#focus"
@@ -7861,8 +7861,8 @@
                             ],
                             "number": [
                                 "http://www.loc.gov/item/13172606",
-                                "2009-10-26t09:31:44",
-                                "2003666590"
+                                "2003666590",
+                                "2009-10-26t09:31:44"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/13172606"
@@ -7882,9 +7882,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666590&st=gallery&sb=call_number#focus"
@@ -8000,8 +8000,8 @@
                             ],
                             "number": [
                                 "2003666591",
-                                "2009-10-27t16:22:16",
-                                "http://www.loc.gov/item/13172610"
+                                "http://www.loc.gov/item/13172610",
+                                "2009-10-27t16:22:16"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/13172610"
@@ -8021,9 +8021,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666591&st=gallery&sb=call_number#focus"
@@ -8170,9 +8170,9 @@
                             ],
                             "number": [
                                 "95512849",
-                                "2009-10-29t09:26:56",
+                                "http://www.loc.gov/item/11654138",
                                 "http://www.loc.gov/item/95512849",
-                                "http://www.loc.gov/item/11654138"
+                                "2009-10-29t09:26:56"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11654138",
@@ -8193,9 +8193,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512849&st=gallery&sb=call_number#focus"
@@ -8215,11 +8215,11 @@
                                 "catalog"
                             ],
                             "subject": [
+                                "nuorteva, santeri",
                                 "martens, lyudvig karlovich",
-                                "photographic prints",
                                 "group portraits",
                                 "portrait photographs",
-                                "nuorteva, santeri"
+                                "photographic prints"
                             ],
                             "timestamp": "2022-04-30T23:22:54.594Z",
                             "title": "[Lyudvig Martens (left) and his secretary, Mr. S. Nuorteva(right), posed standing, full-length, facing front]",
@@ -8350,10 +8350,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/95512864",
-                                "http://www.loc.gov/item/11654151",
                                 "95512864",
-                                "2009-10-29t09:25:13"
+                                "2009-10-29t09:25:13",
+                                "http://www.loc.gov/item/95512864",
+                                "http://www.loc.gov/item/11654151"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/11654151",
@@ -8374,9 +8374,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512864&st=gallery&sb=call_number#focus"
@@ -8396,12 +8396,12 @@
                                 "catalog"
                             ],
                             "subject": [
-                                "motion picture cameras",
+                                "nuorteva, santeri",
                                 "martens, lyudvig karlovich",
                                 "group portraits",
                                 "photographic prints",
                                 "portrait photographs",
-                                "nuorteva, santeri"
+                                "motion picture cameras"
                             ],
                             "timestamp": "2022-04-30T23:22:54.594Z",
                             "title": "[Ludwig Martens (right), representative of the Soviet government, with his secretary, Mr. S. Nuorteva (left), and Madam Nuorteva, posed on roof, for motion picture camera crew]",
@@ -8502,9 +8502,9 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "http://www.loc.gov/item/13114072",
+                                "2009-10-22t10:50:14",
                                 "2003662267",
-                                "2009-10-22t10:50:14"
+                                "http://www.loc.gov/item/13114072"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/13114072"
@@ -8524,9 +8524,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003662267&st=gallery&sb=call_number#focus"
@@ -8652,11 +8652,11 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "2009-10-22t15:58:56",
-                                "http://www.loc.gov/item/2002705861",
-                                "http://www.loc.gov/item/12689920",
                                 "2002705861",
-                                "http://www.loc.gov/item/5168"
+                                "2009-10-22t15:58:56",
+                                "http://www.loc.gov/item/5168",
+                                "http://www.loc.gov/item/2002705861",
+                                "http://www.loc.gov/item/12689920"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/12689920",
@@ -8678,9 +8678,9 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
+                                "prints and photographs division",
                                 "national photo company collection",
-                                "prints & photographs online catalog (library of congress)",
-                                "prints and photographs division"
+                                "prints & photographs online catalog (library of congress)"
                             ],
                             "related": {
                                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705861&st=gallery&sb=call_number#focus"
@@ -8835,10 +8835,10 @@
                                 "image/tif"
                             ],
                             "number": [
-                                "00652557",
+                                "http://www.loc.gov/item/00652557",
                                 "2016-04-12t08:05:25",
                                 "http://www.loc.gov/item/12210787",
-                                "http://www.loc.gov/item/00652557"
+                                "00652557"
                             ],
                             "number_former_id": [
                                 "http://www.loc.gov/item/00652557",
@@ -8859,10 +8859,10 @@
                             "other_title": [],
                             "partof": [
                                 "catalog",
-                                "national photo company collection",
                                 "prints and photographs division",
                                 "prints & photographs online catalog (library of congress)",
-                                "american leaders speak: recordings from world war i"
+                                "american leaders speak: recordings from world war i",
+                                "national photo company collection"
                             ],
                             "resources": [
                                 {
@@ -8879,8 +8879,8 @@
                             ],
                             "subject": [
                                 "photographic prints",
-                                "portrait photographs",
-                                "poindexter, miles"
+                                "poindexter, miles",
+                                "portrait photographs"
                             ],
                             "timestamp": "2022-12-10T04:23:26.621Z",
                             "title": "[Miles Poindexter, three-quarter length portrait, seated at desk, facing left]",
@@ -9148,10 +9148,10 @@
                 "image/tif"
             ],
             "number": [
-                "2022-01-02t10:07:26",
                 "93511941",
+                "http://www.loc.gov/item/11622944",
                 "http://www.loc.gov/item/93511941",
-                "http://www.loc.gov/item/11622944"
+                "2022-01-02t10:07:26"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11622944",
@@ -9172,9 +9172,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "https://www.loc.gov/pictures/related/?&co=npco&pk=93511941&st=gallery&sb=call_number#focus"
@@ -9194,9 +9194,9 @@
                 "catalog"
             ],
             "subject": [
+                "armour, tommy",
                 "portrait photographs",
-                "photographic prints",
-                "armour, tommy"
+                "photographic prints"
             ],
             "timestamp": "2022-04-30T23:19:57.058Z",
             "title": "Tom Armour wins U.S. golf title by defeating Harry Cooper",
@@ -9300,8 +9300,8 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/13534256",
                 "2009-10-23t17:24:30",
+                "http://www.loc.gov/item/13534256",
                 "2004668297"
             ],
             "number_former_id": [
@@ -9322,9 +9322,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2004668297&st=gallery&sb=call_number#focus"
@@ -9467,10 +9467,10 @@
                 "image/tif"
             ],
             "number": [
-                "2013-04-08t13:59:58",
+                "97518968",
                 "http://www.loc.gov/item/11705760",
                 "http://www.loc.gov/item/97518968",
-                "97518968"
+                "2013-04-08t13:59:58"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11705760",
@@ -9491,9 +9491,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97518968&st=gallery&sb=call_number#focus"
@@ -9514,8 +9514,8 @@
             ],
             "subject": [
                 "curtis, charles",
-                "photographic prints",
-                "portrait photographs"
+                "portrait photographs",
+                "photographic prints"
             ],
             "timestamp": "2022-04-30T23:23:26.979Z",
             "title": "[Charles Curtis, 31st vice president, half-length portrait, facing front, standing on the Senate rostrum in the U.S. Capitol]",
@@ -9664,11 +9664,11 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/16517770",
-                "2010651700",
-                "2011-04-29t09:26:09",
                 "2013-04-08t14:00:59",
-                "2010651699"
+                "http://www.loc.gov/item/16517770",
+                "2010651699",
+                "2010651700",
+                "2011-04-29t09:26:09"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/16517770"
@@ -9690,9 +9690,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2010651699&st=gallery&sb=call_number#focus"
@@ -9718,17 +9718,17 @@
                 "catalog"
             ],
             "subject": [
-                "new york",
-                "ships",
-                "photographic prints",
-                "group portraits",
-                "portrait photographs",
-                "new york (state)",
-                "napier, trevylyan dacres willes",
                 "military officers",
-                "ship captains",
+                "napier, trevylyan dacres willes",
+                "new york",
+                "new york (state)",
+                "group portraits",
+                "daniels, josephus",
+                "ships",
                 "hudson river (n.y. and n.j.)",
-                "daniels, josephus"
+                "photographic prints",
+                "portrait photographs",
+                "ship captains"
             ],
             "timestamp": "2022-04-30T18:38:01.049Z",
             "title": "[Secretary of Navy Josephus Daniels (center) seated with Admiral [Trevylyan] Napier, R.N.; standing left to right: Capt. Blake of Naval Attache British Embassy, Admiral Long of U.S.N., Lt. Curzon-Howe, R.N., Com. Bevan, R.N., Com. Foote, U.S.N.]",
@@ -9866,10 +9866,10 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/12209909",
                 "http://www.loc.gov/item/00652544",
-                "2016-08-27t16:21:32",
-                "00652544"
+                "http://www.loc.gov/item/12209909",
+                "00652544",
+                "2016-08-27t16:21:32"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/00652544",
@@ -9890,10 +9890,10 @@
             "other_title": [],
             "partof": [
                 "catalog",
-                "national photo company collection",
                 "prints and photographs division",
                 "prints & photographs online catalog (library of congress)",
-                "american leaders speak: recordings from world war i"
+                "american leaders speak: recordings from world war i",
+                "national photo company collection"
             ],
             "resources": [
                 {
@@ -9909,9 +9909,9 @@
                 "pictures"
             ],
             "subject": [
-                "portrait photographs",
+                "de valera, \u00e9amon",
                 "photographic prints",
-                "de valera, \u00e9amon"
+                "portrait photographs"
             ],
             "timestamp": "2022-12-10T04:23:26.621Z",
             "title": "[Eamonn De Valera, head-and-shoulders portrait, facing front]",
@@ -10022,10 +10022,10 @@
                 "image/tif"
             ],
             "number": [
-                "2009-10-16t09:30:58",
-                "http://www.loc.gov/item/2002710466",
+                "http://www.loc.gov/item/12759066",
                 "2002710466",
-                "http://www.loc.gov/item/12759066"
+                "2009-10-16t09:30:58",
+                "http://www.loc.gov/item/2002710466"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/12759066",
@@ -10046,9 +10046,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002710466&st=gallery&sb=call_number#focus"
@@ -10192,10 +10192,10 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/11786449",
-                "99471841",
                 "http://www.loc.gov/item/99471841",
-                "2009-10-22t16:01:53"
+                "99471841",
+                "2009-10-22t16:01:53",
+                "http://www.loc.gov/item/11786449"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11786449",
@@ -10216,9 +10216,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=99471841&st=gallery&sb=call_number#focus"
@@ -10238,9 +10238,9 @@
                 "catalog"
             ],
             "subject": [
-                "hay, mary garrett",
+                "portrait photographs",
                 "photographic prints",
-                "portrait photographs"
+                "hay, mary garrett"
             ],
             "timestamp": "2022-04-30T23:23:38.823Z",
             "title": "Miss Mary Garrett Hay, treasurer of the Republican Women's National Executive Committee",
@@ -10366,8 +10366,8 @@
                 "image/tif"
             ],
             "number": [
-                "96508832",
                 "2009-10-20t09:48:26",
+                "96508832",
                 "http://www.loc.gov/item/11673789",
                 "http://www.loc.gov/item/96508832"
             ],
@@ -10390,9 +10390,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508832&st=gallery&sb=call_number#focus"
@@ -10413,9 +10413,9 @@
             ],
             "subject": [
                 "family",
-                "photographic prints",
                 "group portraits",
                 "portrait photographs",
+                "photographic prints",
                 "hughes, charles evans"
             ],
             "timestamp": "2022-04-30T23:22:54.594Z",
@@ -10542,10 +10542,10 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/11525602",
                 "89709659",
-                "http://www.loc.gov/item/89709659",
-                "2009-10-20t09:48:52"
+                "2009-10-20t09:48:52",
+                "http://www.loc.gov/item/11525602",
+                "http://www.loc.gov/item/89709659"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11525602",
@@ -10566,9 +10566,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=89709659&st=gallery&sb=call_number#focus"
@@ -10588,9 +10588,9 @@
                 "catalog"
             ],
             "subject": [
-                "photographic prints",
                 "portrait photographs",
                 "group portraits",
+                "photographic prints",
                 "hughes, charles evans"
             ],
             "timestamp": "2022-04-30T23:16:42.793Z",
@@ -10713,9 +10713,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003680152&st=gallery&sb=call_number#focus"
@@ -10856,8 +10856,8 @@
             ],
             "number": [
                 "http://www.loc.gov/item/98507080",
-                "http://www.loc.gov/item/11714323",
                 "2009-10-20t09:49:19",
+                "http://www.loc.gov/item/11714323",
                 "98507080"
             ],
             "number_former_id": [
@@ -10879,9 +10879,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=98507080&st=gallery&sb=call_number#focus"
@@ -10902,9 +10902,9 @@
             ],
             "subject": [
                 "family",
+                "portrait photographs",
                 "photographic prints",
-                "hughes, charles evans",
-                "portrait photographs"
+                "hughes, charles evans"
             ],
             "timestamp": "2022-04-30T23:23:26.979Z",
             "title": "[Charles Evans Hughes, wife, and daughter, standing on lawn]",
@@ -11004,8 +11004,8 @@
                 "image/tif"
             ],
             "number": [
-                "2006681388",
                 "2006-05-10t13:13:05",
+                "2006681388",
                 "http://www.loc.gov/item/14352563"
             ],
             "number_former_id": [
@@ -11026,9 +11026,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2006681388&st=gallery&sb=call_number#focus"
@@ -11166,10 +11166,10 @@
                 "image/tif"
             ],
             "number": [
-                "97502654",
-                "http://www.loc.gov/item/97502654",
+                "2014-10-25t21:32:44",
                 "http://www.loc.gov/item/11691175",
-                "2014-10-25t21:32:44"
+                "97502654",
+                "http://www.loc.gov/item/97502654"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11691175",
@@ -11190,9 +11190,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=97502654&st=gallery&sb=call_number#focus"
@@ -11212,10 +11212,10 @@
                 "catalog"
             ],
             "subject": [
-                "photographic prints",
                 "cornerstones",
-                "hughes, charles evans",
-                "cornerstone laying"
+                "photographic prints",
+                "cornerstone laying",
+                "hughes, charles evans"
             ],
             "timestamp": "2022-04-30T23:23:26.979Z",
             "title": "[Charles Evans Hughes, laying cornerstone for National Baptist Memorial Church at 16th & Columbia Rd. NW, Washington, DC]",
@@ -11316,8 +11316,8 @@
             ],
             "number": [
                 "2009-10-27t16:16:27",
-                "2003669736",
-                "http://www.loc.gov/item/13186475"
+                "http://www.loc.gov/item/13186475",
+                "2003669736"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/13186475"
@@ -11337,9 +11337,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003669736&st=gallery&sb=call_number#focus"
@@ -11461,11 +11461,11 @@
                 "image/tif"
             ],
             "number": [
-                "2009-11-09t14:26:27",
-                "http://www.loc.gov/item/12687582",
-                "http://www.loc.gov/item/2002705621",
                 "http://www.loc.gov/item/3563",
-                "2002705621"
+                "2002705621",
+                "http://www.loc.gov/item/2002705621",
+                "http://www.loc.gov/item/12687582",
+                "2009-11-09t14:26:27"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/12687582",
@@ -11487,9 +11487,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705621&st=gallery&sb=call_number#focus"
@@ -11628,10 +11628,10 @@
                 "image/tif"
             ],
             "number": [
-                "2009-10-23t17:08:15",
-                "http://www.loc.gov/item/11673543",
                 "96508557",
-                "http://www.loc.gov/item/96508557"
+                "http://www.loc.gov/item/96508557",
+                "http://www.loc.gov/item/11673543",
+                "2009-10-23t17:08:15"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11673543",
@@ -11652,9 +11652,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=96508557&st=gallery&sb=call_number#focus"
@@ -11675,9 +11675,9 @@
             ],
             "subject": [
                 "portrait photographs",
+                "kellogg, frank b.",
                 "photographic prints",
-                "(frank billings)",
-                "kellogg, frank b."
+                "(frank billings)"
             ],
             "timestamp": "2022-04-30T23:22:54.594Z",
             "title": "[Frank Billings Kellogg, three-quarter length portrait, seated, facing left, holding eyeglasses]",
@@ -11778,9 +11778,9 @@
                 "image/tif"
             ],
             "number": [
-                "2005-07-25t13:44:19",
                 "http://www.loc.gov/item/14037064",
-                "2005690021"
+                "2005690021",
+                "2005-07-25t13:44:19"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/14037064"
@@ -11800,9 +11800,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2005690021&st=gallery&sb=call_number#focus"
@@ -11923,8 +11923,8 @@
             ],
             "number": [
                 "2009-10-22t08:25:06",
-                "http://www.loc.gov/item/13001523",
-                "2002724022"
+                "2002724022",
+                "http://www.loc.gov/item/13001523"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/13001523"
@@ -11944,9 +11944,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002724022&st=gallery&sb=call_number#focus"
@@ -12062,8 +12062,8 @@
             ],
             "number": [
                 "http://www.loc.gov/item/13172606",
-                "2009-10-26t09:31:44",
-                "2003666590"
+                "2003666590",
+                "2009-10-26t09:31:44"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/13172606"
@@ -12083,9 +12083,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666590&st=gallery&sb=call_number#focus"
@@ -12201,8 +12201,8 @@
             ],
             "number": [
                 "2003666591",
-                "2009-10-27t16:22:16",
-                "http://www.loc.gov/item/13172610"
+                "http://www.loc.gov/item/13172610",
+                "2009-10-27t16:22:16"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/13172610"
@@ -12222,9 +12222,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003666591&st=gallery&sb=call_number#focus"
@@ -12371,9 +12371,9 @@
             ],
             "number": [
                 "95512849",
-                "2009-10-29t09:26:56",
+                "http://www.loc.gov/item/11654138",
                 "http://www.loc.gov/item/95512849",
-                "http://www.loc.gov/item/11654138"
+                "2009-10-29t09:26:56"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11654138",
@@ -12394,9 +12394,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512849&st=gallery&sb=call_number#focus"
@@ -12416,11 +12416,11 @@
                 "catalog"
             ],
             "subject": [
+                "nuorteva, santeri",
                 "martens, lyudvig karlovich",
-                "photographic prints",
                 "group portraits",
                 "portrait photographs",
-                "nuorteva, santeri"
+                "photographic prints"
             ],
             "timestamp": "2022-04-30T23:22:54.594Z",
             "title": "[Lyudvig Martens (left) and his secretary, Mr. S. Nuorteva(right), posed standing, full-length, facing front]",
@@ -12551,10 +12551,10 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/95512864",
-                "http://www.loc.gov/item/11654151",
                 "95512864",
-                "2009-10-29t09:25:13"
+                "2009-10-29t09:25:13",
+                "http://www.loc.gov/item/95512864",
+                "http://www.loc.gov/item/11654151"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/11654151",
@@ -12575,9 +12575,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=95512864&st=gallery&sb=call_number#focus"
@@ -12597,12 +12597,12 @@
                 "catalog"
             ],
             "subject": [
-                "motion picture cameras",
+                "nuorteva, santeri",
                 "martens, lyudvig karlovich",
                 "group portraits",
                 "photographic prints",
                 "portrait photographs",
-                "nuorteva, santeri"
+                "motion picture cameras"
             ],
             "timestamp": "2022-04-30T23:22:54.594Z",
             "title": "[Ludwig Martens (right), representative of the Soviet government, with his secretary, Mr. S. Nuorteva (left), and Madam Nuorteva, posed on roof, for motion picture camera crew]",
@@ -12703,9 +12703,9 @@
                 "image/tif"
             ],
             "number": [
-                "http://www.loc.gov/item/13114072",
+                "2009-10-22t10:50:14",
                 "2003662267",
-                "2009-10-22t10:50:14"
+                "http://www.loc.gov/item/13114072"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/13114072"
@@ -12725,9 +12725,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2003662267&st=gallery&sb=call_number#focus"
@@ -12853,11 +12853,11 @@
                 "image/tif"
             ],
             "number": [
-                "2009-10-22t15:58:56",
-                "http://www.loc.gov/item/2002705861",
-                "http://www.loc.gov/item/12689920",
                 "2002705861",
-                "http://www.loc.gov/item/5168"
+                "2009-10-22t15:58:56",
+                "http://www.loc.gov/item/5168",
+                "http://www.loc.gov/item/2002705861",
+                "http://www.loc.gov/item/12689920"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/12689920",
@@ -12879,9 +12879,9 @@
             "other_title": [],
             "partof": [
                 "catalog",
+                "prints and photographs division",
                 "national photo company collection",
-                "prints & photographs online catalog (library of congress)",
-                "prints and photographs division"
+                "prints & photographs online catalog (library of congress)"
             ],
             "related": {
                 "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2002705861&st=gallery&sb=call_number#focus"
@@ -13036,10 +13036,10 @@
                 "image/tif"
             ],
             "number": [
-                "00652557",
+                "http://www.loc.gov/item/00652557",
                 "2016-04-12t08:05:25",
                 "http://www.loc.gov/item/12210787",
-                "http://www.loc.gov/item/00652557"
+                "00652557"
             ],
             "number_former_id": [
                 "http://www.loc.gov/item/00652557",
@@ -13060,10 +13060,10 @@
             "other_title": [],
             "partof": [
                 "catalog",
-                "national photo company collection",
                 "prints and photographs division",
                 "prints & photographs online catalog (library of congress)",
-                "american leaders speak: recordings from world war i"
+                "american leaders speak: recordings from world war i",
+                "national photo company collection"
             ],
             "resources": [
                 {
@@ -13080,8 +13080,8 @@
             ],
             "subject": [
                 "photographic prints",
-                "portrait photographs",
-                "poindexter, miles"
+                "poindexter, miles",
+                "portrait photographs"
             ],
             "timestamp": "2022-12-10T04:23:26.621Z",
             "title": "[Miles Poindexter, three-quarter length portrait, seated at desk, facing left]",
@@ -13118,7 +13118,7 @@
         "The Northeast",
         "General"
     ],
-    "timestamp": 1720538438764,
+    "timestamp": 1720551992787,
     "title": "National Photo Company Collection",
     "topics": [
         "Art & Architecture",
