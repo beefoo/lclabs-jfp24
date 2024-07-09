@@ -1,329 +1,321 @@
 {
     "items": [
         {
-            "resource_id": 2017454465,
+            "resource_id": "2023632670",
             "original_format": [
-                4019,
-                6252
+                1024,
+                832
             ],
-            "thumbnail": "image_2017454465_thumbnail.jpg",
+            "thumbnail": "image_2023632670_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        791.9111938476562,
-                        2641.07421875,
-                        2410.316650390625,
-                        4129.71142578125
-                    ],
-                    "label": "horse",
-                    "cutout": "cutouts/cutout_2017454465_horse_0.png",
-                    "mask": "masks/mask_2017454465_horse_0.png"
-                }
-            ]
-        }, {
-            "resource_id": 2007684280,
-            "original_format": [
-                2604,
-                2151
-            ],
-            "thumbnail": "image_2007684280_thumbnail.jpg",
-            "segments": [
-                {
-                    "bounding_box": [
-                        1921.8154296875,
-                        368.2888488769531,
-                        2351.472412109375,
-                        1106.1400146484375
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2007684280_person_0.png",
-                    "mask": "masks/mask_2007684280_person_0.png"
+                        720.5896606445312,
+                        71.55172729492188,
+                        981.5050659179688,
+                        516.737060546875
+                    ]
                 },
                 {
                     "bounding_box": [
-                        744.4935913085938,
-                        863.1898803710938,
-                        1338.323486328125,
-                        1774.517578125
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2007684280_person_1.png",
-                    "mask": "masks/mask_2007684280_person_1.png"
+                        232.48548889160156,
+                        79.0068130493164,
+                        611.6902465820312,
+                        573.3837280273438
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        711.5088500976562,
+                        123.7741928100586,
+                        805.5098876953125,
+                        252.0186004638672
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 2011632159,
-            "original_format": [
-                1213,
-                1690
             ],
-            "thumbnail": "image_2011632159_thumbnail.jpg"
-        }, {
-            "resource_id": 2017878880,
+            "label": "person",
+            "cutout": "cutout_2023632670_person_2.png",
+            "mask": "mask_2023632670_person_2.png"
+        },
+        {
+            "resource_id": "89709659",
             "original_format": [
-                808,
+                640,
+                477
+            ],
+            "thumbnail": "image_89709659_thumbnail.jpg",
+            "segments": [
+                {
+                    "bounding_box": [
+                        459.1698913574219,
+                        244.99505615234375,
+                        608.4518432617188,
+                        426.70166015625
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        396.4969787597656,
+                        254.9904327392578,
+                        524.7416381835938,
+                        406.2508239746094
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        63.873878479003906,
+                        229.91314697265625,
+                        237.10169982910156,
+                        426.983154296875
+                    ]
+                }
+            ],
+            "label": "person",
+            "cutout": "cutout_89709659_person_2.png",
+            "mask": "mask_89709659_person_2.png"
+        },
+        {
+            "resource_id": "2011631485",
+            "original_format": [
+                2172,
+                1718
+            ],
+            "thumbnail": "image_2011631485_thumbnail.jpg"
+        },
+        {
+            "resource_id": "2020742358",
+            "original_format": [
+                897,
                 1024
             ],
-            "thumbnail": "image_2017878880_thumbnail.jpg",
+            "thumbnail": "image_2020742358_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        362.75994873046875,
-                        456.6306457519531,
-                        633.8956298828125,
-                        986.2166748046875
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2017878880_person_0.png",
-                    "mask": "masks/mask_2017878880_person_0.png"
+                        202.91697692871094,
+                        847.1856689453125,
+                        343.3932189941406,
+                        908.6433715820312
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        573.7009887695312,
+                        846.1176147460938,
+                        703.1023559570312,
+                        911.0835571289062
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        626.2034912109375,
+                        765.961669921875,
+                        646.79443359375,
+                        775.3836669921875
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 2003654393,
+            ],
+            "label": "car",
+            "cutout": "cutout_2020742358_car_2.png",
+            "mask": "mask_2020742358_car_2.png"
+        },
+        {
+            "resource_id": "2010651699",
             "original_format": [
                 1024,
-                705
+                809
             ],
-            "thumbnail": "image_2003654393_thumbnail.jpg",
+            "thumbnail": "image_2010651699_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        243.8917999267578,
-                        278.6776123046875,
-                        454.79559326171875,
-                        687.3043823242188
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2003654393_person_0.png",
-                    "mask": "masks/mask_2003654393_person_0.png"
+                        751.176513671875,
+                        102.93280029296875,
+                        982.5231323242188,
+                        799.333740234375
+                    ]
                 },
                 {
                     "bounding_box": [
-                        19.148902893066406,
-                        201.9260711669922,
-                        186.04620361328125,
-                        681.15625
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2003654393_person_1.png",
-                    "mask": "masks/mask_2003654393_person_1.png"
+                        422.314453125,
+                        403.8352355957031,
+                        480.7625732421875,
+                        432.06695556640625
+                    ]
                 },
                 {
                     "bounding_box": [
-                        164.9436798095703,
-                        319.80682373046875,
-                        247.67529296875,
-                        535.743408203125
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2003654393_person_2.png",
-                    "mask": "masks/mask_2003654393_person_2.png"
+                        236.98529052734375,
+                        117.49624633789062,
+                        416.5800476074219,
+                        657.4912719726562
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 88694120,
-            "original_format": [
-                1205,
-                994
             ],
-            "thumbnail": "image_88694120_thumbnail.jpg"
-        }, {
-            "resource_id": 650949,
+            "label": "person",
+            "cutout": "cutout_2010651699_person_2.png",
+            "mask": "mask_2010651699_person_2.png"
+        },
+        {
+            "resource_id": "2006681388",
             "original_format": [
-                1024,
-                628
+                640,
+                520
             ],
-            "thumbnail": "image_00650949_thumbnail.jpg",
+            "thumbnail": "image_2006681388_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        20.005451202392578,
-                        179.0795135498047,
-                        402.64349365234375,
-                        601.5416870117188
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_650949_person_0.png",
-                    "mask": "masks/mask_650949_person_0.png"
+                        126.81636047363281,
+                        250.2111053466797,
+                        146.55197143554688,
+                        288.44451904296875
+                    ]
                 },
                 {
                     "bounding_box": [
-                        475.8175354003906,
-                        146.7380828857422,
-                        698.1453247070312,
-                        517.9982299804688
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_650949_person_1.png",
-                    "mask": "masks/mask_650949_person_1.png"
-                }
-            ]
-        }, {
-            "resource_id": 2016869441,
-            "original_format": [
-                741,
-                1024
-            ],
-            "thumbnail": "image_2016869441_thumbnail.jpg",
-            "segments": [
-                {
-                    "bounding_box": [
-                        360.18011474609375,
-                        313.2438659667969,
-                        529.9805297851562,
-                        899.5244140625
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016869441_person_0.png",
-                    "mask": "masks/mask_2016869441_person_0.png"
+                        31.83056640625,
+                        148.0409698486328,
+                        281.26214599609375,
+                        346.59765625
+                    ]
                 },
                 {
                     "bounding_box": [
-                        168.3771514892578,
-                        305.47552490234375,
-                        385.83721923828125,
-                        907.727294921875
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016869441_person_1.png",
-                    "mask": "masks/mask_2016869441_person_1.png"
+                        426.6821594238281,
+                        94.26419830322266,
+                        612.7366333007812,
+                        507.0923767089844
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 2010641712,
-            "original_format": [
-                1794,
-                2529
             ],
-            "thumbnail": "image_2010641712_thumbnail.jpg",
+            "label": "person",
+            "cutout": "cutout_2006681388_person_2.png",
+            "mask": "mask_2006681388_person_2.png"
+        },
+        {
+            "resource_id": "2002705621",
+            "original_format": [
+                488,
+                640
+            ],
+            "thumbnail": "image_2002705621_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        313.4005432128906,
-                        270.8692321777344,
-                        1510.86328125,
-                        2342.62158203125
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2010641712_person_0.png",
-                    "mask": "masks/mask_2010641712_person_0.png"
-                }
-            ]
-        }, {
-            "resource_id": 2016866957,
-            "original_format": [
-                1024,
-                762
-            ],
-            "thumbnail": "image_2016866957_thumbnail.jpg",
-            "segments": [
-                {
-                    "bounding_box": [
-                        302.1134338378906,
-                        140.2788543701172,
-                        503.3295593261719,
-                        718.1956787109375
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016866957_person_0.png",
-                    "mask": "masks/mask_2016866957_person_0.png"
+                        55.09721755981445,
+                        7.016112804412842,
+                        408.7055969238281,
+                        610.7930908203125
+                    ]
                 },
                 {
                     "bounding_box": [
-                        589.6578979492188,
-                        138.0210723876953,
-                        798.2540893554688,
-                        718.077880859375
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016866957_person_1.png",
-                    "mask": "masks/mask_2016866957_person_1.png"
+                        331.5178527832031,
+                        266.4169006347656,
+                        408.5531311035156,
+                        443.0578918457031
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 2016873397,
+            ],
+            "label": "person",
+            "cutout": "cutout_2002705621_person_1.png",
+            "mask": "mask_2002705621_person_1.png"
+        },
+        {
+            "resource_id": "97518968",
+            "original_format": [
+                528,
+                640
+            ],
+            "thumbnail": "image_97518968_thumbnail.jpg",
+            "segments": [
+                {
+                    "bounding_box": [
+                        165.90345764160156,
+                        213.12725830078125,
+                        360.2029113769531,
+                        518.6631469726562
+                    ]
+                },
+                {
+                    "bounding_box": [
+                        258.9573059082031,
+                        299.3797912597656,
+                        280.6671142578125,
+                        368.5173645019531
+                    ]
+                }
+            ],
+            "label": "tie",
+            "cutout": "cutout_97518968_tie_1.png",
+            "mask": "mask_97518968_tie_1.png"
+        },
+        {
+            "resource_id": "2016826637",
             "original_format": [
                 1024,
-                825
+                773
             ],
-            "thumbnail": "image_2016873397_thumbnail.jpg",
+            "thumbnail": "image_2016826637_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        882.4912719726562,
-                        600.4380493164062,
-                        912.7456665039062,
-                        689.282958984375
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016873397_person_0.png",
-                    "mask": "masks/mask_2016873397_person_0.png"
+                        135.11325073242188,
+                        246.48846435546875,
+                        285.5906677246094,
+                        617.4058837890625
+                    ]
                 },
                 {
                     "bounding_box": [
-                        113.47854614257812,
-                        45.475833892822266,
-                        1003.5223999023438,
-                        664.2680053710938
-                    ],
-                    "label": "airplane",
-                    "cutout": "cutouts/cutout_2016873397_airplane_1.png",
-                    "mask": "masks/mask_2016873397_airplane_1.png"
+                        245.48239135742188,
+                        144.1196746826172,
+                        396.8435974121094,
+                        619.148681640625
+                    ]
                 },
                 {
                     "bounding_box": [
-                        450.315673828125,
-                        605.7691040039062,
-                        475.75689697265625,
-                        667.314453125
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_2016873397_person_2.png",
-                    "mask": "masks/mask_2016873397_person_2.png"
+                        625.1680908203125,
+                        213.87196350097656,
+                        774.2320556640625,
+                        612.0928344726562
+                    ]
                 }
-            ]
-        }, {
-            "resource_id": 650962,
+            ],
+            "label": "person",
+            "cutout": "cutout_2016826637_person_2.png",
+            "mask": "mask_2016826637_person_2.png"
+        },
+        {
+            "resource_id": "00652544",
             "original_format": [
-                1024,
-                803
+                479,
+                640
             ],
-            "thumbnail": "image_00650962_thumbnail.jpg",
+            "thumbnail": "image_00652544_thumbnail.jpg",
             "segments": [
                 {
                     "bounding_box": [
-                        68.27828216552734,
-                        110.51578521728516,
-                        490.7704162597656,
-                        790.0986328125
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_650962_person_0.png",
-                    "mask": "masks/mask_650962_person_0.png"
+                        2.3221113681793213,
+                        73.0949478149414,
+                        476.8703918457031,
+                        638.8746337890625
+                    ]
                 },
                 {
                     "bounding_box": [
-                        522.9970703125,
-                        81.32926177978516,
-                        994.955078125,
-                        781.4523315429688
-                    ],
-                    "label": "person",
-                    "cutout": "cutouts/cutout_650962_person_1.png",
-                    "mask": "masks/mask_650962_person_1.png"
-                },
-                {
-                    "bounding_box": [
-                        282.616943359375,
-                        274.05218505859375,
-                        306.0367736816406,
-                        318.49993896484375
-                    ],
-                    "label": "tie",
-                    "cutout": "cutouts/cutout_650962_tie_2.png",
-                    "mask": "masks/mask_650962_tie_2.png"
+                        227.11837768554688,
+                        428.47320556640625,
+                        280.4615173339844,
+                        638.0919189453125
+                    ]
                 }
-            ]
+            ],
+            "label": "tie",
+            "cutout": "cutout_00652544_tie_1.png",
+            "mask": "mask_00652544_tie_1.png"
         }
     ]
 }
