@@ -33,6 +33,7 @@
                     ]
                 }
             ],
+            "confidence": 0.936921238899231,
             "label": "person",
             "cutout": "cutout_2023632670_person_2.png",
             "mask": "mask_2023632670_person_2.png"
@@ -70,6 +71,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9945873022079468,
             "label": "person",
             "cutout": "cutout_89709659_person_2.png",
             "mask": "mask_89709659_person_2.png"
@@ -115,6 +117,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9358223676681519,
             "label": "car",
             "cutout": "cutout_2020742358_car_2.png",
             "mask": "mask_2020742358_car_2.png"
@@ -152,6 +155,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9973472356796265,
             "label": "person",
             "cutout": "cutout_2010651699_person_2.png",
             "mask": "mask_2010651699_person_2.png"
@@ -189,6 +193,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9658349752426147,
             "label": "person",
             "cutout": "cutout_2006681388_person_2.png",
             "mask": "mask_2006681388_person_2.png"
@@ -218,6 +223,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9634521007537842,
             "label": "person",
             "cutout": "cutout_2002705621_person_1.png",
             "mask": "mask_2002705621_person_1.png"
@@ -247,6 +253,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9940341114997864,
             "label": "tie",
             "cutout": "cutout_97518968_tie_1.png",
             "mask": "mask_97518968_tie_1.png"
@@ -284,6 +291,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9971422553062439,
             "label": "person",
             "cutout": "cutout_2016826637_person_2.png",
             "mask": "mask_2016826637_person_2.png"
@@ -313,6 +321,7 @@
                     ]
                 }
             ],
+            "confidence": 0.9921534657478333,
             "label": "tie",
             "cutout": "cutout_00652544_tie_1.png",
             "mask": "mask_00652544_tie_1.png"
