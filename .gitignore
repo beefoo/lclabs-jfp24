@@ -1,7 +1,7 @@
+#environment
 loc_env/
-loc_pytorch/
-early_work/cityscape_test.ipynb
-early_work/generate_images.ipynb
-early_work/__pycache__
-# early_work/efficient_sam/EfficientSAM/
+
+
 pickling_test/
+__pycache__/
+early_work/efficient_sam/EfficientSAM/
