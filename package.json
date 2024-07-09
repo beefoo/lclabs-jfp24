@@ -1,0 +1,16 @@
+{
+    "name": "collage-tool",
+    "description": "Explore the Library of Congress DC Photo Collections through collage and creativity",
+    "scripts": {
+        "publish": "git subtree push --prefix ui origin gh-pages",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    },
+    "devDependencies": {
+        "eslint": "^8.2.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.29.1"
+    }
+}
