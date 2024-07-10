@@ -14,7 +14,11 @@
                         71.55172729492188,
                         981.5050659179688,
                         516.737060546875
-                    ]
+                    ],
+                    "confidence": 0.999783456325531,
+                    "label": "person",
+                    "cutout": "cutout_2023632670_person_0.png",
+                    "mask": "mask_2023632670_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -22,7 +26,11 @@
                         79.0068130493164,
                         611.6902465820312,
                         573.3837280273438
-                    ]
+                    ],
+                    "confidence": 0.9974063038825989,
+                    "label": "person",
+                    "cutout": "cutout_2023632670_person_1.png",
+                    "mask": "mask_2023632670_person_1.png"
                 },
                 {
                     "bounding_box": [
@@ -30,13 +38,13 @@
                         123.7741928100586,
                         805.5098876953125,
                         252.0186004638672
-                    ]
+                    ],
+                    "confidence": 0.936921238899231,
+                    "label": "person",
+                    "cutout": "cutout_2023632670_person_2.png",
+                    "mask": "mask_2023632670_person_2.png"
                 }
             ],
-            "confidence": 0.936921238899231,
-            "label": "person",
-            "cutout": "cutout_2023632670_person_2.png",
-            "mask": "mask_2023632670_person_2.png",
             "title": "Mrs. Yoshiye Abe, an American of Japanese ancestry, helps to make American flags in a Denver factory",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/85600/85616v.jpg#h=832&w=1024",
             "subjects": [
@@ -71,7 +79,11 @@
                         244.99505615234375,
                         608.4518432617188,
                         426.70166015625
-                    ]
+                    ],
+                    "confidence": 0.9970309734344482,
+                    "label": "person",
+                    "cutout": "cutout_89709659_person_0.png",
+                    "mask": "mask_89709659_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -79,7 +91,11 @@
                         254.9904327392578,
                         524.7416381835938,
                         406.2508239746094
-                    ]
+                    ],
+                    "confidence": 0.9958794116973877,
+                    "label": "person",
+                    "cutout": "cutout_89709659_person_1.png",
+                    "mask": "mask_89709659_person_1.png"
                 },
                 {
                     "bounding_box": [
@@ -87,13 +103,13 @@
                         229.91314697265625,
                         237.10169982910156,
                         426.983154296875
-                    ]
+                    ],
+                    "confidence": 0.9945873022079468,
+                    "label": "person",
+                    "cutout": "cutout_89709659_person_2.png",
+                    "mask": "mask_89709659_person_2.png"
                 }
             ],
-            "confidence": 0.9945873022079468,
-            "label": "person",
-            "cutout": "cutout_89709659_person_2.png",
-            "mask": "mask_89709659_person_2.png",
             "title": "[Charles Evans Hughes seated at head of table, with eight other men around the table in the Diplomatic Room of the State Department]",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42900/3b42943r.jpg#h=477&w=640",
             "subjects": "NA",
@@ -149,7 +165,11 @@
                         847.1856689453125,
                         343.3932189941406,
                         908.6433715820312
-                    ]
+                    ],
+                    "confidence": 0.9794719219207764,
+                    "label": "bench",
+                    "cutout": "cutout_2020742358_bench_0.png",
+                    "mask": "mask_2020742358_bench_0.png"
                 },
                 {
                     "bounding_box": [
@@ -157,7 +177,11 @@
                         846.1176147460938,
                         703.1023559570312,
                         911.0835571289062
-                    ]
+                    ],
+                    "confidence": 0.9774940013885498,
+                    "label": "bench",
+                    "cutout": "cutout_2020742358_bench_1.png",
+                    "mask": "mask_2020742358_bench_1.png"
                 },
                 {
                     "bounding_box": [
@@ -165,13 +189,13 @@
                         765.961669921875,
                         646.79443359375,
                         775.3836669921875
-                    ]
+                    ],
+                    "confidence": 0.9358223676681519,
+                    "label": "car",
+                    "cutout": "cutout_2020742358_car_2.png",
+                    "mask": "mask_2020742358_car_2.png"
                 }
             ],
-            "confidence": 0.9358223676681519,
-            "label": "car",
-            "cutout": "cutout_2020742358_car_2.png",
-            "mask": "mask_2020742358_car_2.png",
             "title": "A war memorial in Niles, Michigan, that features the flags of all five U.S. armed services: the Army, Navy, Marine Corps, Air Force, and Coast Guard",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/63400/63459v.jpg#h=1024&w=897",
             "subjects": [
@@ -204,7 +228,11 @@
                         102.93280029296875,
                         982.5231323242188,
                         799.333740234375
-                    ]
+                    ],
+                    "confidence": 0.9985002279281616,
+                    "label": "person",
+                    "cutout": "cutout_2010651699_person_0.png",
+                    "mask": "mask_2010651699_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -212,7 +240,11 @@
                         403.8352355957031,
                         480.7625732421875,
                         432.06695556640625
-                    ]
+                    ],
+                    "confidence": 0.9975791573524475,
+                    "label": "tie",
+                    "cutout": "cutout_2010651699_tie_1.png",
+                    "mask": "mask_2010651699_tie_1.png"
                 },
                 {
                     "bounding_box": [
@@ -220,13 +252,13 @@
                         117.49624633789062,
                         416.5800476074219,
                         657.4912719726562
-                    ]
+                    ],
+                    "confidence": 0.9973472356796265,
+                    "label": "person",
+                    "cutout": "cutout_2010651699_person_2.png",
+                    "mask": "mask_2010651699_person_2.png"
                 }
             ],
-            "confidence": 0.9973472356796265,
-            "label": "person",
-            "cutout": "cutout_2010651699_person_2.png",
-            "mask": "mask_2010651699_person_2.png",
             "title": "[Secretary of Navy Josephus Daniels (center) seated with Admiral [Trevylyan] Napier, R.N.; standing left to right: Capt. Blake of Naval Attache British Embassy, Admiral Long of U.S.N., Lt. Curzon-Howe, R.N., Com. Bevan, R.N., Com. Foote, U.S.N.]",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/ds/00100/00151v.jpg#h=809&w=1024",
             "subjects": "NA",
@@ -257,7 +289,11 @@
                         250.2111053466797,
                         146.55197143554688,
                         288.44451904296875
-                    ]
+                    ],
+                    "confidence": 0.9890437126159668,
+                    "label": "tie",
+                    "cutout": "cutout_2006681388_tie_0.png",
+                    "mask": "mask_2006681388_tie_0.png"
                 },
                 {
                     "bounding_box": [
@@ -265,7 +301,11 @@
                         148.0409698486328,
                         281.26214599609375,
                         346.59765625
-                    ]
+                    ],
+                    "confidence": 0.9890110492706299,
+                    "label": "person",
+                    "cutout": "cutout_2006681388_person_1.png",
+                    "mask": "mask_2006681388_person_1.png"
                 },
                 {
                     "bounding_box": [
@@ -273,13 +313,13 @@
                         94.26419830322266,
                         612.7366333007812,
                         507.0923767089844
-                    ]
+                    ],
+                    "confidence": 0.9658349752426147,
+                    "label": "person",
+                    "cutout": "cutout_2006681388_person_2.png",
+                    "mask": "mask_2006681388_person_2.png"
                 }
             ],
-            "confidence": 0.9658349752426147,
-            "label": "person",
-            "cutout": "cutout_2006681388_person_2.png",
-            "mask": "mask_2006681388_person_2.png",
             "title": "[Frank B. Kellogg, Ambassador to England ,and Secretary of State Hughes in Mr. Hughes' office, on the day of the announcement of Mr. Kellogg's appointment as his successor]",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00400/3b00488r.jpg#h=520&w=640",
             "subjects": "NA",
@@ -310,7 +350,11 @@
                         7.016112804412842,
                         408.7055969238281,
                         610.7930908203125
-                    ]
+                    ],
+                    "confidence": 0.9991841912269592,
+                    "label": "person",
+                    "cutout": "cutout_2002705621_person_0.png",
+                    "mask": "mask_2002705621_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -318,13 +362,13 @@
                         266.4169006347656,
                         408.5531311035156,
                         443.0578918457031
-                    ]
+                    ],
+                    "confidence": 0.9634521007537842,
+                    "label": "person",
+                    "cutout": "cutout_2002705621_person_1.png",
+                    "mask": "mask_2002705621_person_1.png"
                 }
             ],
-            "confidence": 0.9634521007537842,
-            "label": "person",
-            "cutout": "cutout_2002705621_person_1.png",
-            "mask": "mask_2002705621_person_1.png",
             "title": "Walter Perry Johnson, 1887-1946",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24884r.jpg#h=640&w=488",
             "subjects": "NA",
@@ -355,7 +399,11 @@
                         213.12725830078125,
                         360.2029113769531,
                         518.6631469726562
-                    ]
+                    ],
+                    "confidence": 0.9979409575462341,
+                    "label": "person",
+                    "cutout": "cutout_97518968_person_0.png",
+                    "mask": "mask_97518968_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -363,13 +411,13 @@
                         299.3797912597656,
                         280.6671142578125,
                         368.5173645019531
-                    ]
+                    ],
+                    "confidence": 0.9940341114997864,
+                    "label": "tie",
+                    "cutout": "cutout_97518968_tie_1.png",
+                    "mask": "mask_97518968_tie_1.png"
                 }
             ],
-            "confidence": 0.9940341114997864,
-            "label": "tie",
-            "cutout": "cutout_97518968_tie_1.png",
-            "mask": "mask_97518968_tie_1.png",
             "title": "[Charles Curtis, 31st vice president, half-length portrait, facing front, standing on the Senate rostrum in the U.S. Capitol]",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b31000/3b31700/3b31743r.jpg#h=640&w=528",
             "subjects": "NA",
@@ -400,7 +448,11 @@
                         246.48846435546875,
                         285.5906677246094,
                         617.4058837890625
-                    ]
+                    ],
+                    "confidence": 0.9989259839057922,
+                    "label": "person",
+                    "cutout": "cutout_2016826637_person_0.png",
+                    "mask": "mask_2016826637_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -408,7 +460,11 @@
                         144.1196746826172,
                         396.8435974121094,
                         619.148681640625
-                    ]
+                    ],
+                    "confidence": 0.998047947883606,
+                    "label": "person",
+                    "cutout": "cutout_2016826637_person_1.png",
+                    "mask": "mask_2016826637_person_1.png"
                 },
                 {
                     "bounding_box": [
@@ -416,13 +472,13 @@
                         213.87196350097656,
                         774.2320556640625,
                         612.0928344726562
-                    ]
+                    ],
+                    "confidence": 0.9971422553062439,
+                    "label": "person",
+                    "cutout": "cutout_2016826637_person_2.png",
+                    "mask": "mask_2016826637_person_2.png"
                 }
             ],
-            "confidence": 0.9971422553062439,
-            "label": "person",
-            "cutout": "cutout_2016826637_person_2.png",
-            "mask": "mask_2016826637_person_2.png",
             "title": "Deaf & dumb children of St. Rita's School, Cincinnati, singing Star Spangled Banner",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/npcc/33300/33373v.jpg#h=773&w=1024",
             "subjects": [
@@ -455,7 +511,11 @@
                         73.0949478149414,
                         476.8703918457031,
                         638.8746337890625
-                    ]
+                    ],
+                    "confidence": 0.9974568486213684,
+                    "label": "person",
+                    "cutout": "cutout_00652544_person_0.png",
+                    "mask": "mask_00652544_person_0.png"
                 },
                 {
                     "bounding_box": [
@@ -463,13 +523,13 @@
                         428.47320556640625,
                         280.4615173339844,
                         638.0919189453125
-                    ]
+                    ],
+                    "confidence": 0.9921534657478333,
+                    "label": "tie",
+                    "cutout": "cutout_00652544_tie_1.png",
+                    "mask": "mask_00652544_tie_1.png"
                 }
             ],
-            "confidence": 0.9921534657478333,
-            "label": "tie",
-            "cutout": "cutout_00652544_tie_1.png",
-            "mask": "mask_00652544_tie_1.png",
             "title": "[Eamonn De Valera, head-and-shoulders portrait, facing front]",
             "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b15000/3b15200/3b15291r.jpg#h=640&w=479",
             "subjects": "NA",
