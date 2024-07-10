@@ -1,7 +1,6 @@
+#environment
 loc_env/
-loc_pytorch/
-early_work/cityscape_test.ipynb
-early_work/instance_segmentation_viz.ipynb
-early_work/__pycache__
-/training_test/
-node_modules/
+
+pickling_test/
+__pycache__/
+early_work/efficient_sam/EfficientSAM/
