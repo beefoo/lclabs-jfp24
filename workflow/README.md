@@ -4,7 +4,7 @@ To assist individuals interested in understanding the process behind our project
 
 
 <div style="text-align: center;">
-  <img src="workflow_graph.png" alt="Workflow Graph Visualization" width="50%">
+  <img src="workflow_graph.png" alt="Workflow Graph Visualization" width="60%">
 </div>
 
 
