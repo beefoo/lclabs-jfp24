@@ -2,10 +2,17 @@
 
 To assist individuals interested in understanding the process behind our project, this section of the repository outlines our workflows. The workflows are broken down into the following steps and notebooks.
 
-## Step 1: API Bulk Work, Generate Images, and Metadata JSON
+
+<div style="text-align: center;">
+  <img src="workflow_graph.png" alt="Workflow Graph Visualization" width="50%">
+</div>
+
+
+
+## Step 1: API Bulk Work: Generate Images, and Metadata JSON
 **Notebook: step_1_api.ipynb**
 
-Images related to Washington D.C. are bulk downloaded using the Library of Congress' API and _Free to Reuse Data Package_. In addition, the use of the API is extended to extract image metadata, which is stored as a JSON file.
+Images related to Washington D.C. are bulk downloaded using the Library of Congress' API. In addition, the use of the API is extended to extract image metadata, which is stored as a JSON file.
 
 Outputs:
 * Washington D.C. images.
