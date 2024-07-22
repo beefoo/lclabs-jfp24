@@ -1,6 +1,6 @@
 # Workflow Overview
 
-To assist individuals interested in understanding the process behind our project, this section of the repository outlines our workflows. The workflows are broken down into the following steps and notebooks.
+To assist individuals interested in understanding the process behind our project, this section of the repository outlines our workflows. The workflows are broken down into three main steps and notebooks.
 
 
 <div style="text-align: center;">
@@ -9,8 +9,8 @@ To assist individuals interested in understanding the process behind our project
 
 
 
-## Step 1: API Bulk Work: Generate Images, and Metadata JSON
-**Notebook: step_1_api.ipynb**
+## Step 1: API Bulk Work: Generate Images and Metadata JSON
+**Notebook: [step_1_api.ipynb](sstep_1_metadata_and_image_download.ipynb)**
 
 Images related to Washington D.C. are bulk downloaded using the Library of Congress' API. In addition, the use of the API is extended to extract image metadata, which is stored as a JSON file.
 
@@ -28,7 +28,7 @@ Outputs:
     * Set (specific to the Free-to-Reuse collection)
 
 ## Step 2: Cutout, Resource Object Detection, and Segmentation for UI
-**Notebook: step_2_object_detection_and_segmentation.ipynb**
+**Notebook: [step_2_object_detection_and_segmentation.ipynb](step_2_object_detection_and_segmentation.ipynb)**
 
 The machine learning, or computer vision, part of the workflow is compiled in this step. Leveraging the images and metadata JSON from the previous step, image thumbnails are created and saved. 
 
@@ -39,7 +39,7 @@ Outputs:
 * Individual cutouts saved as PNGs, labeled with the format: **image_{resource_id}_{object_name}_{instance__#}.png**. 
     * Each cutout is resized to a maximum of 480 pixels on the longest side.
 * Thumbnails of the binary masks, labeled with the format: **mask_{resource_id}_{object_name}_{instance__#}.png**.
-* Segments are added Image JSON.
+* Segments are added to Image JSON.
 * Each segement contains the following information: 
 * Mask thumbnail path, Cutout thumbnail path, and Bounding box information saved as JSON
 
@@ -48,7 +48,7 @@ The JSON includes the normalized coordinates (0-1).
 Note: The outputs are directed into the UI folders for use in web development.
 
 ## Step 3: Generate Manifest
-**Notebook: step_3_manifest.ipynb**
+**Notebook: [step_3_manifest.ipynb](step_3_manifest.ipynb)**
 
 Combine the JSON metadata into a manifest of all generated assets.
 
