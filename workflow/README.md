@@ -10,7 +10,7 @@ To assist individuals interested in understanding the process behind our project
 
 
 ## Step 1: API Bulk Work: Generate Images and Metadata JSON
-**Notebook: [step_1_api.ipynb](sstep_1_metadata_and_image_download.ipynb)**
+**Notebook: [step_1_api.ipynb](step_1_metadata_and_image_download.ipynb)**
 
 Images related to Washington D.C. are bulk downloaded using the Library of Congress' API. In addition, the use of the API is extended to extract image metadata, which is stored as a JSON file.
 
@@ -48,7 +48,7 @@ The JSON includes the normalized coordinates (0-1).
 Note: The outputs are directed into the UI folders for use in web development.
 
 ## Step 3: Generate Manifest
-**Notebook: [step_3_manifest.ipynb](step_3_manifest.ipynb)**
+**Notebook: [step_3_manifest.ipynb](step_3_generate_manifest.ipynb)**
 
 Combine the JSON metadata into a manifest of all generated assets.
 
