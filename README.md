@@ -1,4 +1,4 @@
-# Table of Contents
+# Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
 * [Overview](#overview)
     * [Audience](#audience)
     * [Use Cases](#use-cases)
