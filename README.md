@@ -191,10 +191,10 @@ Image metadata from the Library’s digital collections played an important role
 
 To obtain an understanding of the contents of the digital collections pertaining to DC, the Free to Use and Reuse collection’s metadata was used–through the metadata.csv file provided alongside that collection–and organized into a pandas Data Frame containing only images with a location tag of “D.C.”. From there, different categories were visualized, such as the source collection, contributors, and subjects heading, using simple graphs and word clouds. This exploration showed that the Carol Highsmith and National Photo Company collections would be best for collecting more DC images, and that the most common types of images would be of national landmarks, events, and festivals.
 
-![Metadata 1]()
-![Metadata 2]()
-![Metadata 3]()
-![Metadata 4]()
+![Metadata 1](documentation-aids/metadata-1.png?raw=true)
+![Metadata 2](documentation-aids/metadata-2.png?raw=true)
+![Metadata 3](documentation-aids/metadata-3.png?raw=true)
+![Metadata 4](documentation-aids/metadata-4.png?raw=true)
 
 Once it came time to build and download images at bulk to create the DC image set, three collections were in use – the Free to Use and Reuse collection, the Carol M Highsmith collection, and the National Photo Company collection. Since only the Free to Use and Reuse collection came with a readily pre-organized metadata csv file, we transitioned into using the Library API and JSON get requests instead. Each image’s URL was obtained from the metadata, and used to download that image, with the resource ID of the image as the download name. This was part 1, step 1 of the final project workflow.
 
