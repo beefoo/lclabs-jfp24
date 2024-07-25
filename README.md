@@ -138,9 +138,9 @@ In the process of choosing an object detection model, we were particularly conce
 
 We took extensive measures to ensure that the machine learning models we incorporated into *Collaging through Space and Time* would not cause harm to our mostly young demographic or to those of marginlaized identities. You can read more about the testing we did to ensure efficacy in this area in [Object Detection Evaluation: Faster R-CNN](#object-detection-evaluation-faster-r-cnn). You can also view our pre-planning worksheets where we evaluated the risks and benefits of using machine learning below:
 
-![AI-framework 1](documentation-aids/documentation-aids/Use_Case_Assessment_Worksheet_2023-jfp-24.pdf)
-![AI-framework 2](documentation-aids/PhaseII_Risk_Assessement_-_2023-10-30-draft.pdf)
-![AI-framework 3](documentation-aids/Data_Assessment_Worksheet_2023-jfp-2024.pdf)
+[Phase I: Use Case Assessment](documentation-aids/documentation-aids/Use_Case_Assessment_Worksheet_2023-jfp-24.pdf)
+[Phase II: Risk Assessment](documentation-aids/PhaseII_Risk_Assessement_-_2023-10-30-draft.pdf)
+[Phase III: Data Assessment](documentation-aids/Data_Assessment_Worksheet_2023-jfp-2024.pdf)
 
 The process of choosing an object segmentation model was much simpler and is explained in [Object Segmentation Evaluation: EfficentSAM](#object-segmentation-evaluation-efficentsam).
 
