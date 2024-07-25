@@ -84,8 +84,8 @@ For more information on our collection development policies and decisions, see [
 
 The process to design and develop the user interface for the DC Collage tool initially started with paper and pen sketches. In early sketches and iterations of the idea, the interface was not themed around DC specifically but around cities in general, and there would be a starting screen where the user would select a city to explore. The interface was conceptualized as a more curated, guided experience, with a small number of photos specifically selected for the user to click through for historical fun facts before using the photos in a collage.
 
-![Development 1](https://github.com/account/repo-name/blob/branch-name/path/image.png?raw=true)
-![Development 2]()
+![Development 1](documentation-aids/development-1.png?raw=true)
+![Development 2](documentation-aids/development-2.png?raw=true)
 
 We moved away from this approach, opting for a DC-themed, more exploratory and less curated experience, for three reasons:
 1. Consulting with the Professional Learning and Outreach Initiatives (PLOI) Office helped us realize that a K-12 age group might better appreciate a tool with more creative freedom, allowing for a wider range of use cases.
@@ -96,17 +96,16 @@ For the second round of mock-ups, the interface was now envisioned as a specific
 
 This mock-up was first made in PowerPoint then translated to Figma, where interactivity was added.
 
-![Figma 1]()
-![Figma 2]()
-![Figma 3]()
-![Figma 4]()
-![Figma 5]()
+![Figma 1](documentation-aids/figma-1.png?raw=true)
+![Figma 2](documentation-aids/figma-2.png?raw=true)
+![Figma 3](documentation-aids/figma-3.png?raw=true)
+![Figma 4](documentation-aids/figma-4.png?raw=true)
 
 At this stage, we consulted with the Digital Accessibility team before beginning work on translating the design to web technologies. From the Accessibility team, we were advised on optimally accessible color palettes and text fonts, on creating an adaptable design to the use of different screens and of different use of keyboards, and on including alternative text.
 
 The final web interface was built using the HTML, CSS, and Javascript languages. Certain features were prioritized and others dropped for the time frame. The current web interface is one screen, with the user having access to ten randomly selected images it can shuffle and drag and drop the segmented portions from, and tools such as an undo/redo, save, resize, and more. The user can also click for documentation on the use of AI. Features to be added to the web interface include: links back to the original image, option to save and download the collage, and eventually, ability to filter through images by their metadata.
 
-![UI 1]()
+![UI 1](documentation-aids/ui-1.png?raw=true)
 
 __insert gif of current UI__
 
