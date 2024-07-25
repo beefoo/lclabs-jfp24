@@ -101,13 +101,15 @@ This mock-up was first made in PowerPoint then translated to Figma, where intera
 ![Figma 3](documentation-aids/figma-3.png?raw=true)
 ![Figma 4](documentation-aids/figma-4.png?raw=true)
 
+Below is a gif of the web interface mockup
+
 At this stage, we consulted with the Digital Accessibility team before beginning work on translating the design to web technologies. From the Accessibility team, we were advised on optimally accessible color palettes and text fonts, on creating an adaptable design to the use of different screens and of different use of keyboards, and on including alternative text.
 
-The final web interface was built using the HTML, CSS, and Javascript languages. Certain features were prioritized and others dropped for the time frame. The current web interface is one screen, with the user having access to ten randomly selected images it can shuffle and drag and drop the segmented portions from, and tools such as an undo/redo, save, resize, and more. The user can also click for documentation on the use of AI. Features to be added to the web interface include: links back to the original image, option to save and download the collage, and eventually, ability to filter through images by their metadata.
+The final web interface was built using the HTML, CSS, and Javascript languages. Certain features were prioritized and others dropped for the time frame. For more information on current and future web interface features, see [Features](#features).
+
+Below is the current iteration of the web interface.
 
 ![UI 1](documentation-aids/ui-1.png?raw=true)
-
-__insert gif of current UI__
 
 ## Features
 
