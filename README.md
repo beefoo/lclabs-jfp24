@@ -150,11 +150,11 @@ In *Object Detection Model Evaluation*, we go through the testing we did with fi
 
 **Note:** Because of its public and governmental nature, the Library cannot work with paid proprietary tools. As such, we were limited to tools that are free.
 
-![Evaluation 1](documentation-aids/object-detection-model-evaluation.pdf)
+[Object Detection Model Evaluation](documentation-aids/object-detection-model-evaluation.pdf)
 
 In *Sample Collection Assessment*, we assess whether the Faster R-CNN object detection model will work well with the quality of images we were hoping to use in *Collaging through Space and Time*. These images were often damaged and not in color.
 
-![Evaluation 1](documentation-aids/sample-collection-assessment.pdf)
+[Sample Collection Assessment](documentation-aids/sample-collection-assessment.pdf)
 
 ### Object Segmentation Evaluation: EfficentSAM
 
@@ -176,7 +176,7 @@ As with many decisions made in this project, the initial release of this project
 
 Below is a copy of our collection development spreadsheet. Please read the contents of the "Key" sheet thorouhgly to understand the contents of the spreadsheet.
 
-![Collection 1](documentation-aids/jfp-collections.ods)
+[Collection Spreadsheet](documentation-aids/jfp-collections.ods)
 
 [Metadata](#metadata) contains more information on our collection development process and the python scripting used to access the data necessary to build *Collaging through Space and Time*.
 
