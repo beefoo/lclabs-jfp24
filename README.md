@@ -98,8 +98,6 @@ This mock-up was first made in PowerPoint then translated to Figma, where intera
 
 ![Figma 5](documentation-aids/figma-5.gif?raw=true)
 
-Below is a gif of the web interface mockup
-
 At this stage, we consulted with the Digital Accessibility team before beginning work on translating the design to web technologies. From the Accessibility team, we were advised on optimally accessible color palettes and text fonts, on creating an adaptable design to the use of different screens and of different use of keyboards, and on including alternative text.
 
 The final web interface was built using the HTML, CSS, and Javascript languages. Certain features were prioritized and others dropped for the time frame. For more information on current and future web interface features, see [Features](#features).
@@ -140,9 +138,9 @@ In the process of choosing an object detection model, we were particularly conce
 
 We took extensive measures to ensure that the machine learning models we incorporated into *Collaging through Space and Time* would not cause harm to our mostly young demographic or to those of marginlaized identities. You can read more about the testing we did to ensure efficacy in this area in [Object Detection Evaluation: Faster R-CNN](#object-detection-evaluation-faster-r-cnn). You can also view our pre-planning worksheets where we evaluated the risks and benefits of using machine learning below:
 
-**insert pahse 1**
-**insert pahse 2**
-**insert pahse 3**
+![AI-framework 1](documentation-aids/documentation-aids/Use_Case_Assessment_Worksheet_2023-jfp-24.pdf)
+![AI-framework 2](documentation-aids/PhaseII_Risk_Assessement_-_2023-10-30-draft.pdf)
+![AI-framework 3](documentation-aids/Data_Assessment_Worksheet_2023-jfp-2024.pdf)
 
 The process of choosing an object segmentation model was much simpler and is explained in [Object Segmentation Evaluation: EfficentSAM](#object-segmentation-evaluation-efficentsam).
 
@@ -152,19 +150,17 @@ In *Object Detection Model Evaluation*, we go through the testing we did with fi
 
 **Note:** Because of its public and governmental nature, the Library cannot work with paid proprietary tools. As such, we were limited to tools that are free.
 
-*insert LOC JF - Model Evaluation*
+![Evaluation 1](documentation-aids/object-detection-model-evaluation.pdf)
 
 In *Sample Collection Assessment*, we assess whether the Faster R-CNN object detection model will work well with the quality of images we were hoping to use in *Collaging through Space and Time*. These images were often damaged and not in color.
 
-*insert D2_Sample Collection Assessment*
+![Evaluation 1](documentation-aids/sample-collection-assessment.pdf)
 
 ### Object Segmentation Evaluation: EfficentSAM
 
 A goal of this project was to use emerging technologies. In alignment with this goal, and in addition to using the [Faster R-CNN  model](https://arxiv.org/abs/1506.01497), the [EfficientSAM model](https://arxiv.org/abs/2312.00863) was selected to complete the instance segmentation portion of our workflow. The model was chosen based on its ease of use and popularity within the field of machine learning.
 
 Given the bounding box information from the object detection model, the EfficientSAM model generates a binary mask of an instance (a singular object). To elaborate, the binary mask is a silhouette of the object. While some of the binary masks appeared complete, there were objects whose masks were imperfect, missing features, or contained holes. Before object cutouts could be extracted using the binary masks, [morphological image processing techniques](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/topic4.html), such as closing, were used to refine the output and contribute to a more complete object cutout.
-
-**insert image with masking and stuff**
 
 ## Understanding the *Collaging through Space and Time* Project Github and Workflow
 
@@ -180,7 +176,7 @@ As with many decisions made in this project, the initial release of this project
 
 Below is a copy of our collection development spreadsheet. Please read the contents of the "Key" sheet thorouhgly to understand the contents of the spreadsheet.
 
-**insert spreadsheet**
+![Collection 1](documentation-aids/jfp-collections.ods)
 
 [Metadata](#metadata) contains more information on our collection development process and the python scripting used to access the data necessary to build *Collaging through Space and Time*.
 
