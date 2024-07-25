@@ -96,10 +96,7 @@ For the second round of mock-ups, the interface was now envisioned as a specific
 
 This mock-up was first made in PowerPoint then translated to Figma, where interactivity was added.
 
-![Figma 1](documentation-aids/figma-1.png?raw=true)
-![Figma 2](documentation-aids/figma-2.png?raw=true)
-![Figma 3](documentation-aids/figma-3.png?raw=true)
-![Figma 4](documentation-aids/figma-4.png?raw=true)
+![Figma 5](documentation-aids/figma-5.gif?raw=true)
 
 Below is a gif of the web interface mockup
 
