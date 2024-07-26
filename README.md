@@ -17,15 +17,15 @@
     * [Collection Development](#collection-development)
         * [Metadata](#metadata)
 
-# Overview
+## Overview
 
 *Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections* (*Collaging through Space and Time*) is an interactive collage tool that encourages self-directed learning and educational play, allowing students to explore the Washington, D.C. area’s communal history through creative expression.
 
-## Audience
+### Audience
 
 The target audience of *Collaging through Space and Time* consists of late-elementary to early middle school students and instructors of this age group.
 
-## Use Cases
+### Use Cases
 
 *Collaging through Space and Time* is intended to be used primarilly for self-directed learning in a controlled and moderated environment. Below are scenarios of this use case:
 * A student has completed their class assignment before other students. They are directed by an instructor to create a collage using *Collaging through Space and Time* and perhaps write a short essay explaining the story behind their collage.
@@ -38,7 +38,7 @@ The target audience of *Collaging through Space and Time* consists of late-eleme
 
 These use cases are specific to *Collaging through Space and Time* as a final product. However, *Collaging through Space and Time* was also created as an example of how the Library's digital collections can be used to create community-centered projects. See [Background](#background) for more information.
 
-# Background
+## Background
 
 As part of the Computing Cultural Heritage in the Cloud (CCHC) project, LC Labs partnered with the Junior Fellows Program to hire three interns who would be responsible for creating a data visualization or otherwise interactive tool that:
 * Highlights marginalized histories and/or communities
@@ -52,13 +52,13 @@ A major goal of this project is outreach: making those otherwise isolated from t
 
 The project that the Fellows chose to pursue was heavily influenced by the Fellows’ own experiences with educational tools, such as *Poptropica* and the myriad of games that were on websites like *Cool Math Games* in the late 2000s and 2010s.
 
-## Initial Conception
+### Initial Conception
 
 An earlier concept for this project involved creating an open-ended adventure and role-playing game that would allow players to go on semi-directed (having a cleary defined narrative and end goal) but open-ended (players can problem-solve and play at their own pace). In this concept, the player would go on a "scavenger hunt," looking for clues and solving puzzles in order to "find" or "unlock" items (which would be drawn from the Library's digital collections). The player would be able to collect aspects of these found items (for example, the hat from an image they found) and store them in some sort of "base" or "backpack" where they could customize their player character. To allow the player to collect aspects of items found in the "scavenger hunt," the Fellows planned to use machine learning to detect and segment objects from the items.
 
 Due to the duration of this project (10 weeks), the Fellows realized they would not have enough time for scripting, design, and user testing. As such, they reconceptualized the project, expanding upon and focusing on the player character customization aspect of the initial idea.
 
-## Finalized Conception
+### Finalized Conception
 
 Rather than using object detection and image segmentation for player character customizations, the Fellows opted to use this technology instead for a more casual, gamified experience. The technology that would be used for the early concept was well positioned to be used in the creation of a collage tool. This tool, like the previous idea, was equally open-ended and could be self- or instructor-directed. It also allowed for a contextualized, but creative exploration of the Library's digital assets and the histories that recorded.
 
@@ -71,7 +71,7 @@ The secondary deliverable, is a workflow that shows other developers how to:
 * Perform subject/object detection and segmentation
 This secondary deliverable encapsulates our hope that *Collaging through Space and Time* will inspire other developers to consider the Library's collections when creating educational tools or games, further incresing the outreach of the Library. See [Understanding the *Collaging through Space and Time* Project Github and Workflow](#understanding-the-collaging-through-space-and-time-project-github-and-workflow) for more information.
 
-# Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
+## Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
 
 *Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections (Collaging through Space and Time)* is an interactive collage tool that allows users to "cut" subjects and objects from images and "paste" them unto a series of pre-selected backgrounds. All images in the current iteration of *Collaging through Space and Time* are taken from the following collections:
 * [National Photo Company Collection](https://www.loc.gov/collections/national-photo-company/)
@@ -80,7 +80,7 @@ This secondary deliverable encapsulates our hope that *Collaging through Space a
 
 For more information on our collection development policies and decisions, see [Collection Development](#collection-development).
 
-## User Interface Design
+### User Interface Design
 
 The process to design and develop the user interface for the DC Collage tool initially started with paper and pen sketches. In early sketches and iterations of the idea, the interface was not themed around DC specifically but around cities in general, and there would be a starting screen where the user would select a city to explore. The interface was conceptualized as a more curated, guided experience, with a small number of photos specifically selected for the user to click through for historical fun facts before using the photos in a collage.
 
@@ -106,7 +106,7 @@ Below is the current iteration of the web interface.
 
 ![UI 1](documentation-aids/ui-1.png?raw=true)
 
-## Features
+### Features
 
 *Collaging through Space and Time*, at the time of launch, will have the following features and capabilities:
 * Hot button linking to documentation detailing our use of AI, ethical considerations and concerns, and the steps taken to mitigate ethical concerns.
@@ -128,7 +128,7 @@ We hope to make *Collaging through Space and Time* a more dynamic collage tool i
 * An assortment of frames that allows users customize the borders of their collage.
 * Allowing users to upload their own backgrounds. The goal of this feature is to allow users to combine their own personal experiences with that of history.
 
-## The Use and Ethics of Machine Learning
+### The Use and Ethics of Machine Learning
 
 For *Collaging through Space and Time* to be successful, we needed a tool that would allow us to manipulate images at scale. The ability to detect and segements hundreds (and eventually thousands) of images was possible *because* of machine learning models like Faster R-CNN and EffcientSAM.
 
@@ -162,11 +162,11 @@ A goal of this project was to use emerging technologies. In alignment with this 
 
 Given the bounding box information from the object detection model, the EfficientSAM model generates a binary mask of an instance (a singular object). To elaborate, the binary mask is a silhouette of the object. While some of the binary masks appeared complete, there were objects whose masks were imperfect, missing features, or contained holes. Before object cutouts could be extracted using the binary masks, [morphological image processing techniques](https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/ImageProcessing-html/topic4.html), such as closing, were used to refine the output and contribute to a more complete object cutout.
 
-## Understanding the *Collaging through Space and Time* Project Github and Workflow
+### Understanding the *Collaging through Space and Time* Project Github and Workflow
 
 **working on this**
 
-## Collection Development
+### Collection Development
 
 A major goal of the project is to highlight marginalized histories. We chose to approach this in a more holistic manner, and aimed for *Collaging through Space and Time* to capture the complexity of local history.
 
