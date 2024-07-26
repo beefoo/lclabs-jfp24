@@ -1,5 +1,12 @@
 # Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
 
+*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections (Collaging through Space and Time)* is an interactive collage tool that allows users to "cut" subjects and objects from images and "paste" them unto a series of pre-selected backgrounds. All images in the current iteration of *Collaging through Space and Time* are taken from the following collections:
+* [National Photo Company Collection](https://www.loc.gov/collections/national-photo-company/)
+* [Carol M. Highsmith Archive Collection](https://www.loc.gov/collections/carol-m-highsmith/)
+* [Free to Use and Reuse Collection](https://www.loc.gov/free-to-use/)
+
+For more information on our collection development policies and decisions, see [Collection Development](#collection-development).
+
 ## Table of Contents
 * [Overview](#overview)
     * [Audience](#audience)
@@ -27,7 +34,7 @@ The target audience of *Collaging through Space and Time* consists of late-eleme
 
 ### Use Cases
 
-*Collaging through Space and Time* is intended to be used primarilly for self-directed learning in a controlled and moderated environment. Below are scenarios of this use case:
+*Collaging through Space and Time* is intended to be used primarily for self-directed learning in a controlled and moderated environment. Below are scenarios of this use case:
 * A student has completed their class assignment before other students. They are directed by an instructor to create a collage using *Collaging through Space and Time* and perhaps write a short essay explaining the story behind their collage.
 * A student has completed their class assignment before other students. As a reward, they are allowed by an instructor to use *Collaging through Space and Time* while other students finish up their assignment.
 * In an after-school care or before-school care setting, an instructor allows students to create a collage using *Collaging through Space and Time* while students await their gardian.
@@ -40,17 +47,17 @@ These use cases are specific to *Collaging through Space and Time* as a final pr
 
 ## Background
 
-As part of the Computing Cultural Heritage in the Cloud (CCHC) project, LC Labs partnered with the Junior Fellows Program to hire three interns who would be responsible for creating a data visualization or otherwise interactive tool that:
+As part of the [Computing Cultural Heritage in the Cloud (CCHC) project](https://labs.loc.gov/work/experiments/cchc/), LC Labs partnered with the Junior Fellows Program to hire three interns who would be responsible for creating a data visualization or otherwise interactive tool that:
 * Highlights marginalized histories and/or communities
 * Serves as an outreach tool
-* Utilizes the Labs’ newly curated data packages
+* Utilizes the Labs’ newly curated [data packages](https://data.labs.loc.gov/)
 * Experiments with emerging technologies
 
-The Junior Fellows, Ilayda Dogan, Shauna-Kay Harrison, and Aisaiah Pellecer, were strongly drawn to creating a tool for a younger demographic. This decision was made due to a combination of factors. Outside of the Fellows mutual interest in working with younger demographics and educational tools, the Fellows also considered that the prior LC Labs’ Junior Fellow project was text-based (working primarily with text-mining), and  geared towards a more academic audience. This led the Fellows to strongly consider creating a project that steered in a different direction.
+The Junior Fellows, Ilayda Dogan, Shauna-Kay Harrison, and Aisaiah Pellecer, were strongly drawn to creating a tool for a younger demographic. This decision was made due to a combination of factors. Outside of the Fellows' mutual interest in working with younger demographics and educational tools, the Fellows also considered that the prior LC Labs’ Junior Fellow project was text-based (working primarily with text-mining), and  geared towards a more academic audience. This led the Fellows to strongly consider creating a project that steered in a different direction.
 
 A major goal of this project is outreach: making those otherwise isolated from the Library and its resources more connected. The Fellows thought of their own experiences as children in late elementary to early middle school, and realized that they were not aware of the Library and its many collections at that age. If the Library wanted civilians, particulalry those of marginlized identities, to be aware of the resources it offers, the Fellows agreed that early exposure would be the best way to achieve this, and sought to create a tool that would aid in this process.
 
-The project that the Fellows chose to pursue was heavily influenced by the Fellows’ own experiences with educational tools, such as *Poptropica* and the myriad of games that were on websites like *Cool Math Games* in the late 2000s and 2010s.
+The project that the Fellows chose to pursue was heavily influenced by the Fellows’ own experiences with educational tools, such as [*Poptropica*](https://en.wikipedia.org/wiki/Poptropica) and the myriad of games that were on websites like [*Cool Math Games*](https://en.wikipedia.org/wiki/Cool_Math_Games) in the late 2000s and 2010s.
 
 ### Initial Conception
 
@@ -64,21 +71,15 @@ Rather than using object detection and image segmentation for player character c
 
 This reconceptualized project can be seen as having a primary and secondary deliverable.
 
-The primary deliverable is *Collaging through Space and Time*, an interactive collage tool intended for late elementary to early middle school students. An in-depth explanation of *Collaging through Space and Time* is provided in [Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections](#collaging-through-space-and-time-computer-vision-for-creative-explorations-of-the-librarys-digital-collections).
+The primary deliverable is *Collaging through Space and Time*, an interactive collage tool intended for late elementary to early middle school students.
 
 The secondary deliverable, is a workflow that shows other developers how to:
 * Access the Library's API to retrieve digitial collections
 * Perform subject/object detection and segmentation
 This secondary deliverable encapsulates our hope that *Collaging through Space and Time* will inspire other developers to consider the Library's collections when creating educational tools or games, further incresing the outreach of the Library. See [Understanding the *Collaging through Space and Time* Project Github and Workflow](#understanding-the-collaging-through-space-and-time-project-github-and-workflow) for more information.
 
-## Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections
 
-*Collaging through Space and Time: Computer Vision for Creative Explorations of the Library's Digital Collections (Collaging through Space and Time)* is an interactive collage tool that allows users to "cut" subjects and objects from images and "paste" them unto a series of pre-selected backgrounds. All images in the current iteration of *Collaging through Space and Time* are taken from the following collections:
-* [National Photo Company Collection](https://www.loc.gov/collections/national-photo-company/)
-* [Carol M. Highsmith Archive Collection](https://www.loc.gov/collections/carol-m-highsmith/)
-* [Free to Use and Reuse Collection](https://www.loc.gov/free-to-use/)
 
-For more information on our collection development policies and decisions, see [Collection Development](#collection-development).
 
 ### User Interface Design
 
