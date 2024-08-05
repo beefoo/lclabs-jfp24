@@ -1,0 +1,3958 @@
+{
+    "items": [
+        {
+            "resource_id": "2001699137",
+            "original_format": [
+                1024,
+                796
+            ],
+            "thumbnail": "image_2001699137_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.985711395740509,
+                    "label": "person",
+                    "cutout": "cutout_2001699137_person_0.png",
+                    "mask": "mask_2001699137_person_0.png",
+                    "bounding_box": [
+                        522.6412963867188,
+                        315.67266845703125,
+                        639.9208984375,
+                        652.1773071289062
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9714663624763489,
+                    "label": "person",
+                    "cutout": "cutout_2001699137_person_2.png",
+                    "mask": "mask_2001699137_person_2.png",
+                    "bounding_box": [
+                        243.2727813720703,
+                        270.5009765625,
+                        384.3245849609375,
+                        585.5848999023438
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Female students playing basketball, Western High School, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/31900/31958v.jpg#h=796&w=1024",
+            "subjects": [
+                "Women--Sports--Washington (D.C.)--1890-1900",
+                "Students--Washington (D.C.)--1890-1900",
+                "Physical fitness--Washington (D.C.)--1890-1900",
+                "Basketball--Washington (D.C.)--1890-1900"
+            ],
+            "dates": "1899-01-01",
+            "contributors": [
+                "Johnston, Frances Benjamin, 1864-1952, photographer"
+            ],
+            "description": [
+                "1 photographic print : cyanotype."
+            ],
+            "alt_text": "Eight girls are posed in basketball positions as one girl aims the ball towards the basket. They wear belted, knee-length outfits and stockings.",
+            "collections": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey"
+        },
+        {
+            "resource_id": "2001702332",
+            "original_format": [
+                1024,
+                817
+            ],
+            "thumbnail": "image_2001702332_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9990054965019226,
+                    "label": "person",
+                    "cutout": "cutout_2001702332_person_0.png",
+                    "mask": "mask_2001702332_person_0.png",
+                    "bounding_box": [
+                        652.4521484375,
+                        364.6136779785156,
+                        777.5451049804688,
+                        721.1173095703125
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[A visit to the Library of Congress]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a07000/3a07900/3a07933v.jpg#h=817&w=1024",
+            "subjects": [
+                "Education--Washington (D.C.)--1890-1900"
+            ],
+            "dates": "1899-01-01",
+            "contributors": [
+                "Johnston, Frances Benjamin, 1864-1952, photographer"
+            ],
+            "description": [
+                "1 photographic print : cyanotype."
+            ],
+            "alt_text": "A group of well-dressed African American women and children stand in a line looking up at a mural. Archways and murals are visible above them.",
+            "collections": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey"
+        },
+        {
+            "resource_id": "2001703618",
+            "original_format": [
+                640,
+                509
+            ],
+            "thumbnail": "image_2001703618_thumbnail.jpg",
+            "segments": [],
+            "title": "[A chemistry lab, Central High School]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a17000/3a17700/3a17787r.jpg#h=509&w=640",
+            "subjects": [
+                "Education--Washington (D.C.)--1890-1900"
+            ],
+            "dates": "1899-01-01",
+            "contributors": [
+                "Johnston, Frances Benjamin, 1864-1952, photographer"
+            ],
+            "description": [
+                "1 photographic print : cyanotype."
+            ],
+            "alt_text": "Several male students and one female student are working at countertops with elevated shelves filled with glass bottles and tubes. A male teacher stands at the side.",
+            "collections": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey"
+        },
+        {
+            "resource_id": "2001703638",
+            "original_format": [
+                640,
+                497
+            ],
+            "thumbnail": "image_2001703638_thumbnail.jpg",
+            "segments": [],
+            "title": "[Kindergarten in a vegetable garden, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a25000/3a25200/3a25266r.jpg#h=497&w=640",
+            "subjects": [
+                "Education--Washington (D.C.)--1890-1900"
+            ],
+            "dates": "1899-01-01",
+            "contributors": [
+                "Johnston, Frances Benjamin, 1864-1952, photographer"
+            ],
+            "description": [
+                "1 photographic print : cyanotype."
+            ],
+            "alt_text": "More than 12 children and a teacher are in a narrow, fenced garden.",
+            "collections": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey"
+        },
+        {
+            "resource_id": "2002705861",
+            "original_format": [
+                640,
+                497
+            ],
+            "thumbnail": "image_2002705861_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9992189407348633,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_0.png",
+                    "mask": "mask_2002705861_person_0.png",
+                    "bounding_box": [
+                        361.8935241699219,
+                        111.131591796875,
+                        466.9497985839844,
+                        417.606201171875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.998460054397583,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_1.png",
+                    "mask": "mask_2002705861_person_1.png",
+                    "bounding_box": [
+                        73.79649353027344,
+                        33.833984375,
+                        195.7097625732422,
+                        478.124755859375
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9973611235618591,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_2.png",
+                    "mask": "mask_2002705861_person_2.png",
+                    "bounding_box": [
+                        243.27639770507812,
+                        124.39405059814453,
+                        370.2505798339844,
+                        423.30859375
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Reception of the Alaskan flyers at Washington, D.C. - Gen. Pershing congratulating Capt. Street of the squadron [alongside airplane, as 2 other men watch]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b25000/3b25100/3b25160r.jpg#h=497&w=640",
+            "subjects": "NA",
+            "dates": "1920-01-01",
+            "contributors": "NA",
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "",
+            "collections": [
+                "prints and photographs division",
+                "catalog",
+                "prints & photographs online catalog (library of congress)",
+                "national photo company collection"
+            ]
+        },
+        {
+            "resource_id": "2002716781",
+            "original_format": [
+                950,
+                1024
+            ],
+            "thumbnail": "image_2002716781_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9993526339530945,
+                    "label": "person",
+                    "cutout": "cutout_2002716781_person_0.png",
+                    "mask": "mask_2002716781_person_0.png",
+                    "bounding_box": [
+                        235.98890686035156,
+                        358.6990051269531,
+                        735.3474731445312,
+                        757.2737426757812
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[African American woman, seated on ground, fishing, at the Tidal Basin, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01900/01947v.jpg#h=1024&w=950",
+            "subjects": [
+                "African Americans--Women--Washington (D.C.)--1950-1960",
+                "Fishing--Washington (D.C.)--1950-1960",
+                "Tidal Basin (Washington, D.C.)--1950-1960"
+            ],
+            "dates": "1957",
+            "contributors": [
+                "Frissell, Toni, 1907-1988, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate film ; 120 medium format."
+            ],
+            "alt_text": "Smiling  woman sitting on the ground with a fishing pole and her bare feet dangling over the water.",
+            "collections": "Toni Frissell photograph collection"
+        },
+        {
+            "resource_id": "2003666591",
+            "original_format": [
+                640,
+                495
+            ],
+            "thumbnail": "image_2003666591_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.999189555644989,
+                    "label": "horse",
+                    "cutout": "cutout_2003666591_horse_2.png",
+                    "mask": "mask_2003666591_horse_2.png",
+                    "bounding_box": [
+                        259.05694580078125,
+                        203.5753173828125,
+                        541.1317138671875,
+                        438.67620849609375
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Inspecting the polo ponies before a game at Washington, D.C. General Peyton C. March, Chief of Staff, U.S.A. shown in foreground",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b20000/3b20000/3b20065r.jpg#h=495&w=640",
+            "subjects": "NA",
+            "dates": "NA",
+            "contributors": "NA",
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "",
+            "collections": [
+                "prints and photographs division",
+                "catalog",
+                "prints & photographs online catalog (library of congress)",
+                "national photo company collection"
+            ]
+        },
+        {
+            "resource_id": "2003680531",
+            "original_format": [
+                1024,
+                412
+            ],
+            "thumbnail": "image_2003680531_thumbnail.jpg",
+            "segments": [],
+            "title": "Hospital for the insane of the Army and Navy and the District of Columbia / [lith. of] J. Bien, 180 Broadway, N.Y.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/pga/04400/04407v.jpg#h=412&w=1024",
+            "subjects": [
+                "Pierce, Franklin,--1804-1869",
+                "Nichols, Charles H.--(Charles Henry),--1820-1889",
+                "Saint Elizabeths Hospital (Washington, D.C.)--1860-1870",
+                "Psychiatric hospitals--Washington (D.C.)--1860-1870",
+                "Pedestrians--Washington (D.C.)--1860-1870"
+            ],
+            "dates": "1860",
+            "contributors": [
+                "Bien, Julius, 1826-1909",
+                "Walter, Thomas Ustick, 1804-1887."
+            ],
+            "description": [
+                "1 print : lithograph ; sheet 17.5 x 47.2 cm. | Print shows a street-level view of Saint Elizabeths Hospital in Washington, D.C., formerly known as the Government Hospital for the Insane, showing the central building and the east and west wings, with pedestrians, carriages, and horseback riders on the plaza in the foreground."
+            ],
+            "alt_text": "A large building. In front of the building, people are walking past or riding in horse-drawn buggies. At the bottom, a caption reads, \"Hospital for the insane of the Army and Navy and the District of Columbia.\"\n",
+            "collections": "Popular graphic art print filing series (Library of Congress)"
+        },
+        {
+            "resource_id": "2010630036",
+            "original_format": [
+                1808,
+                1357
+            ],
+            "thumbnail": "image_2010630036_thumbnail.jpg",
+            "title": "Washington Monument, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04000:04037/full/pct:25/0/default.jpg#h=1357&w=1807",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Washington Monument",
+                "Cherry trees",
+                "Spring"
+            ],
+            "dates": "2007-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010630192",
+            "original_format": [
+                768,
+                1024
+            ],
+            "thumbnail": "image_2010630192_thumbnail.jpg",
+            "title": "Washington Monument, Washington, D.C",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/04100/04197v.jpg#h=1024&w=768",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Washington Monument",
+                "Cherry blossoms"
+            ],
+            "dates": "2007-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, infrared."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010630446",
+            "original_format": [
+                2706,
+                1846
+            ],
+            "thumbnail": "image_2010630446_thumbnail.jpg",
+            "segments": [],
+            "title": "July 4th fireworks, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04460/full/pct:50/0/default.jpg#h=1846&w=2706",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "July 4th fireworks",
+                "America"
+            ],
+            "dates": "2007-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "Red and green fireworks appear as a huge burst of color above monuments lighted in white and a river in the foreground.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010630700",
+            "original_format": [
+                2923,
+                2102
+            ],
+            "thumbnail": "image_2010630700_thumbnail.jpg",
+            "title": "[Goggles carried by Lincoln's bodyguards during his train ride through Baltimore.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:50/0/default.jpg#h=2102&w=2922",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Abraham Lincoln",
+                "Ford's Theatre",
+                "America"
+            ],
+            "dates": "2007-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010641712",
+            "original_format": [
+                1794,
+                2529
+            ],
+            "thumbnail": "image_2010641712_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9756855964660645,
+                    "label": "person",
+                    "cutout": "cutout_2010641712_person_0.png",
+                    "mask": "mask_2010641712_person_0.png",
+                    "bounding_box": [
+                        289.876953125,
+                        260.2565612792969,
+                        1517.38330078125,
+                        2347.34814453125
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "\"Crispus Attucks,\" by Herschel Levit, mural at the Recorder of Deeds building, built in 1943. 515 D St., NW, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09900:09900/full/pct:50/0/default.jpg#h=2529&w=1794",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Recorder of Deeds building",
+                "Murals"
+            ],
+            "dates": "2010-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010641826",
+            "original_format": [
+                1680,
+                1764
+            ],
+            "thumbnail": "image_2010641826_thumbnail.jpg",
+            "title": "College Hall, Gallaudet University, between 6th and 9th St., NE, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10000:10015/full/pct:50/0/default.jpg#h=1764&w=1680",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Gallaudet University"
+            ],
+            "dates": "2010-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "A large red building. A sign in front of the building reads, \"College Hall.\"\n",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2010648441",
+            "original_format": [
+                1024,
+                612
+            ],
+            "thumbnail": "image_2010648441_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.993026852607727,
+                    "label": "person",
+                    "cutout": "cutout_2010648441_person_0.png",
+                    "mask": "mask_2010648441_person_0.png",
+                    "bounding_box": [
+                        142.27850341796875,
+                        111.40118408203125,
+                        348.2507629394531,
+                        560.2653198242188
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[Civil War envelope showing Columbia with shield and American flag and White House]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/26400/26466v.jpg#h=612&w=1024",
+            "subjects": [
+                "White House (Washington, D.C.)--1860-1870",
+                "Columbia (Symbolic character)--1860-1870",
+                "United States--History--Civil War, 1861-1865--Social aspects"
+            ],
+            "dates": "1822-01-01",
+            "contributors": [
+                "Magnus, Charles, publisher"
+            ],
+            "description": [
+                "1 print on envelope."
+            ],
+            "alt_text": "On an ivory background with a couple of brown splotches from left to right are three graphic images. On the left is a woman in a red robe with a flag and a shield to her right, both in red, white and blue. At center left is what appears to be a brown, three-cent stamp with a portrait of a man in profile. On the right is a white house on a blue and green background. An address written in cursive below the white house image.\n",
+            "collections": "Liljenquist Family collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2010719313",
+            "original_format": [
+                2266,
+                1184
+            ],
+            "thumbnail": "image_2010719313_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9995672106742859,
+                    "label": "person",
+                    "cutout": "cutout_2010719313_person_0.png",
+                    "mask": "mask_2010719313_person_0.png",
+                    "bounding_box": [
+                        53.439781188964844,
+                        341.9650573730469,
+                        688.9571533203125,
+                        1164.142578125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9981443881988525,
+                    "label": "person",
+                    "cutout": "cutout_2010719313_person_1.png",
+                    "mask": "mask_2010719313_person_1.png",
+                    "bounding_box": [
+                        515.8992309570312,
+                        295.35968017578125,
+                        1214.7105712890625,
+                        1135.70166015625
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9955629110336304,
+                    "label": "person",
+                    "cutout": "cutout_2010719313_person_2.png",
+                    "mask": "mask_2010719313_person_2.png",
+                    "bounding_box": [
+                        1816.75390625,
+                        438.58404541015625,
+                        2265.60205078125,
+                        1156.3358154296875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "2009 Inaugural Parade. Michelle and Barack Obama join Joe and Jill Biden watch the parade from the viewing stand in front of the White House, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03841/full/pct:50/0/default.jpg#h=1183&w=2265",
+            "subjects": [
+                "Parades & processions--District of Columbia--Washington (D.C.)--2000-2010",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "2009-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011630135",
+            "original_format": [
+                1542,
+                1196
+            ],
+            "thumbnail": "image_2011630135_thumbnail.jpg",
+            "title": "Arlington Memorial Bridge, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:11900:11939/full/pct:25/0/default.jpg#h=1195&w=1541",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Arlington Memorial Bridge",
+                "Potomac River",
+                "Bridges"
+            ],
+            "dates": "1980",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011630582",
+            "original_format": [
+                2985,
+                2365
+            ],
+            "thumbnail": "image_2011630582_thumbnail.jpg",
+            "title": "Great Hall at the Library of Congress's Thomas Jefferson Building, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12300:12386/full/pct:100/0/default.jpg#h=2365&w=2985",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Thomas Jefferson Building",
+                "Great Hall"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011630694",
+            "original_format": [
+                1542,
+                1226
+            ],
+            "thumbnail": "image_2011630694_thumbnail.jpg",
+            "title": "Jefferson Memorial with cherry blossoms, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12500:12500/full/pct:25/0/default.jpg#h=1225&w=1541",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Jefferson Memorial",
+                "Cherry blossoms"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011630889",
+            "original_format": [
+                1710,
+                2145
+            ],
+            "thumbnail": "image_2011630889_thumbnail.jpg",
+            "title": "U.S. Capitol dome, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12600:12695/full/pct:50/0/default.jpg#h=2145&w=1710",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "U.S. Capitol",
+                "Domes"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "The dome topped by a statue is shown against a blue sky and a white cloud.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011631396",
+            "original_format": [
+                2341,
+                2823
+            ],
+            "thumbnail": "image_2011631396_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9969909191131592,
+                    "label": "potted plant",
+                    "cutout": "cutout_2011631396_potted plant_0.png",
+                    "mask": "mask_2011631396_potted plant_0.png",
+                    "bounding_box": [
+                        0.0,
+                        1247.7874755859375,
+                        692.940185546875,
+                        2193.73828125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9935091137886047,
+                    "label": "chair",
+                    "cutout": "cutout_2011631396_chair_1.png",
+                    "mask": "mask_2011631396_chair_1.png",
+                    "bounding_box": [
+                        1807.550537109375,
+                        1623.9228515625,
+                        2340.228759765625,
+                        2461.8623046875
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9779084324836731,
+                    "label": "potted plant",
+                    "cutout": "cutout_2011631396_potted plant_2.png",
+                    "mask": "mask_2011631396_potted plant_2.png",
+                    "bounding_box": [
+                        1353.78759765625,
+                        1337.0462646484375,
+                        2065.213134765625,
+                        1943.1983642578125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Peacock Alley in the historic Willard Hotel, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13200:13202/full/pct:50/0/default.jpg#h=2823&w=2341",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Peacock Alley",
+                "Willard Hotel",
+                "Historic hotels"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011631448",
+            "original_format": [
+                2197,
+                1723
+            ],
+            "thumbnail": "image_2011631448_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9962414503097534,
+                    "label": "bird",
+                    "cutout": "cutout_2011631448_bird_1.png",
+                    "mask": "mask_2011631448_bird_1.png",
+                    "bounding_box": [
+                        94.01554107666016,
+                        820.848876953125,
+                        1029.56005859375,
+                        1479.5069580078125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9950060248374939,
+                    "label": "bird",
+                    "cutout": "cutout_2011631448_bird_2.png",
+                    "mask": "mask_2011631448_bird_2.png",
+                    "bounding_box": [
+                        1889.525390625,
+                        979.1079711914062,
+                        2133.166259765625,
+                        1177.5196533203125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Poet Kahlil Gibran Memorial in Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13200:13254/full/pct:50/0/default.jpg#h=1723&w=2196",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Kahlil Gibran",
+                "Memorials"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "Sculpted bust of Kahlil Gibran\u2019s head accompanied by birds accentuates an outdoor fountain.\n",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011631890",
+            "original_format": [
+                1731,
+                1358
+            ],
+            "thumbnail": "image_2011631890_thumbnail.jpg",
+            "segments": [],
+            "title": "Cherry Blossoms around the Tidal Basin in Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13600:13696/full/pct:25/0/default.jpg#h=1358&w=1730",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Cherry Blossoms",
+                "America"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011632545",
+            "original_format": [
+                1523,
+                1198
+            ],
+            "thumbnail": "image_2011632545_thumbnail.jpg",
+            "segments": [],
+            "title": "Aerial view of Washington, D.C., showing the FDR Memorial in the foreground at Cherry Blossom Festival time, with the Potomac Tidal Basin and the Jefferson Memorial also in sight",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14300:14351/full/pct:25/0/default.jpg#h=1197&w=1522",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "FDR Memorial",
+                "Tidal Basin",
+                "Aerial views of Jefferson Memorial"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011632658",
+            "original_format": [
+                2292,
+                1519
+            ],
+            "thumbnail": "image_2011632658_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9960640072822571,
+                    "label": "person",
+                    "cutout": "cutout_2011632658_person_0.png",
+                    "mask": "mask_2011632658_person_0.png",
+                    "bounding_box": [
+                        951.01025390625,
+                        1008.8173828125,
+                        1206.5347900390625,
+                        1437.660888671875
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Bike race on Pennsylvania Avenue, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14400:14464/full/pct:100/0/default.jpg#h=1519&w=2292",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Bicycle races",
+                "Pennsylvania Avenue"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011633142",
+            "original_format": [
+                1360,
+                1736
+            ],
+            "thumbnail": "image_2011633142_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.999001681804657,
+                    "label": "person",
+                    "cutout": "cutout_2011633142_person_0.png",
+                    "mask": "mask_2011633142_person_0.png",
+                    "bounding_box": [
+                        1.340602159500122,
+                        1096.1346435546875,
+                        767.1944580078125,
+                        1728.73291015625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9377747774124146,
+                    "label": "person",
+                    "cutout": "cutout_2011633142_person_1.png",
+                    "mask": "mask_2011633142_person_1.png",
+                    "bounding_box": [
+                        204.04991149902344,
+                        204.2120361328125,
+                        1341.1170654296875,
+                        1726.3690185546875
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Second Floor, East Corridor. Mosaic of Minerva by Elihu Vedder, with restorer at work. Library of Congress Thomas Jefferson Building, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14900:14949/full/pct:25/0/default.jpg#h=1736&w=1359",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Library of Congress",
+                "Jefferson Building"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "The figure of Minerva features blue, pink, green, and gold colors.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011633149",
+            "original_format": [
+                1733,
+                1356
+            ],
+            "thumbnail": "image_2011633149_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9979089498519897,
+                    "label": "airplane",
+                    "cutout": "cutout_2011633149_airplane_0.png",
+                    "mask": "mask_2011633149_airplane_0.png",
+                    "bounding_box": [
+                        1435.81689453125,
+                        540.899658203125,
+                        1732.203857421875,
+                        782.1357421875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9947180151939392,
+                    "label": "airplane",
+                    "cutout": "cutout_2011633149_airplane_1.png",
+                    "mask": "mask_2011633149_airplane_1.png",
+                    "bounding_box": [
+                        16.52898597717285,
+                        445.5959167480469,
+                        1508.147216796875,
+                        1202.572265625
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Charles Lindbergh's \"Spirit of St Louis\" airplane, hanging at the Smithsonian Institution's Air and Space Museum on the National Mall, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14900:14956/full/pct:25/0/default.jpg#h=1356&w=1732",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Spirit of St. Louis",
+                "Charles Lindbergh",
+                "Air and Space Museum",
+                "Smithsonian"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Color photo shows the airplane in profile as it hangs from the  museum ceiling.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011633233",
+            "original_format": [
+                1380,
+                1745
+            ],
+            "thumbnail": "image_2011633233_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9987295269966125,
+                    "label": "fire hydrant",
+                    "cutout": "cutout_2011633233_fire hydrant_0.png",
+                    "mask": "mask_2011633233_fire hydrant_0.png",
+                    "bounding_box": [
+                        345.8131408691406,
+                        529.50634765625,
+                        811.265380859375,
+                        1640.8282470703125
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Cherry trees along the Tidal Basin with Japanese Lantern placed in the park in 1954. Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15000:15040/full/pct:25/0/default.jpg#h=1744&w=1379",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Tidal Basin",
+                "Cherry Blossom Festival"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011634248",
+            "original_format": [
+                1284,
+                1679
+            ],
+            "thumbnail": "image_2011634248_thumbnail.jpg",
+            "segments": [],
+            "title": "Japanese lantern on the Potomac River Tidal Basin during spring cherry blossom season, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:16000:16055/full/pct:25/0/default.jpg#h=1678&w=1283",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Cherry Blossom Festival",
+                "Tidal Basin",
+                "Japanese lantern"
+            ],
+            "dates": "1980-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2011635657",
+            "original_format": [
+                1964,
+                1461
+            ],
+            "thumbnail": "image_2011635657_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9980236291885376,
+                    "label": "person",
+                    "cutout": "cutout_2011635657_person_0.png",
+                    "mask": "mask_2011635657_person_0.png",
+                    "bounding_box": [
+                        431.6315612792969,
+                        110.26468658447266,
+                        1799.0955810546875,
+                        1461.0
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9767470955848694,
+                    "label": "person",
+                    "cutout": "cutout_2011635657_person_1.png",
+                    "mask": "mask_2011635657_person_1.png",
+                    "bounding_box": [
+                        266.510009765625,
+                        851.6333618164062,
+                        475.5349426269531,
+                        1457.318603515625
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Participant in the \"Million Indian March\" on Washington, D.C., photographed on the National Mall on June 27th, 2003",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:17400:17463/full/pct:50/0/default.jpg#h=1461&w=1963",
+            "subjects": [
+                "Indians of North America--Political activity--Washington (D.C.)--2000-2010",
+                "United States--District of Columbia--Washington (D.C.)",
+                "America",
+                "Million Indian March",
+                "National Mall",
+                "Native Americans"
+            ],
+            "dates": "2003-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 transparency : color ; 4 x 5 in. or smaller."
+            ],
+            "alt_text": "A woman wearing a beaded vest looks to the left while standing on the National Mall. The Washington Monument is visible behind her.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2013634071",
+            "original_format": [
+                1099,
+                2533
+            ],
+            "thumbnail": "image_2013634071_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9709944128990173,
+                    "label": "person",
+                    "cutout": "cutout_2013634071_person_0.png",
+                    "mask": "mask_2013634071_person_0.png",
+                    "bounding_box": [
+                        132.79791259765625,
+                        153.50656127929688,
+                        875.0844116210938,
+                        1963.147705078125
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Detail of mural showing Native American woman with child by artist Velino Herrara at the Interior Department Building, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18474/full/pct:50/0/default.jpg#h=2532&w=1098",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Department of Interior",
+                "GSA",
+                "Murals",
+                "Native Americans"
+            ],
+            "dates": "2012-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "Mural of a woman walking toward the right. A baby rides on her back, wrapped in a red patterned cloth.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2013634076",
+            "original_format": [
+                2048,
+                2146
+            ],
+            "thumbnail": "image_2013634076_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9925641417503357,
+                    "label": "person",
+                    "cutout": "cutout_2013634076_person_0.png",
+                    "mask": "mask_2013634076_person_0.png",
+                    "bounding_box": [
+                        1556.4893798828125,
+                        642.6306762695312,
+                        2048.0,
+                        2065.121826171875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9643625617027283,
+                    "label": "person",
+                    "cutout": "cutout_2013634076_person_1.png",
+                    "mask": "mask_2013634076_person_1.png",
+                    "bounding_box": [
+                        101.43132781982422,
+                        505.8598937988281,
+                        768.5086059570312,
+                        1986.4716796875
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Mural showing Native Americans by artist Gerald Nailor at the Interior Department Building, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18479/full/pct:50/0/default.jpg#h=2146&w=2048",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Department of Interior",
+                "GSA",
+                "Murals",
+                "Native Americans"
+            ],
+            "dates": "2012-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "A mural with two men wearing headgear and holding green plants, facing a woman and two children. One man stands and holds out his arm while the other kneels and grasps one of the children by the ankle.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2015645165",
+            "original_format": [
+                1024,
+                708
+            ],
+            "thumbnail": "image_2015645165_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9990285634994507,
+                    "label": "person",
+                    "cutout": "cutout_2015645165_person_0.png",
+                    "mask": "mask_2015645165_person_0.png",
+                    "bounding_box": [
+                        616.5247802734375,
+                        152.9208526611328,
+                        762.7069702148438,
+                        681.0579223632812
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9989050626754761,
+                    "label": "person",
+                    "cutout": "cutout_2015645165_person_1.png",
+                    "mask": "mask_2015645165_person_1.png",
+                    "bounding_box": [
+                        450.9888916015625,
+                        150.572998046875,
+                        616.8992309570312,
+                        654.256103515625
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9983017444610596,
+                    "label": "person",
+                    "cutout": "cutout_2015645165_person_2.png",
+                    "mask": "mask_2015645165_person_2.png",
+                    "bounding_box": [
+                        765.79931640625,
+                        131.46705627441406,
+                        960.052734375,
+                        683.1084594726562
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Representative Patsy Mink announces the formation of the Congressional Asian Pacific American Caucus at a press conference with (left to right) Representatives Don Edwards and Norman Mineta, Guam Delegate Robert Underwood, and Representatives Nancy Pelosi and Neil Abercrombie]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38887v.jpg#h=708&w=1024",
+            "subjects": [
+                "Mink, Patsy T.,--1927-2002--Public appearances",
+                "Legislators--Washington (D.C.)--1990-2000",
+                "Press conferences--Washington (D.C.)--1990-2000"
+            ],
+            "dates": "1994-01-01",
+            "contributors": [
+                "Patterson, Laura, active approximately 1989-2000, photographer"
+            ],
+            "description": [
+                "1 photograph : negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "NA",
+            "collections": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2015645184",
+            "original_format": [
+                1024,
+                733
+            ],
+            "thumbnail": "image_2015645184_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9984961748123169,
+                    "label": "person",
+                    "cutout": "cutout_2015645184_person_0.png",
+                    "mask": "mask_2015645184_person_0.png",
+                    "bounding_box": [
+                        142.29124450683594,
+                        159.9429168701172,
+                        527.3965454101562,
+                        704.035888671875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9952684044837952,
+                    "label": "person",
+                    "cutout": "cutout_2015645184_person_2.png",
+                    "mask": "mask_2015645184_person_2.png",
+                    "bounding_box": [
+                        34.638580322265625,
+                        268.24310302734375,
+                        351.0302734375,
+                        698.2279663085938
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Representative Loretta Sanchez speaking at microphone with others behind her at a Congressional Hispanic Caucus press conference outside the U.S. Capitol]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38890v.jpg#h=733&w=1024",
+            "subjects": [
+                "Sanchez, Loretta--Public appearances",
+                "Congressional Hispanic Caucus (U.S.)--People--1990-2000",
+                "Legislators--Washington (D.C.)--1990-2000",
+                "Press conferences--Washington (D.C.)--1990-2000"
+            ],
+            "dates": "1997-01-01",
+            "contributors": [
+                "Keating, Maureen, photographer"
+            ],
+            "description": [
+                "1 photograph : negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "Former U.S. Representative Loretta Sanchez speaks in front of an array of microphones. A group of people stand behind her.",
+            "collections": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2015646966",
+            "original_format": [
+                1024,
+                720
+            ],
+            "thumbnail": "image_2015646966_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9984676241874695,
+                    "label": "bicycle",
+                    "cutout": "cutout_2015646966_bicycle_0.png",
+                    "mask": "mask_2015646966_bicycle_0.png",
+                    "bounding_box": [
+                        350.2529602050781,
+                        343.0926818847656,
+                        572.6156616210938,
+                        614.144287109375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9984423518180847,
+                    "label": "person",
+                    "cutout": "cutout_2015646966_person_1.png",
+                    "mask": "mask_2015646966_person_1.png",
+                    "bounding_box": [
+                        356.9915771484375,
+                        178.42764282226562,
+                        589.4533081054688,
+                        588.6856689453125
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "[Man and boy riding a bike with a dog perched on the man's shoulder near the U.S. Capitol Reflecting Pool]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38847v.jpg#h=720&w=1024",
+            "subjects": [
+                "Reflecting pools--Washington (D.C.)--1990-2000",
+                "Cycling--Washington (D.C.)--1990-2000",
+                "Dogs--Washington (D.C.)--1990-2000"
+            ],
+            "dates": "1991-01-01",
+            "contributors": [
+                "Patterson, Laura, active approximately 1989-2000, photographer"
+            ],
+            "description": [
+                "1 photograph : negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "NA",
+            "collections": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2016800361",
+            "original_format": [
+                1024,
+                821
+            ],
+            "thumbnail": "image_2016800361_thumbnail.jpg",
+            "segments": [],
+            "title": "Pennsylvania Avenue, Washington",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09400/4a09425v.jpg#h=821&w=1024",
+            "subjects": [
+                "Streets",
+                "Commercial facilities",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1902-01-01",
+            "contributors": [
+                "Jackson, William Henry, 1843-1942, photographer",
+                "Detroit Publishing Co., copyright claimant",
+                "Detroit Publishing Co., publisher"
+            ],
+            "description": [
+                "1 negative : glass ; 8 x 10 in."
+            ],
+            "alt_text": "A wide street hosts streetcars, pedestrians, and horse-drawn vehicles and leads to the Capitol Dome. Large buildings flank sidewalks peopled with pedestrians.",
+            "collections": "Detroit Publishing Company photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2016855814",
+            "original_format": [
+                1024,
+                826
+            ],
+            "thumbnail": "image_2016855814_thumbnail.jpg",
+            "segments": [],
+            "title": "Senate Subway R.R.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/14700/14709v.jpg#h=826&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1905-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 8 x 10 in. or smaller"
+            ],
+            "alt_text": "Men sit on two open-sided subway cars powered from a monorail above the cars.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016865984",
+            "original_format": [
+                1024,
+                766
+            ],
+            "thumbnail": "image_2016865984_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9974127411842346,
+                    "label": "person",
+                    "cutout": "cutout_2016865984_person_0.png",
+                    "mask": "mask_2016865984_person_0.png",
+                    "bounding_box": [
+                        880.748779296875,
+                        399.2265319824219,
+                        991.6463012695312,
+                        701.9113159179688
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "PAN AMERICAN MASS. THANKSGIVING DAY AT ST. PATRICK'S. CROWDS LEAVING ST. PATRICK'S. SECRETARY LANE, UPPER LEFT CENTER",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/05100/05122v.jpg#h=766&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1915-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016866957",
+            "original_format": [
+                1024,
+                762
+            ],
+            "thumbnail": "image_2016866957_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.99933260679245,
+                    "label": "person",
+                    "cutout": "cutout_2016866957_person_0.png",
+                    "mask": "mask_2016866957_person_0.png",
+                    "bounding_box": [
+                        302.1134948730469,
+                        140.27882385253906,
+                        503.32958984375,
+                        718.1957397460938
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9981911778450012,
+                    "label": "person",
+                    "cutout": "cutout_2016866957_person_1.png",
+                    "mask": "mask_2016866957_person_1.png",
+                    "bounding_box": [
+                        589.657958984375,
+                        138.0210723876953,
+                        798.2540283203125,
+                        718.077880859375
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "WOMAN SUFFRAGE. BIRTHDAY CAKE",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/07000/07052v.jpg#h=762&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1916-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller | Photo shows Gertrude Crocker (right, wearing wide-brimmed hat), holding cake with another woman, possibly her sister Ruth, in front of the Congressional Union for Woman Suffrage at 21 Madison Place, Washington, D.C. Crocker was Assistant Treasurer or Treasurer of the National Woman's Party at the time."
+            ],
+            "alt_text": "Two women hold a birthday cake encircled by flowers and two small flags.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016869441",
+            "original_format": [
+                741,
+                1024
+            ],
+            "thumbnail": "image_2016869441_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9995648264884949,
+                    "label": "person",
+                    "cutout": "cutout_2016869441_person_0.png",
+                    "mask": "mask_2016869441_person_0.png",
+                    "bounding_box": [
+                        360.1800842285156,
+                        313.2439270019531,
+                        529.9805297851562,
+                        899.5245361328125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9994667172431946,
+                    "label": "person",
+                    "cutout": "cutout_2016869441_person_1.png",
+                    "mask": "mask_2016869441_person_1.png",
+                    "bounding_box": [
+                        168.37716674804688,
+                        305.4755554199219,
+                        385.8371887207031,
+                        907.727294921875
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "WALTER REED HOSPITAL",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/11300/11308v.jpg#h=1024&w=741",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1918-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller"
+            ],
+            "alt_text": "Two men in uniforms stand in front of a hospital building. One man is using crutches and does not have a left foot. He is lighting the other man's cigarette. The other man does not have hands.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016870156",
+            "original_format": [
+                1024,
+                738
+            ],
+            "thumbnail": "image_2016870156_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9905112385749817,
+                    "label": "person",
+                    "cutout": "cutout_2016870156_person_1.png",
+                    "mask": "mask_2016870156_person_1.png",
+                    "bounding_box": [
+                        545.1015625,
+                        75.53656005859375,
+                        700.7359008789062,
+                        593.9810791015625
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "FOURTH OF JULY. TABLEAU ON ELLIPSE: 'LIBERTY,' 'COLUMBIA,' AND DANCERS",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/12400/12403v.jpg#h=738&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1919-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016871072",
+            "original_format": [
+                1024,
+                819
+            ],
+            "thumbnail": "image_2016871072_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997813105583191,
+                    "label": "person",
+                    "cutout": "cutout_2016871072_person_0.png",
+                    "mask": "mask_2016871072_person_0.png",
+                    "bounding_box": [
+                        273.1156921386719,
+                        221.1089630126953,
+                        653.3417358398438,
+                        693.23291015625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9983660578727722,
+                    "label": "person",
+                    "cutout": "cutout_2016871072_person_1.png",
+                    "mask": "mask_2016871072_person_1.png",
+                    "bounding_box": [
+                        614.8687744140625,
+                        179.60610961914062,
+                        971.0840454101562,
+                        645.6620483398438
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Florida Senator and bride on way to opening session. Washington, D.C., Jan. 5. Happy as only a bridal couple can be, Senator and Mrs. Claude Pepper of Florida, wave a greeting to friends as they boarded the Capitol subway on the way to the opening of the 75th session of Congress. Senator Pepper is a Democrat",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/21900/21941v.jpg#h=819&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016871444",
+            "original_format": [
+                1024,
+                817
+            ],
+            "thumbnail": "image_2016871444_thumbnail.jpg",
+            "segments": [],
+            "title": "Washington youngster solves parking problem. Washington, D.C., March 30. Transportation and no parking worries. Nelm Clark, 16-year old Washington youngster, solved this problem by combining a lawn mower motor with a set of motor cycle gears to make this unusual midget auto. Costing $60 to build the contraption weighs only 150 pounds--the weight is its main feature--and if you run out of gas you easily push it or tuck it under your arm and walk home, 3/30/1937",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22400/22467v.jpg#h=817&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016871505",
+            "original_format": [
+                1024,
+                815
+            ],
+            "thumbnail": "image_2016871505_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9955772161483765,
+                    "label": "person",
+                    "cutout": "cutout_2016871505_person_0.png",
+                    "mask": "mask_2016871505_person_0.png",
+                    "bounding_box": [
+                        416.2880554199219,
+                        91.2043685913086,
+                        580.3864135742188,
+                        336.67523193359375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9943721294403076,
+                    "label": "person",
+                    "cutout": "cutout_2016871505_person_1.png",
+                    "mask": "mask_2016871505_person_1.png",
+                    "bounding_box": [
+                        667.846923828125,
+                        188.7284393310547,
+                        918.2521362304688,
+                        661.1669921875
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9882957935333252,
+                    "label": "person",
+                    "cutout": "cutout_2016871505_person_2.png",
+                    "mask": "mask_2016871505_person_2.png",
+                    "bounding_box": [
+                        243.66729736328125,
+                        225.07823181152344,
+                        479.07061767578125,
+                        697.578857421875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Crowned Queen of Cherry Blossoms. Washington, D.C., April 8. A colorful ceremony which attracted thousands of visitors to the Capital, little Sakiko Saito, daughter of the Japanese Ambassador and Mme. Saito, was crowned Queen of the Cherry Blossoms by Melvin Hazen, Commissioner of the District of Columbia. The festival was held to celebrate the anniversary of the presentation of the Japanese cherry trees to the capital by the citizens of Tokio, Japan during the Taft Administration. With the Queen as shown her two attendants Masako Saito, also a daughter of the Japanese Amabassador, and Barbara Caldwell, American playmate of the two youngsters, 4/8/1937",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22500/22528v.jpg#h=815&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016871873",
+            "original_format": [
+                1024,
+                819
+            ],
+            "thumbnail": "image_2016871873_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9990708827972412,
+                    "label": "person",
+                    "cutout": "cutout_2016871873_person_0.png",
+                    "mask": "mask_2016871873_person_0.png",
+                    "bounding_box": [
+                        257.1559143066406,
+                        180.39356994628906,
+                        570.37353515625,
+                        795.2666015625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.97244793176651,
+                    "label": "chair",
+                    "cutout": "cutout_2016871873_chair_2.png",
+                    "mask": "mask_2016871873_chair_2.png",
+                    "bounding_box": [
+                        38.208221435546875,
+                        319.98175048828125,
+                        293.39056396484375,
+                        797.490966796875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Imperishable insects created by scientists. Washington, D.C. June 18. William R. Walton, Senior Entomologist of the Division of Cereal and Forage Insects, U.S. Department of Agriculture, whose unique hobby is the making of metal casts of all sorts of insects from the tiniest Scarab to the enormous six-inch Goliath Beetle, which feeds on the tropical vegetation of New Guinea. In his distinctly original work Mr. Walton uses the Galvano-Plasty method of metal coating, which he set about developing over 30 years ago. This is an electro-mechanical process similar to the electrotype process used in making newspaper cuts. 6/18/37",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22800/22897v.jpg#h=819&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Man sitting in a chair at a table holding a metal cast of an insect. Other insect models are on the table.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016871965",
+            "original_format": [
+                1024,
+                823
+            ],
+            "thumbnail": "image_2016871965_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9995152950286865,
+                    "label": "person",
+                    "cutout": "cutout_2016871965_person_0.png",
+                    "mask": "mask_2016871965_person_0.png",
+                    "bounding_box": [
+                        553.1069946289062,
+                        269.37628173828125,
+                        665.1220703125,
+                        607.4830932617188
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9988422989845276,
+                    "label": "person",
+                    "cutout": "cutout_2016871965_person_1.png",
+                    "mask": "mask_2016871965_person_1.png",
+                    "bounding_box": [
+                        642.0314331054688,
+                        260.1330871582031,
+                        762.6994018554688,
+                        618.5089721679688
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9987078905105591,
+                    "label": "person",
+                    "cutout": "cutout_2016871965_person_2.png",
+                    "mask": "mask_2016871965_person_2.png",
+                    "bounding_box": [
+                        753.7777099609375,
+                        232.18710327148438,
+                        873.4318237304688,
+                        638.2728881835938
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Plenty of basehits in these bats. Washington D.C., July 7. A million dollar base-ball flesh is represented in these sluggers of the two All- Star Teams which met in the 1937 game at Griffith Stadium today. Left to right: Lou Gehrig, Joe Cronin, Bill Dickey, Joe DiMaggio, Charley Gehringer, Jimmie Foxx, and Hank Greenberg, 7/7/37",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22900/22989v.jpg#h=823&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Seven baseball players in their uniforms (New York Yankees, Detroit Tigers, and Boston Red Sox) stand in a row leaning on their bats with people gathering in the stands behind them.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016872565",
+            "original_format": [
+                1024,
+                809
+            ],
+            "thumbnail": "image_2016872565_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997732043266296,
+                    "label": "person",
+                    "cutout": "cutout_2016872565_person_0.png",
+                    "mask": "mask_2016872565_person_0.png",
+                    "bounding_box": [
+                        327.6072998046875,
+                        50.174827575683594,
+                        661.0608520507812,
+                        535.8380126953125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9984654188156128,
+                    "label": "person",
+                    "cutout": "cutout_2016872565_person_1.png",
+                    "mask": "mask_2016872565_person_1.png",
+                    "bounding_box": [
+                        103.6086196899414,
+                        220.3353729248047,
+                        408.1971435546875,
+                        716.5584716796875
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9972484707832336,
+                    "label": "person",
+                    "cutout": "cutout_2016872565_person_2.png",
+                    "mask": "mask_2016872565_person_2.png",
+                    "bounding_box": [
+                        620.094482421875,
+                        207.40762329101562,
+                        936.8397827148438,
+                        541.7885131835938
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Elder Michaux, [Happy News Cafe, 1727 7th St.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/23500/23593v.jpg#h=809&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1937-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "A man in a three-piece suit leaning over a table, while two men, wearing suits and hats, sit at the table.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016873397",
+            "original_format": [
+                1024,
+                825
+            ],
+            "thumbnail": "image_2016873397_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9984115362167358,
+                    "label": "airplane",
+                    "cutout": "cutout_2016873397_airplane_1.png",
+                    "mask": "mask_2016873397_airplane_1.png",
+                    "bounding_box": [
+                        113.47860717773438,
+                        45.47576904296875,
+                        1003.5225219726562,
+                        664.2679443359375
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Goodyear blimp at Wash. Air Port, 4/13/38",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/24400/24426v.jpg#h=825&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1938-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller | Photo shows the blimp tethered to the ground while passengers enter the gondola. Words on the blimp say \"Lifeguard tires\" and \"Enterprise.\""
+            ],
+            "alt_text": "Photo shows a Goodyear blimp tethered to the ground while passengers climb into the gondola. Words on the blimp say \"Lifeguard tires\" and \"Enterprise.\"\n",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016873653",
+            "original_format": [
+                1024,
+                820
+            ],
+            "thumbnail": "image_2016873653_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9980138540267944,
+                    "label": "person",
+                    "cutout": "cutout_2016873653_person_0.png",
+                    "mask": "mask_2016873653_person_0.png",
+                    "bounding_box": [
+                        403.5760192871094,
+                        214.26734924316406,
+                        714.8953247070312,
+                        793.8389282226562
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9980056881904602,
+                    "label": "person",
+                    "cutout": "cutout_2016873653_person_1.png",
+                    "mask": "mask_2016873653_person_1.png",
+                    "bounding_box": [
+                        490.102783203125,
+                        30.1216983795166,
+                        994.0610961914062,
+                        801.6630249023438
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Heroes of battle of Gettysburg paid tribute by surviving brothers-in-arms. Washington, D.C., May 30, Although there are only a few of the boys in blue and gray left, two of them were strong enough today, Memorial Day, to drop flowers from the air on the Gettysburg battlefield to honor their comrades who lost their lives in this historic battle of the Civil War. Here we see, left to right: William H. Jackson, 95, of Washington, D.C., 5/30/38",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/24600/24682v.jpg#h=820&w=1024",
+            "subjects": [
+                "United States--History--Civil War, 1861-1865--Veterans",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1938-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller | Photograph shows Civil War verterans William H. Jackson and Robert W. Wilson in the passenger cabin of a Boeing 247D airliner, belonging to Pennsylvania Central Airlines (PCA) flying over the Gettysburg battlefield. (Source: Flickr Commons project, 2018 and  neighboring Harris & Ewing image)"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016874827",
+            "original_format": [
+                1024,
+                819
+            ],
+            "thumbnail": "image_2016874827_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9991371035575867,
+                    "label": "person",
+                    "cutout": "cutout_2016874827_person_0.png",
+                    "mask": "mask_2016874827_person_0.png",
+                    "bounding_box": [
+                        106.3940658569336,
+                        96.99864959716797,
+                        423.6903991699219,
+                        789.4706420898438
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.998624324798584,
+                    "label": "person",
+                    "cutout": "cutout_2016874827_person_1.png",
+                    "mask": "mask_2016874827_person_1.png",
+                    "bounding_box": [
+                        556.7373657226562,
+                        91.98577880859375,
+                        944.0394897460938,
+                        794.1777954101562
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.995610773563385,
+                    "label": "person",
+                    "cutout": "cutout_2016874827_person_2.png",
+                    "mask": "mask_2016874827_person_2.png",
+                    "bounding_box": [
+                        378.3143615722656,
+                        118.39302062988281,
+                        652.143310546875,
+                        800.8045654296875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Television inventor tells Economic Committee of difficulties in getting patents. Washington, D.C., Jan. 19. Philo T. Farnsworth, who conceived the principle of television when 14 years old came before the Temporary National Economic Committee today and told them that his firm, Farnsworth Television, Inc., has taken out 46 patents, has twice as many pending, and that more than 20 patent suits have resulted in which his firm was cleared in each case. Farnsworth is Vice President in charge of research in the Philadelphia firm. He is shown here with George Everson [?], Secretary of the company on his right, and Richard C. Patterson, Jr., Assistant Secretary of Commerce, 1/19/39",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/25800/25858v.jpg#h=819&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1939-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Three men in suits, seated and in conversation.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016874951",
+            "original_format": [
+                820,
+                1024
+            ],
+            "thumbnail": "image_2016874951_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9989427924156189,
+                    "label": "book",
+                    "cutout": "cutout_2016874951_book_0.png",
+                    "mask": "mask_2016874951_book_0.png",
+                    "bounding_box": [
+                        20.252460479736328,
+                        602.3573608398438,
+                        377.7345886230469,
+                        728.591064453125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9494575262069702,
+                    "label": "chair",
+                    "cutout": "cutout_2016874951_chair_1.png",
+                    "mask": "mask_2016874951_chair_1.png",
+                    "bounding_box": [
+                        28.621328353881836,
+                        310.0028076171875,
+                        731.2177124023438,
+                        1009.6883544921875
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Life begins at 70. Washington, D.C., Feb. 3. Retired from the Bureau of Indian Affairs, U.S. Department of Interior, after 33 years of service, Mrs. Isabelle Haggett at 75 is now a co-ed at George Washington University, proving the old adage 'one is never to old to learn' still holds good. She retired from the government service in 1933 at the age of 70. Her worried expression in this photograph can be attributed to the fact she is now boning for the mid-year exams in English Romantic Poetry, 2-3-39",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/25900/25993v.jpg#h=1024&w=820",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1939-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "An old woman seated in a chair looks carefully at the pages of an open book that she is holding. Her hair is in careful waves and her long-sleeve blouse has a shiny fabric.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016875338",
+            "original_format": [
+                1024,
+                818
+            ],
+            "thumbnail": "image_2016875338_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997639060020447,
+                    "label": "person",
+                    "cutout": "cutout_2016875338_person_0.png",
+                    "mask": "mask_2016875338_person_0.png",
+                    "bounding_box": [
+                        731.6655883789062,
+                        373.70428466796875,
+                        876.1710815429688,
+                        800.6107788085938
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9989619255065918,
+                    "label": "person",
+                    "cutout": "cutout_2016875338_person_1.png",
+                    "mask": "mask_2016875338_person_1.png",
+                    "bounding_box": [
+                        467.3788146972656,
+                        385.51727294921875,
+                        586.2235107421875,
+                        756.0831909179688
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9987745881080627,
+                    "label": "person",
+                    "cutout": "cutout_2016875338_person_2.png",
+                    "mask": "mask_2016875338_person_2.png",
+                    "bounding_box": [
+                        566.5567016601562,
+                        398.1600341796875,
+                        698.9049682617188,
+                        781.352783203125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Cameramen tree Cherry Blossom Queen. Washington, D.C., March 28. Peggy Townsend, pretty Washington Miss who will be crowned Queen of the Cherry Blossoms at appropriate ceremonies on Friday, was t'treed\" by the photographers as she arrived to get a preview of the beautiful blooms in Potomac Park today. 3- 28-39",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/26300/26381v.jpg#h=818&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1939-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016875639",
+            "original_format": [
+                1024,
+                823
+            ],
+            "thumbnail": "image_2016875639_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9985015392303467,
+                    "label": "person",
+                    "cutout": "cutout_2016875639_person_0.png",
+                    "mask": "mask_2016875639_person_0.png",
+                    "bounding_box": [
+                        217.74977111816406,
+                        163.3253631591797,
+                        397.0870361328125,
+                        791.0656127929688
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9977947473526001,
+                    "label": "person",
+                    "cutout": "cutout_2016875639_person_1.png",
+                    "mask": "mask_2016875639_person_1.png",
+                    "bounding_box": [
+                        115.01927947998047,
+                        245.03274536132812,
+                        211.2096405029297,
+                        567.239501953125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.997431218624115,
+                    "label": "person",
+                    "cutout": "cutout_2016875639_person_2.png",
+                    "mask": "mask_2016875639_person_2.png",
+                    "bounding_box": [
+                        679.2572021484375,
+                        225.4930877685547,
+                        862.9970092773438,
+                        768.4124145507812
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Art plus diplomacy. Washington, D.C., May 13. Miss Virginia Chang, star of the Chinese Cultural Theater, yesterday changed her role of Queen to the role of bride. She was married in the beautiful Gardens of Twin Oaks, the Chinese Embassy, to Kien-Wen Yu, second secretary of the embassy. The simple Chinese ceremony culminated a whirlwind romance and was performed by Chinese ambassador, Dr. Hu Shih. Left to right: Chinese ambassador Dr. Hu Shih, the bride, and Kien-Wen Yu",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/26600/26683v.jpg#h=823&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1939-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016876665",
+            "original_format": [
+                820,
+                1024
+            ],
+            "thumbnail": "image_2016876665_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9978952407836914,
+                    "label": "person",
+                    "cutout": "cutout_2016876665_person_0.png",
+                    "mask": "mask_2016876665_person_0.png",
+                    "bounding_box": [
+                        239.35609436035156,
+                        301.8031311035156,
+                        699.603759765625,
+                        976.9017333984375
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Collecting old bottles is hobby of retired professor. Washington, D.C., Nov. 27. Bottles here, bottles there, and bottles everywhere amply describes the home here of W. Edwin Priest, retired Professor of History in the Washington high schools. Now 78 years old, Professor Priest has been collecting bottles of every imaginary kind, shape, and variety for 40 years. He now has over 1,000 bottles in his prized collection. Prof. Priest is shown holding the latest addition--the most valuable one--the little bottle which was found in Chaldea, home of the early christians, and said to be over 4,000 years old",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/27700/27717v.jpg#h=1024&w=820",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1939-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "An old man seated in a chair is looking at a small bottle and a large glass bottle that he holds in his hands. Many more bottles are on shelves behind him.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016878424",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016878424_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997822642326355,
+                    "label": "person",
+                    "cutout": "cutout_2016878424_person_0.png",
+                    "mask": "mask_2016878424_person_0.png",
+                    "bounding_box": [
+                        577.8815307617188,
+                        191.6909637451172,
+                        763.5368041992188,
+                        614.8231201171875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.99910968542099,
+                    "label": "person",
+                    "cutout": "cutout_2016878424_person_1.png",
+                    "mask": "mask_2016878424_person_1.png",
+                    "bounding_box": [
+                        51.008056640625,
+                        187.0913543701172,
+                        197.42660522460938,
+                        674.2901611328125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9989506006240845,
+                    "label": "person",
+                    "cutout": "cutout_2016878424_person_2.png",
+                    "mask": "mask_2016878424_person_2.png",
+                    "bounding_box": [
+                        354.8282165527344,
+                        145.9995574951172,
+                        586.91455078125,
+                        650.15625
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "\"In a bicycle built for two,\" Washington, D.C. September 8. Dr. Loo S. Rowe greets Victor Scarraffia and Vincente Gregori ? (front to rear) two Argentinian cyclists who left Buenos Aires January 1, 1934 in their bicycle. After two years and a half of privations which included being lost in the desert, attacks of tropical fever, etc., they have finally completed their \"goodwil visit.\" Doctor Rowe is the Director General of the Pan-American Union",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/33700/33721v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1936-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016879575",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016879575_thumbnail.jpg",
+            "segments": [],
+            "title": "[Japanese strollers at cherry blossoms, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/36800/36801v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1932-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016883798",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016883798_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9955748319625854,
+                    "label": "cake",
+                    "cutout": "cutout_2016883798_cake_0.png",
+                    "mask": "mask_2016883798_cake_0.png",
+                    "bounding_box": [
+                        549.7286987304688,
+                        124.01327514648438,
+                        991.005126953125,
+                        694.5521240234375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9869051575660706,
+                    "label": "person",
+                    "cutout": "cutout_2016883798_person_1.png",
+                    "mask": "mask_2016883798_person_1.png",
+                    "bounding_box": [
+                        72.17472076416016,
+                        110.86880493164062,
+                        472.758544921875,
+                        782.6266479492188
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9843898415565491,
+                    "label": "person",
+                    "cutout": "cutout_2016883798_person_2.png",
+                    "mask": "mask_2016883798_person_2.png",
+                    "bounding_box": [
+                        285.4401550292969,
+                        63.84959030151367,
+                        550.862060546875,
+                        782.6407470703125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "FIRST LADY CUTS PRESIDENT'S BIRTHDAY CAKE. WASHINGTON, D.C. JANUARY 29. MRS. ROOSEVELT CLIMAXES HER VISITS TO THE NUMEROUS BIRTHDAY BALLS FOR THE PRESIDENT BY CUTTING THE HUGE BIRTHDAY CAKE AT THE WILLARD HOTEL",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/47300/47379v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1938-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Eleanor Roosevelt cuts into a four-tiered cake in front of a group of men in suits.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016885398",
+            "original_format": [
+                1024,
+                730
+            ],
+            "thumbnail": "image_2016885398_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9996084570884705,
+                    "label": "person",
+                    "cutout": "cutout_2016885398_person_0.png",
+                    "mask": "mask_2016885398_person_0.png",
+                    "bounding_box": [
+                        598.2437744140625,
+                        213.6757354736328,
+                        838.5149536132812,
+                        623.3014526367188
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9904768466949463,
+                    "label": "truck",
+                    "cutout": "cutout_2016885398_truck_1.png",
+                    "mask": "mask_2016885398_truck_1.png",
+                    "bounding_box": [
+                        67.42922973632812,
+                        154.0673065185547,
+                        833.2899780273438,
+                        680.2764282226562
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "[Man with automobile in front of State, War and Navy Building, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/30400/30448v.jpg#h=730&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1915-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016887160",
+            "original_format": [
+                740,
+                1024
+            ],
+            "thumbnail": "image_2016887160_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.99936443567276,
+                    "label": "person",
+                    "cutout": "cutout_2016887160_person_0.png",
+                    "mask": "mask_2016887160_person_0.png",
+                    "bounding_box": [
+                        178.21717834472656,
+                        264.6302795410156,
+                        646.29541015625,
+                        1006.6837158203125
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Wash. radio show. The latest in spring styles for men. A radio set in a straw hat",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/32200/32213v.jpg#h=1024&w=740",
+            "subjects": [
+                "Hats",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1921-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016891178",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016891178_thumbnail.jpg",
+            "segments": [],
+            "title": "[Collapsed roof following snow storm on January 28, 1922. Knickerbocker Theater located on the southwest corner of 18th Street and Columbia Road, N.W., Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/41900/41932v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States"
+            ],
+            "dates": "1922-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "Groups of men are examining the wreckage in the interior of a large building. The letter K is visible on the curtain surrounding a stage at one end of the building.",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016892186",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016892186_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997413754463196,
+                    "label": "person",
+                    "cutout": "cutout_2016892186_person_0.png",
+                    "mask": "mask_2016892186_person_0.png",
+                    "bounding_box": [
+                        89.12049102783203,
+                        240.8347930908203,
+                        239.51394653320312,
+                        573.0465698242188
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9994045495986938,
+                    "label": "person",
+                    "cutout": "cutout_2016892186_person_2.png",
+                    "mask": "mask_2016892186_person_2.png",
+                    "bounding_box": [
+                        880.7335205078125,
+                        277.35992431640625,
+                        985.3477172851562,
+                        582.3816528320312
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Group of boys with bird houses; White House in background. Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/42900/42940v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1923-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2016894037",
+            "original_format": [
+                1024,
+                793
+            ],
+            "thumbnail": "image_2016894037_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9974368810653687,
+                    "label": "person",
+                    "cutout": "cutout_2016894037_person_0.png",
+                    "mask": "mask_2016894037_person_0.png",
+                    "bounding_box": [
+                        214.10992431640625,
+                        167.15576171875,
+                        658.2743530273438,
+                        780.1342163085938
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Old age versus the cross word puzzle. They don't come too hard for Ambrose Hin[...] D.C., who just celebrated his one hundredth [...] \"Bring on the hard ones,\" says Mr. Hines. \"I've [...] dictionaries, time and pencils necessary.\" And he [...] too",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/44700/44791v.jpg#h=793&w=1024",
+            "subjects": [
+                "United States",
+                "Crossword puzzles--1920-1930"
+            ],
+            "dates": "1925-01-01",
+            "contributors": [
+                "Harris & Ewing, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 4 x 5 in. or smaller"
+            ],
+            "alt_text": "NA",
+            "collections": "Harris & Ewing photograph collection"
+        },
+        {
+            "resource_id": "2017696790",
+            "original_format": [
+                1024,
+                764
+            ],
+            "thumbnail": "image_2017696790_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.982417643070221,
+                    "label": "bottle",
+                    "cutout": "cutout_2017696790_bottle_1.png",
+                    "mask": "mask_2017696790_bottle_1.png",
+                    "bounding_box": [
+                        250.3968505859375,
+                        32.32927703857422,
+                        387.42938232421875,
+                        288.1012878417969
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Canned meat and canned fish. All of these are rationed",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08100/8b08182v.jpg#h=764&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Palmer, Alfred T., photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017696833",
+            "original_format": [
+                814,
+                1024
+            ],
+            "thumbnail": "image_2017696833_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9994134902954102,
+                    "label": "person",
+                    "cutout": "cutout_2017696833_person_0.png",
+                    "mask": "mask_2017696833_person_0.png",
+                    "bounding_box": [
+                        14.302197456359863,
+                        67.80398559570312,
+                        706.6461791992188,
+                        1002.2953491210938
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530v.jpg#h=1024&w=814",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "United States. Office of War Information."
+            ],
+            "description": [
+                "1 negative : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017764422",
+            "original_format": [
+                1024,
+                792
+            ],
+            "thumbnail": "image_2017764422_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9608511328697205,
+                    "label": "bench",
+                    "cutout": "cutout_2017764422_bench_0.png",
+                    "mask": "mask_2017764422_bench_0.png",
+                    "bounding_box": [
+                        15.411055564880371,
+                        484.79364013671875,
+                        825.67431640625,
+                        688.1065673828125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.941440761089325,
+                    "label": "person",
+                    "cutout": "cutout_2017764422_person_1.png",
+                    "mask": "mask_2017764422_person_1.png",
+                    "bounding_box": [
+                        140.78060913085938,
+                        449.0352478027344,
+                        644.3798828125,
+                        623.9378662109375
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Washington, D.C. Government employee taking a nap on a bench in the Botanical Garden",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14500/8b14514v.jpg#h=792&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Ferrell, John, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+            ],
+            "alt_text": "Woman wearing a flower-patterned dress, is stretched out on a bench with her shoes off.",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017764973",
+            "original_format": [
+                825,
+                1024
+            ],
+            "thumbnail": "image_2017764973_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9969155788421631,
+                    "label": "person",
+                    "cutout": "cutout_2017764973_person_0.png",
+                    "mask": "mask_2017764973_person_0.png",
+                    "bounding_box": [
+                        256.7596740722656,
+                        60.86283874511719,
+                        531.7130126953125,
+                        499.3201599121094
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.995093584060669,
+                    "label": "person",
+                    "cutout": "cutout_2017764973_person_1.png",
+                    "mask": "mask_2017764973_person_1.png",
+                    "bounding_box": [
+                        35.77051544189453,
+                        189.09194946289062,
+                        292.32672119140625,
+                        787.8800048828125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9919887185096741,
+                    "label": "person",
+                    "cutout": "cutout_2017764973_person_2.png",
+                    "mask": "mask_2017764973_person_2.png",
+                    "bounding_box": [
+                        245.2522430419922,
+                        616.211181640625,
+                        411.8500671386719,
+                        993.4723510742188
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Pouring lemonade at a birthday party on Seaton Road",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14700/8b14757v.jpg#h=1024&w=825",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Parks, Gordon, 1912-2006, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "A woman pours from a pitcher into glass jars held by a group of children.",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017765147",
+            "original_format": [
+                1024,
+                815
+            ],
+            "thumbnail": "image_2017765147_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9995729327201843,
+                    "label": "person",
+                    "cutout": "cutout_2017765147_person_0.png",
+                    "mask": "mask_2017765147_person_0.png",
+                    "bounding_box": [
+                        408.3430480957031,
+                        436.86669921875,
+                        739.787109375,
+                        777.3236694335938
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9981505274772644,
+                    "label": "person",
+                    "cutout": "cutout_2017765147_person_1.png",
+                    "mask": "mask_2017765147_person_1.png",
+                    "bounding_box": [
+                        741.0432739257812,
+                        121.97061920166016,
+                        1005.7115478515625,
+                        797.1149291992188
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9976744055747986,
+                    "label": "person",
+                    "cutout": "cutout_2017765147_person_2.png",
+                    "mask": "mask_2017765147_person_2.png",
+                    "bounding_box": [
+                        385.5793762207031,
+                        230.08517456054688,
+                        603.4871826171875,
+                        443.15966796875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Grocery store owned by Mr. J. Benjamin, on Saturday afternoon",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14900/8b14922v.jpg#h=815&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Parks, Gordon, 1912-2006, photographer"
+            ],
+            "description": [
+                "1 transparency : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017765150",
+            "original_format": [
+                1024,
+                815
+            ],
+            "thumbnail": "image_2017765150_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997894167900085,
+                    "label": "person",
+                    "cutout": "cutout_2017765150_person_0.png",
+                    "mask": "mask_2017765150_person_0.png",
+                    "bounding_box": [
+                        655.0767211914062,
+                        360.1121520996094,
+                        833.1615600585938,
+                        749.14013671875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.998272180557251,
+                    "label": "person",
+                    "cutout": "cutout_2017765150_person_1.png",
+                    "mask": "mask_2017765150_person_1.png",
+                    "bounding_box": [
+                        470.19384765625,
+                        324.72784423828125,
+                        647.6826171875,
+                        656.919189453125
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Washington, D.C. Mr. J. Benjamin's daughter waiting on a customer in her father's store",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14900/8b14924v.jpg#h=815&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Parks, Gordon, 1912-2006, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017765480",
+            "original_format": [
+                939,
+                1024
+            ],
+            "thumbnail": "image_2017765480_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9990561604499817,
+                    "label": "person",
+                    "cutout": "cutout_2017765480_person_0.png",
+                    "mask": "mask_2017765480_person_0.png",
+                    "bounding_box": [
+                        53.053955078125,
+                        144.1271209716797,
+                        165.26499938964844,
+                        475.2669677734375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9988442659378052,
+                    "label": "person",
+                    "cutout": "cutout_2017765480_person_1.png",
+                    "mask": "mask_2017765480_person_1.png",
+                    "bounding_box": [
+                        434.498291015625,
+                        379.3226623535156,
+                        625.113525390625,
+                        719.9107055664062
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9979045391082764,
+                    "label": "person",
+                    "cutout": "cutout_2017765480_person_2.png",
+                    "mask": "mask_2017765480_person_2.png",
+                    "bounding_box": [
+                        41.46338653564453,
+                        573.3636474609375,
+                        254.56777954101562,
+                        949.28076171875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Pa Pa 'as walked holes in his shoes. Cherry Blossom Festival, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b31000/8b31100/8b31139v.jpg#h=1024&w=939",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1941-01-01",
+            "contributors": [
+                "Roberts, Martha McMillan, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017822324",
+            "original_format": [
+                1024,
+                817
+            ],
+            "thumbnail": "image_2017822324_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9962719678878784,
+                    "label": "person",
+                    "cutout": "cutout_2017822324_person_0.png",
+                    "mask": "mask_2017822324_person_0.png",
+                    "bounding_box": [
+                        112.99790954589844,
+                        182.61351013183594,
+                        570.7003784179688,
+                        679.1962890625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.902318000793457,
+                    "label": "car",
+                    "cutout": "cutout_2017822324_car_1.png",
+                    "mask": "mask_2017822324_car_1.png",
+                    "bounding_box": [
+                        52.07444381713867,
+                        56.60822296142578,
+                        914.4796752929688,
+                        589.3225708007812
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Washington D.C. Changing a tire",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c26000/8c26500/8c26566v.jpg#h=805&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Collier, John, Jr., 1913-1992, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017825632",
+            "original_format": [
+                999,
+                1024
+            ],
+            "thumbnail": "image_2017825632_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9992793202400208,
+                    "label": "bicycle",
+                    "cutout": "cutout_2017825632_bicycle_0.png",
+                    "mask": "mask_2017825632_bicycle_0.png",
+                    "bounding_box": [
+                        276.0805358886719,
+                        538.7881469726562,
+                        512.9833374023438,
+                        752.7010498046875
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9988952279090881,
+                    "label": "person",
+                    "cutout": "cutout_2017825632_person_2.png",
+                    "mask": "mask_2017825632_person_2.png",
+                    "bounding_box": [
+                        288.69561767578125,
+                        417.0179443359375,
+                        428.9886169433594,
+                        709.9303588867188
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Sunday cyclists in East Potomac Park, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c34000/8c34800/8c34879v.jpg#h=1024&w=999",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Collins, Marjory, 1912-1985, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017840870",
+            "original_format": [
+                833,
+                1024
+            ],
+            "thumbnail": "image_2017840870_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9956849813461304,
+                    "label": "person",
+                    "cutout": "cutout_2017840870_person_1.png",
+                    "mask": "mask_2017840870_person_1.png",
+                    "bounding_box": [
+                        268.6071472167969,
+                        240.71043395996094,
+                        571.1218872070312,
+                        528.4177856445312
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9956061244010925,
+                    "label": "person",
+                    "cutout": "cutout_2017840870_person_2.png",
+                    "mask": "mask_2017840870_person_2.png",
+                    "bounding_box": [
+                        676.8253173828125,
+                        319.5933837890625,
+                        795.2859497070312,
+                        958.0118408203125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Dr. Mordica [i.e. Mordecai] Johnson, president of Howard University, serving portions of Thanksgiving turkey to members of his family",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d10000/8d10900/8d10908v.jpg#h=1024&w=869",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1942-01-01",
+            "contributors": [
+                "Parks, Gordon, 1912-2006, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 4 x 5 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017848679",
+            "original_format": [
+                1024,
+                1017
+            ],
+            "thumbnail": "image_2017848679_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9995750784873962,
+                    "label": "person",
+                    "cutout": "cutout_2017848679_person_0.png",
+                    "mask": "mask_2017848679_person_0.png",
+                    "bounding_box": [
+                        352.4957275390625,
+                        210.42074584960938,
+                        689.0877075195312,
+                        927.150146484375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9969768524169922,
+                    "label": "person",
+                    "cutout": "cutout_2017848679_person_2.png",
+                    "mask": "mask_2017848679_person_2.png",
+                    "bounding_box": [
+                        692.9548950195312,
+                        236.4533233642578,
+                        960.90625,
+                        900.3400268554688
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Taking pictures of the cherry blossoms",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d27000/8d27100/8d27148v.jpg#h=1017&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863004",
+            "original_format": [
+                983,
+                1024
+            ],
+            "thumbnail": "image_2017863004_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9367443919181824,
+                    "label": "person",
+                    "cutout": "cutout_2017863004_person_0.png",
+                    "mask": "mask_2017863004_person_0.png",
+                    "bounding_box": [
+                        79.09680938720703,
+                        67.3480224609375,
+                        525.1192016601562,
+                        731.954833984375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9029403924942017,
+                    "label": "person",
+                    "cutout": "cutout_2017863004_person_1.png",
+                    "mask": "mask_2017863004_person_1.png",
+                    "bounding_box": [
+                        329.590576171875,
+                        56.96775436401367,
+                        815.6315307617188,
+                        681.6859741210938
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Washington, D.C. Moccasins are worn without socks at Woodrow Wilson High School",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33850v.jpg#h=1024&w=983",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863013",
+            "original_format": [
+                1006,
+                1024
+            ],
+            "thumbnail": "image_2017863013_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9989051818847656,
+                    "label": "person",
+                    "cutout": "cutout_2017863013_person_0.png",
+                    "mask": "mask_2017863013_person_0.png",
+                    "bounding_box": [
+                        52.607582092285156,
+                        280.1845703125,
+                        665.2908935546875,
+                        957.4527587890625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.998185932636261,
+                    "label": "person",
+                    "cutout": "cutout_2017863013_person_1.png",
+                    "mask": "mask_2017863013_person_1.png",
+                    "bounding_box": [
+                        381.5234375,
+                        210.02833557128906,
+                        843.7337036132812,
+                        933.9943237304688
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9916293025016785,
+                    "label": "person",
+                    "cutout": "cutout_2017863013_person_2.png",
+                    "mask": "mask_2017863013_person_2.png",
+                    "bounding_box": [
+                        67.379638671875,
+                        338.9754333496094,
+                        245.4791259765625,
+                        587.5325317382812
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Watching a football game at Woodrow Wilson High School",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33859v.jpg#h=1024&w=1006",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863029",
+            "original_format": [
+                992,
+                1024
+            ],
+            "thumbnail": "image_2017863029_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9985156655311584,
+                    "label": "person",
+                    "cutout": "cutout_2017863029_person_1.png",
+                    "mask": "mask_2017863029_person_1.png",
+                    "bounding_box": [
+                        581.6517944335938,
+                        416.3920593261719,
+                        908.5599365234375,
+                        903.1192016601562
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Washington, D.C. Woodrow Wilson High School manager watching a football game from the sidelines",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33875v.jpg#h=1024&w=992",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863034",
+            "original_format": [
+                1014,
+                1024
+            ],
+            "thumbnail": "image_2017863034_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9966650605201721,
+                    "label": "person",
+                    "cutout": "cutout_2017863034_person_0.png",
+                    "mask": "mask_2017863034_person_0.png",
+                    "bounding_box": [
+                        199.05307006835938,
+                        291.5748596191406,
+                        678.1974487304688,
+                        886.8507080078125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9963485598564148,
+                    "label": "person",
+                    "cutout": "cutout_2017863034_person_1.png",
+                    "mask": "mask_2017863034_person_1.png",
+                    "bounding_box": [
+                        76.68952941894531,
+                        688.28125,
+                        194.1026611328125,
+                        951.3218383789062
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9901188611984253,
+                    "label": "person",
+                    "cutout": "cutout_2017863034_person_2.png",
+                    "mask": "mask_2017863034_person_2.png",
+                    "bounding_box": [
+                        140.40643310546875,
+                        413.7712707519531,
+                        555.7989501953125,
+                        956.4761352539062
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Watching a football game",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33880v.jpg#h=1024&w=1014",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863265",
+            "original_format": [
+                1024,
+                757
+            ],
+            "thumbnail": "image_2017863265_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.986786425113678,
+                    "label": "person",
+                    "cutout": "cutout_2017863265_person_0.png",
+                    "mask": "mask_2017863265_person_0.png",
+                    "bounding_box": [
+                        134.12020874023438,
+                        359.1219177246094,
+                        440.51324462890625,
+                        737.5071411132812
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9851685762405396,
+                    "label": "person",
+                    "cutout": "cutout_2017863265_person_2.png",
+                    "mask": "mask_2017863265_person_2.png",
+                    "bounding_box": [
+                        358.8629455566406,
+                        309.8306884765625,
+                        650.0990600585938,
+                        616.9991455078125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Mrs. Mary Spangler, a Woodrow Wilson High School teacher, at a class in organic chemistry which she attends in the evening at the U.S. Department of Agriculture",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41200/8d41251v.jpg#h=757&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+            ],
+            "alt_text": "Three people sit at a long table covered with paper binders and a lantern slide projector. One of them, a uniformed woman, reads a book. Three other people tare in the background.\n",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863648",
+            "original_format": [
+                1024,
+                763
+            ],
+            "thumbnail": "image_2017863648_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9997454285621643,
+                    "label": "person",
+                    "cutout": "cutout_2017863648_person_0.png",
+                    "mask": "mask_2017863648_person_0.png",
+                    "bounding_box": [
+                        30.684587478637695,
+                        82.02645874023438,
+                        333.65447998046875,
+                        614.048095703125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9994232654571533,
+                    "label": "person",
+                    "cutout": "cutout_2017863648_person_1.png",
+                    "mask": "mask_2017863648_person_1.png",
+                    "bounding_box": [
+                        394.4375,
+                        169.6224365234375,
+                        776.9896850585938,
+                        734.4678955078125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9968020915985107,
+                    "label": "person",
+                    "cutout": "cutout_2017863648_person_2.png",
+                    "mask": "mask_2017863648_person_2.png",
+                    "bounding_box": [
+                        831.0277709960938,
+                        362.1116638183594,
+                        1005.332275390625,
+                        738.3609008789062
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Walter Spangenberg at a pep assembly held the day before a football game at Woodrow Wilson High School",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41500/8d41522v.jpg#h=763&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017863919",
+            "original_format": [
+                1024,
+                790
+            ],
+            "thumbnail": "image_2017863919_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9996198415756226,
+                    "label": "person",
+                    "cutout": "cutout_2017863919_person_0.png",
+                    "mask": "mask_2017863919_person_0.png",
+                    "bounding_box": [
+                        501.2096252441406,
+                        152.10842895507812,
+                        988.8318481445312,
+                        745.9202880859375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9986187219619751,
+                    "label": "person",
+                    "cutout": "cutout_2017863919_person_1.png",
+                    "mask": "mask_2017863919_person_1.png",
+                    "bounding_box": [
+                        24.32563591003418,
+                        112.65166473388672,
+                        301.1577453613281,
+                        748.3589477539062
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9981520771980286,
+                    "label": "person",
+                    "cutout": "cutout_2017863919_person_2.png",
+                    "mask": "mask_2017863919_person_2.png",
+                    "bounding_box": [
+                        358.2220153808594,
+                        188.62139892578125,
+                        647.6135864257812,
+                        512.071533203125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Washington, D.C. Soldiers waiting between trains playing cards in the game room at the United Nations service center",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41600/8d41607v.jpg#h=790&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1943-01-01",
+            "contributors": [
+                "Bubley, Esther, photographer"
+            ],
+            "description": [
+                "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2017878551",
+            "original_format": [
+                1024,
+                841
+            ],
+            "thumbnail": "image_2017878551_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9996737241744995,
+                    "label": "person",
+                    "cutout": "cutout_2017878551_person_0.png",
+                    "mask": "mask_2017878551_person_0.png",
+                    "bounding_box": [
+                        199.7622833251953,
+                        292.51300048828125,
+                        344.1567077636719,
+                        728.9508666992188
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9974710941314697,
+                    "label": "person",
+                    "cutout": "cutout_2017878551_person_1.png",
+                    "mask": "mask_2017878551_person_1.png",
+                    "bounding_box": [
+                        319.7000732421875,
+                        457.0028991699219,
+                        533.0859985351562,
+                        731.7484741210938
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Sailor and girl at the Tomb of the Unknown Soldier, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34500/1a34520v.jpg#h=841&w=1024",
+            "subjects": [
+                "Cemeteries",
+                "World War, 1939-1945",
+                "Tombs & sepulchral monuments",
+                "Couples",
+                "Tomb of the Unknowns (Va.)",
+                "Arlington National Cemetery (Va.)",
+                "United States--Virginia"
+            ],
+            "dates": "1939",
+            "contributors": [
+                "Collier, John, Jr., 1913-1992, photographer"
+            ],
+            "description": [
+                "1 transparency : color. | Photo shows sailor with Margaret Mary McCloskey (Source: L. Rozanek, daughter of McCloskey, 2013)"
+            ],
+            "alt_text": "NA",
+            "collections": "Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2018648196",
+            "original_format": [
+                1024,
+                154
+            ],
+            "thumbnail": "image_2018648196_thumbnail.jpg",
+            "segments": [],
+            "title": "National Association of Civil War Musicians in the Grand Army review, Washington, D.C., 1915 / Photo by Schutz, 613 14th St., Wash., D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/55700/55787v.jpg#h=154&w=1024",
+            "subjects": [
+                "United States.--Army--People--1910-1920",
+                "Grand Army of the Republic--People--1910-1920",
+                "Veterans--Union--Washington (D.C.)--1910-1920",
+                "Musicians--Washington (D.C.)--1910-1920",
+                "United States--History--Civil War, 1861-1865--Veterans--Union"
+            ],
+            "dates": "1915-01-01",
+            "contributors": [
+                "Schutz Group Photographers (Washington, D.C.), photographer"
+            ],
+            "description": [
+                "1 photograph : gelatin silver print ; sheet 140 x 21 cm."
+            ],
+            "alt_text": "NA",
+            "collections": "Liljenquist Family collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2019631085",
+            "original_format": [
+                1024,
+                1000
+            ],
+            "thumbnail": "image_2019631085_thumbnail.jpg",
+            "segments": [],
+            "title": "Library. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335v.jpg#h=1000&w=1024",
+            "subjects": [
+                "United States--District of Columbia--Washington (D.C.)",
+                "Herbert Hoover Federal Building",
+                "Federal buildings",
+                "GSA",
+                "Commerce Building",
+                "James A. Wetmore",
+                "Libraries",
+                "America"
+            ],
+            "dates": "2018-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "NA",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2019646232",
+            "original_format": [
+                693,
+                1024
+            ],
+            "thumbnail": "image_2019646232_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9985260367393494,
+                    "label": "person",
+                    "cutout": "cutout_2019646232_person_0.png",
+                    "mask": "mask_2019646232_person_0.png",
+                    "bounding_box": [
+                        76.42247772216797,
+                        101.09961700439453,
+                        333.5978698730469,
+                        988.927978515625
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9937707781791687,
+                    "label": "person",
+                    "cutout": "cutout_2019646232_person_1.png",
+                    "mask": "mask_2019646232_person_1.png",
+                    "bounding_box": [
+                        254.2154541015625,
+                        305.5476379394531,
+                        650.9398803710938,
+                        943.1577758789062
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "[Jesse Jackson shaking hands with disability advocate Justin Dart Jr., who is in a wheelchair, during a hearing of the House Committee on Education and Labor on a bill which became the Americans with Disabilities Act]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/65000/65015v.jpg#h=1024&w=693",
+            "subjects": [
+                "Jackson, Jesse,--1941",
+                "Dart, Justin,--1930-2002",
+                "United States.--Congress.--House.--Committee on Education and Labor",
+                "People with disabilities--Meetings--Washington (D.C.)--1980-1990",
+                "Wheelchairs--Washington (D.C.)--1980-1990",
+                "Legislative hearings--Washington (D.C.)--1980-1990",
+                "Activists--Washington (D.C.)--1980-1990"
+            ],
+            "dates": "1989-07-17",
+            "contributors": [
+                "Jenkins, R. Michael, photographer"
+            ],
+            "description": [
+                "1 photograph : negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "Justin Dart, Jr., in a suit and a hat, and Jesse Jackson in a suit. They are shaking hands. Justin Dart., Jr., is using a wheelchair.",
+            "collections": "CQ portion of CQ Roll Call Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2019646236",
+            "original_format": [
+                1024,
+                685
+            ],
+            "thumbnail": "image_2019646236_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9869880676269531,
+                    "label": "airplane",
+                    "cutout": "cutout_2019646236_airplane_1.png",
+                    "mask": "mask_2019646236_airplane_1.png",
+                    "bounding_box": [
+                        373.936279296875,
+                        158.7429656982422,
+                        1015.5416870117188,
+                        588.5848388671875
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "[V-22 Osprey prototype aircraft in front of the U.S. Capitol]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/65000/65019v.jpg#h=685&w=1024",
+            "subjects": [
+                "United States Capitol (Washington, D.C.)--1990",
+                "V-22 Osprey (Transport plane)--1990",
+                "Transport planes--Washington (D.C.)--1990"
+            ],
+            "dates": "1990-04-25",
+            "contributors": [
+                "Jenkins, R. Michael, photographer"
+            ],
+            "description": [
+                "1 photograph : negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "Aircraft on the ground in a parking lot at the U.S. Capitol",
+            "collections": "CQ portion of CQ Roll Call Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2019672846",
+            "original_format": [
+                532,
+                420
+            ],
+            "thumbnail": "image_2019672846_thumbnail.jpg",
+            "segments": [],
+            "title": "Lincoln Memorial. Army blimp at Lincoln Memorial",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a48000/5a48300/5a48355r.jpg#h=420&w=532",
+            "subjects": [
+                "Airships",
+                "Monuments & memorials",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1930-01-01",
+            "contributors": [
+                "Horydczak, Theodor, approximately 1890-1971, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 8 x 10 in."
+            ],
+            "alt_text": "Photo shows a blimp tethered to the right of the Lincoln Memorial, with people around it.",
+            "collections": "Horydczak photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2019680628",
+            "original_format": [
+                533,
+                420
+            ],
+            "thumbnail": "image_2019680628_thumbnail.jpg",
+            "segments": [],
+            "title": "Memorial Bridge. Construction of Memorial Bridge",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a49000/5a49600/5a49629r.jpg#h=420&w=533",
+            "subjects": [
+                "Bridge construction",
+                "Bridges",
+                "United States--District of Columbia--Washington (D.C.)",
+                "United States--Virginia--Arlington County"
+            ],
+            "dates": "1920-01-01",
+            "contributors": [
+                "Horydczak, Theodor, approximately 1890-1971, photographer"
+            ],
+            "description": [
+                "1 negative : nitrate ; 8 x 10 in."
+            ],
+            "alt_text": "NA",
+            "collections": "Horydczak photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2019681158",
+            "original_format": [
+                560,
+                401
+            ],
+            "thumbnail": "image_2019681158_thumbnail.jpg",
+            "segments": [],
+            "title": "Theodor Horydczak and family. Norma Horydczak and friends at her 8th year birthday party IV",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a35000/5a35600/5a35642r.jpg#h=401&w=560",
+            "subjects": [
+                "Birthday parties",
+                "Children",
+                "United States--District of Columbia--Washington (D.C.)"
+            ],
+            "dates": "1920-01-01",
+            "contributors": [
+                "Horydczak, Theodor, approximately 1890-1971, photographer"
+            ],
+            "description": [
+                "1 negative : glass ; 5 x 7 in."
+            ],
+            "alt_text": "Children in party hats seated at a table look in the direction of the camera.",
+            "collections": "Horydczak photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2021630920",
+            "original_format": [
+                627,
+                1024
+            ],
+            "thumbnail": "image_2021630920_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.999440610408783,
+                    "label": "person",
+                    "cutout": "cutout_2021630920_person_0.png",
+                    "mask": "mask_2021630920_person_0.png",
+                    "bounding_box": [
+                        178.5190887451172,
+                        204.5002899169922,
+                        445.4949645996094,
+                        905.0708618164062
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[Marie Brose Tepe, Civil War nurse and vivandi\u00e8re of 27th Pennsylvania Infantry Regiment and 114th Pennsylvania Infantry Regiment in zouave uniform with Kearny Cross holding barrel canteen and revolver] / R.W. Addis, 308 Penna. Avenue, Washington, D.C.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75500/75531v.jpg#h=1024&w=627",
+            "subjects": [
+                "Leonard, Marie Brose Tepe,--1834-1901",
+                "Nurses--Union--1860-1870",
+                "Vivandi\u00e8res--1860-1870",
+                "Medals--1860-1870",
+                "United States--History--Civil War, 1861-1865--Women--Union",
+                "United States--History--Civil War, 1861-1865--Medical aspects--Union"
+            ],
+            "dates": "1862",
+            "contributors": [
+                "Addis, R. W. (Robert W.), -1874, photographer"
+            ],
+            "description": [
+                "1 photograph : albumen print on card mount ; mount 102 x 61 mm (carte de visite format) | Photograph shows portrait of Mary Tepe, also known as \"French Mary\" and later as Mary Tepe Leonard, who served at battles including Bull Run, Chancellorsville, and Fredricksburg and was awarded the Kearny Cross medal for bravery."
+            ],
+            "alt_text": "Marie Brose Tepe stands for a photographic portrait wearing a uniform embellished with a cross medal.",
+            "collections": "Liljenquist Family collection (Library of Congress)"
+        },
+        {
+            "resource_id": "2021638548",
+            "original_format": [
+                693,
+                1024
+            ],
+            "thumbnail": "image_2021638548_thumbnail.jpg",
+            "segments": [],
+            "title": "[The National Chanukah Menorah in Lafayette Park across from the White House, Washington, D.C.] / WKL.",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/56600/56645v.jpg#h=1024&w=693",
+            "subjects": [
+                "White House (Washington, D.C.)--1970-1980",
+                "Hanukkah--1970-1980",
+                "Menorahs--Washington (D.C.)--1970-1980"
+            ],
+            "dates": "1979-12-13",
+            "contributors": [
+                "Leffler, Warren K., photographer"
+            ],
+            "description": [
+                "1 photograph : safety negative ; film width 35mm (roll format)"
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": "U.S. News & World Report Magazine Photograph Collection (Library of Congress)"
+        },
+        {
+            "resource_id": "96516051",
+            "original_format": [
+                640,
+                455
+            ],
+            "thumbnail": "image_96516051_thumbnail.jpg",
+            "segments": [],
+            "title": "[Elementary school children standing and watching teacher write at blackboard, Washington, D.C.]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b36000/3b36900/3b36952r.jpg#h=455&w=640",
+            "subjects": [
+                "Teachers--Washington (D.C.)--1890-1900",
+                "School children--Washington (D.C.)--1890-1900",
+                "Blackboards--1890-1900"
+            ],
+            "dates": "1899-01-01",
+            "contributors": [
+                "Johnston, Frances Benjamin, 1864-1952, photographer"
+            ],
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "A group of children stands together watching a woman writing on a chalkboard.",
+            "collections": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey"
+        }
+    ]
+}

@@ -1,30 +1,4 @@
 {
-    "image_2017686730.jpg": {
-        "resource_id": "2017686730",
-        "title": "Both these traditional U.S. colors and a flag emphasizing African Americans' history were unfurled prior to the competition at the Martin Luther King, Jr., African-American Heritage Rodeo of Champions, one of the National Western Stock Show events in Denver, Colorado",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:36200:36247/full/pct:50/0/default.jpg#h=2812&w=2450",
-        "subjects": [
-            "United States--Colorado--Denver County--Denver",
-            "America",
-            "Rodeos",
-            "African-American Heritage Rodeo",
-            "National Western Stock Show",
-            "U.S. flag",
-            "American flags"
-        ],
-        "dates": "2016-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "Spotlight shines on a person wearing a black cowboy hat sits astride a dark horse holding a very large U.S. flag.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
     "image_2011630889.jpg": {
         "resource_id": "2011630889",
         "title": "U.S. Capitol dome, Washington, D.C.",
@@ -43,224 +17,6 @@
             "1 transparency : color ; 4 x 5 in. or smaller."
         ],
         "alt_text": "The dome topped by a statue is shown against a blue sky and a white cloud.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017687007.jpg": {
-        "resource_id": "2017687007",
-        "title": "Buffalo-crossing sign in the vast Wyoming portion of Yellowstone National Park (America's first national park also extends somewhat into Idaho and Montana). Of course, American bison, or buffaloes, cross just about anywhere they please rather than running down the road to cross",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:36500:36524/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": [
-            "United States--Wyoming--Yellowstone National Park",
-            "America",
-            "Yellowstone National Park",
-            "Buffalo-crossing signs"
-        ],
-        "dates": "2016-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A yellow diamond-shaped street sign with a black bison symbol in its center is pictured in front of thin tall trees.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2018703447.jpg": {
-        "resource_id": "2018703447",
-        "title": "Remains of the homes of ancient cliff dwellers in Canyon de Chelly (pronounced duh-SHAY), a vast park on Navajo tribal lands in northeastern Arizona, near the town of Chinle, that is now a U.S. national monument",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55500/55524v.jpg#h=683&w=1024",
-        "subjects": [
-            "United States--Arizona--Chinle",
-            "America",
-            "Canyon de Chelly",
-            "Navajo Nation lands",
-            "U.S. national monuments",
-            "Puebloans",
-            "Cliff dwellings"
-        ],
-        "dates": "2018-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "Photo shows the ruins of stone dwellings against the red-color walls of the canyon.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2023632670.jpg": {
-        "resource_id": "2023632670",
-        "title": "Mrs. Yoshiye Abe, an American of Japanese ancestry, helps to make American flags in a Denver factory",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/85600/85616v.jpg#h=832&w=1024",
-        "subjects": [
-            "Japanese Americans--Forced removal and internment, 1942-1945",
-            "World War, 1939-1945--Japanese Americans",
-            "Japanese Americans--Employment--Colorado--Denver--1940-1950",
-            "Japanese Americans--Women--Colorado--Denver--1940-1950",
-            "Factories--Colorado--Denver--1940-1950",
-            "Flags--American--1940-1950"
-        ],
-        "dates": "1942-01-01",
-        "contributors": [
-            "United States. Office of War Information."
-        ],
-        "description": [
-            "1 photograph : gelatin silver print ; sheet 21 x 26 cm (8 x 10 format) | Photograph shows former incarceree working at flag factory after being released from the concentration camp where she was incarcerated during World War II."
-        ],
-        "alt_text": "A woman wearing a jacket and collared shirt sits at a table sewing a star onto a large U.S. flag. In the background, other women are sewing more flags.",
-        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2019689231.jpg": {
-        "resource_id": "2019689231",
-        "title": "The Liberty Bell, an iconic symbol of American independence, located in Philadelphia, Pennsylvania",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/56800/56807v.jpg#h=683&w=1024",
-        "subjects": [
-            "United States--Pennsylvania--Philadelphia",
-            "America",
-            "Independence National Historical Park",
-            "Liberty Bell",
-            "Independence Hall",
-            "Independence Visitor Center"
-        ],
-        "dates": "2013-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A close-up of the Liberty Bell shows the large crack at the center and the words above the crack.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020742127.jpg": {
-        "resource_id": "2020742127",
-        "title": "Sign for the Tornado Alley Lanes bowling alley in Abilene, Kansas",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/67100/67160v.jpg#h=1024&w=623",
-        "subjects": [
-            "United States--Kansas--Dickinson County--Abilene",
-            "America",
-            "Tornado Alley Lanes",
-            "Bowling alleys",
-            "Signs",
-            "Tornado Alley"
-        ],
-        "dates": "2021",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "\tA large red, black, and yellow outdoor sign reads \"Bowling, Tornado Alley Lanes\" with a cut-out of a bowling ball and two bowling pins. A smaller white sign has black moveable letters advertising the restaurant and hours.\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017879462.jpg": {
-        "resource_id": "2017879462",
-        "title": "Advertising for this establishment extended out into the street during the Clarksdale Juke Joint Festival, a blues fest in the Mississippi Delta city of Clarksdale",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:42500:42516/full/pct:25/0/default.jpg#h=1120&w=1680",
-        "subjects": [
-            "United States--Mississippi--Coahoma County--Clarksdale",
-            "America",
-            "Clarksdale Juke Joint Festival",
-            "Juke joints",
-            "Decorated automobiles",
-            "Blues Alley Cafe"
-        ],
-        "dates": "2017-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A black four-door sedan spray-painted with \"Delta Blues Alley Cafe Bluestand\" and fire-like graphics is parked on the street in front of a small gray building. The building's sign also reads \"Delta Blues Alley Cafe.\"\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016826637.jpg": {
-        "resource_id": "2016826637",
-        "title": "Deaf & dumb children of St. Rita's School, Cincinnati, singing Star Spangled Banner",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/npcc/33300/33373v.jpg#h=773&w=1024",
-        "subjects": [
-            "Deaf persons--Ohio--Cincinnati--1910-1920",
-            "Sign language--Ohio--Cincinnati--1910-1920",
-            "School children--Ohio--Cincinnati--1910-1920",
-            "Flags--American--1910-1920"
-        ],
-        "dates": "1918",
-        "contributors": [
-            "Schmidt, J. R., photographer"
-        ],
-        "description": [
-            "1 negative : glass ; 8 x 10 in. or smaller"
-        ],
-        "alt_text": "A group of seven children of different ages and heights stand in front of a very large U.S. flag. Several of the children are smiling and signing with their hands.",
-        "collection": "National Photo Company Collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2011631485.jpg": {
-        "resource_id": "2011631485",
-        "title": "Smokey the Bear fire hazard sign along the Appalachian Trail in Maine",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13200:13291/full/pct:50/0/default.jpg#h=1717&w=2172",
-        "subjects": [
-            "United States--Maine--Appalachian Trail",
-            "Appalachian Trail",
-            "America",
-            "Signs"
-        ],
-        "dates": "1980-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 transparency : color ; 4 x 5 in. or smaller."
-        ],
-        "alt_text": "A large outdoor sign has a cut-out of a bear wearing a hat and blue pants with a shovel next to the words \u201cFire Danger High Today!\u201d Behind the sign are trees and shrubs.\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020742358.jpg": {
-        "resource_id": "2020742358",
-        "title": "A war memorial in Niles, Michigan, that features the flags of all five U.S. armed services: the Army, Navy, Marine Corps, Air Force, and Coast Guard",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/63400/63459v.jpg#h=1024&w=897",
-        "subjects": [
-            "United States--Michigan--Niles",
-            "America",
-            "Niles war memorial",
-            "U.S. Armed Forces' flags"
-        ],
-        "dates": "2020-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large black column topped by a world globe stands in the center of seven flags fluttering on poles and benches in a park setting.",
         "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
         "original_format": [
             "photo, print, drawing"
@@ -288,541 +44,6 @@
             "photo, print, drawing"
         ]
     },
-    "image_2017661007.jpg": {
-        "resource_id": "2017661007",
-        "title": "Great Seal of the United States. United States Post Office and Courthouse, Athens, Georgia",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:44400:44475/full/pct:25/0/default.jpg#h=1448&w=1683",
-        "subjects": [
-            "United States--Georgia--Athens",
-            "Federal buildings",
-            "GSA",
-            "Post offices",
-            "Courthouses",
-            "Louis A. Simon",
-            "U.S. Seal"
-        ],
-        "dates": "2017-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "The circular seal shows a bald eagle with outspread wings and a shield with 13 red and white stripes. In the eagle's right talon is an olive branch and in the left are 13 arrows. A blue circle with 13 white stars is above the eagle. Surrounding its head is a yellow scroll that reads \"E Pluribus Unum.\"\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020714546.jpg": {
-        "resource_id": "2020714546",
-        "title": "[Gateway Arch, St. Louis, Missouri]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppem/00700/00711v.jpg#h=1024&w=812",
-        "subjects": [
-            "Gateway Arch (Saint Louis, Mo.)",
-            "Arches--Missouri--St. Louis--1950-2010",
-            "Monuments & memorials--Missouri--St. Louis--1950-2010"
-        ],
-        "dates": "1955-01-01",
-        "contributors": [
-            "Balthazar Korab Studios, Ltd., photographer",
-            "Saarinen, Eero, 1910-1961, architect"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, b&w."
-        ],
-        "alt_text": "Black-and-white photo shows a massive stainless steel arch at a moment of sunlight that brightens its left side and darkens its right side. In the background is a truss bridge with three arches.",
-        "collection": "Balthazar Korab collection",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2018698633.jpg": {
-        "resource_id": "2018698633",
-        "title": "The Space Needle, a struture that has become the informal symbol of the Pacific Northwest city of Seattle, Washington",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/50400/50431v.jpg#h=1024&w=843",
-        "subjects": [
-            "United States--Washington (State)--King County--Seattle",
-            "America",
-            "Space Needle",
-            "Seattle World's Fair"
-        ],
-        "dates": "2018-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A flying saucer shape tops a tall steel tower that rises above green grass. A few trees with green leaves, and a clear dark blue sky are also visible.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2014633196.jpg": {
-        "resource_id": "2014633196",
-        "title": "A 1950s-vintage truck outside a general store in Jefferson, a town in Marion County in East Texas on whose main street almost every commercial building, and many nearby homes, have a historic marker",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:28900:28996/full/pct:25/0/default.jpg#h=1544&w=1228",
-        "subjects": [
-            "United States--Texas--Marion County--Jefferson",
-            "America",
-            "Jefferson General Store",
-            "Vintage",
-            "Trucks"
-        ],
-        "dates": "2014-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A long, two-story brick building reads \"Jefferson General Store\" in white and green paint near its roofline. Red, white and blue bunting drapes the entire front of the building. An antique, powder-blue truck is parked in front of the building.\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2018700461.jpg": {
-        "resource_id": "2018700461",
-        "title": "Two of what can often be dozens of different street characters in Times Square in the Manhattan borough of New York, New York",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/52300/52385v.jpg#h=1024&w=768",
-        "subjects": [
-            "United States--New York (State)--New York",
-            "America",
-            "Manhattan",
-            "Times Square",
-            "Times Square characters"
-        ],
-        "dates": "2018-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "Two people wearing Statue of Liberty costumes and sunglasses are raising fake torches while standing on pedestals. One costume is gold and the other is green with a license plate that reads \"I heart NY.\" People are walking by, and the jumbotron screens are brightly lit in this night scene.\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2010630073.jpg": {
-        "resource_id": "2010630073",
-        "title": "Rusty Bolt souvenir store, Route 66, Seligman, Arizona",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04000:04074/full/pct:25/0/default.jpg#h=1024&w=1536",
-        "subjects": [
-            "United States--Arizona--Seligman",
-            "Route 66",
-            "Signs",
-            "America"
-        ],
-        "dates": "2006-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, TIFF file, color."
-        ],
-        "alt_text": "A white road sign in the shape of a shield reads \"Arizona Route 66\" in black font. Above the sign, a wooden arrow points the direction to \"Los Angeles.\"\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017647455.jpg": {
-        "resource_id": "2017647455",
-        "title": "[Clenched fist with stars and stripes]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g14000/3g14400/3g14475v.jpg#h=1024&w=814",
-        "subjects": [
-            "Fists--1970-1980",
-            "Power (Social sciences)--1970-1980",
-            "Flags--American--1970-1980"
-        ],
-        "dates": "1971",
-        "contributors": [
-            "Gemini Enterprises, publisher"
-        ],
-        "description": [
-            "1 print : color ; (poster format)"
-        ],
-        "alt_text": "A clenched fist held high is blue with white stars. Red and white horizontal stripes are in the background.",
-        "collection": "Yanker poster collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017702122.jpg": {
-        "resource_id": "2017702122",
-        "title": "Hat n' Boots gas station (1945), boot restrooms with hat behind them view, 6800 [East] Marginal Way [South], Route 99, Seattle, Washington",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/mrg/00000/00006v.jpg#h=705&w=1024",
-        "subjects": [
-            "Automobile service stations--1970-1980",
-            "Mimetic buildings--1970-1980",
-            "United States--Washington (State)--Seattle"
-        ],
-        "dates": "1977",
-        "contributors": [
-            "Margolies, John, photographer"
-        ],
-        "description": [
-            "1 photograph : color transparency ; 35 mm (slide format)."
-        ],
-        "alt_text": "A building designed to resemble a huge red cowboy hat and equally large white cowboy boot is in the middle of a parking lot. Utility wire poles and a sign that reads \"Texaco\" are in the background.",
-        "collection": "Margolies, John John Margolies Roadside America photograph archive",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2013630622.jpg": {
-        "resource_id": "2013630622",
-        "title": "Hollywood sign in Los Angeles, California",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21194/full/pct:25/0/default.jpg#h=1024&w=1536",
-        "subjects": [
-            "United States--California--Los Angeles",
-            "Hollywood",
-            "Hollywood sign",
-            "Santa Monica Mountains",
-            "America"
-        ],
-        "dates": "2012-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "In the distance, a large white lettered signs reads \"HOLLYWOOD\" near the top of a hill that is brown with some shrubs. In the foreground is a palm tree and other greenery. \n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2010637045.jpg": {
-        "resource_id": "2010637045",
-        "title": "Mardi Gras displays and details in store windows during the Mardi Gras season in Mobile, Alabama",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:05100:05185/full/pct:25/0/default.jpg#h=1024&w=1536",
-        "subjects": [
-            "United States--Alabama--Mobile",
-            "Mardi Gras",
-            "America"
-        ],
-        "dates": "2010-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, TIFF file, color."
-        ],
-        "alt_text": "A window display shows umbrellas, masks, feathers, and ribbons in the traditional Mardi Gras colors of purple, green, and gold.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020721404.jpg": {
-        "resource_id": "2020721404",
-        "title": "Spaceman and American flag \"far from the moon but rather outside Paxton's Corner Coop ice-cream (and other treats) parlor in the little Illinois town of Annawan",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/59200/59208v.jpg#h=1024&w=678",
-        "subjects": [
-            "United States--Illinois --Henry County --Annawan",
-            "America",
-            "Paxton's Corner Coop",
-            "Spacemen displays",
-            "Flags"
-        ],
-        "dates": "2019-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "An astronaut's space suit is standing on green grass and holding onto the pole of a U.S. flag as it flies in the breeze. A white wall, green trees and blue sky are in the background.\n",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2014630613.jpg": {
-        "resource_id": "2014630613",
-        "title": "Photographer Carol M. Highsmith pauses between clicks of her Phase One 80-megapixel professional camera at the Santa Elena Canyon, deep in Big Bend National Park in Brewster County, Texas. A sheer rock wall in Mexico is to the left, one in the United States to the right",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:26400:26413/full/pct:25/0/default.jpg#h=1776&w=1185",
-        "subjects": [
-            "United States--Texas--Brewster County",
-            "Big Bend National Park",
-            "Santa Elena Canyon",
-            "Rio Grande",
-            "Rivers",
-            "America",
-            "Carol M. Highsmith"
-        ],
-        "dates": "2014-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "Photographer with her camera on a tripod standing next to a river in a canyon.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2004661541.jpg": {
-        "resource_id": "2004661541",
-        "title": "My studio",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/20600/20661v.jpg#h=759&w=1024",
-        "subjects": [
-            "Artists' studios--1860-1870",
-            "United States--Virginia--Rappahannock Station"
-        ],
-        "dates": "1864-03-17",
-        "contributors": [
-            "Forbes, Edwin, 1839-1895, artist"
-        ],
-        "description": [
-            "1 drawing."
-        ],
-        "alt_text": "Silhouette of a soldier operating a motion picture camera.",
-        "collection": "Morgan collection of Civil War drawings (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017732234.jpg": {
-        "resource_id": "2017732234",
-        "title": "Itinerant photographer in Columbus, Ohio",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8a18000/8a18400/8a18478v.jpg#h=730&w=1024",
-        "subjects": [
-            "Photographers--Ohio--Columbus--1930-1940",
-            "United States--Ohio--Columbus"
-        ],
-        "dates": "1938-01-01",
-        "contributors": [
-            "Shahn, Ben, 1898-1969, photographer"
-        ],
-        "description": [
-            "1 negative : nitrate ; 35 mm."
-        ],
-        "alt_text": "Photographer standing in front of a restaurant displays small portraits around his camera on a tripod.",
-        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020734020.jpg": {
-        "resource_id": "2020734020",
-        "title": "Andy Warhol [polaroid; polavision]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/gtfy/04400/04479v.jpg#h=1024&w=695",
-        "subjects": [
-            "United States",
-            "Artists",
-            "Personalities"
-        ],
-        "dates": "1977",
-        "contributors": [
-            "Gotfryd, Bernard, photographer"
-        ],
-        "description": [
-            "1 photograph : color transparency ; 35mm (slide format)"
-        ],
-        "alt_text": "Man holds a camera to his eye inside a room painted in wide color stripes.",
-        "collection": "Bernard Gotfryd photograph collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2010630399.jpg": {
-        "resource_id": "2010630399",
-        "title": "Chesterwood, Daniel Chester French's studio, Stockbridge, Massachusetts",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04412/full/pct:25/0/default.jpg#h=1232&w=1693",
-        "subjects": [
-            "United States--Massachusetts--Stockbridge",
-            "Chesterwood",
-            "Sculptors",
-            "Abraham Lincoln statues",
-            "Daniel Chester French",
-            "America"
-        ],
-        "dates": "2009-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, TIFF file, color."
-        ],
-        "alt_text": "Interior of artist studio with several complete and incomplete sculptures.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2017882233.jpg": {
-        "resource_id": "2017882233",
-        "title": "The first movie camera in Thomas Edison's office & library at The Thomas Edison National Historical Park in West Orange, New Jersey",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45484/full/pct:25/0/default.jpg#h=2172&w=1448",
-        "subjects": [
-            "United States--New Jersey--West Orange",
-            "America",
-            "Thomas Edison National Historical Park",
-            "Movie cameras"
-        ],
-        "dates": "2017-01-01",
-        "contributors": [
-            "Highsmith, Carol M., 1946-, photographer"
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large movie camera is in the foreground with shelves of books in the background.",
-        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2008680192.jpg": {
-        "resource_id": "2008680192",
-        "title": "[Toni Frissell, sitting, holding camera on her lap, with several children standing around her, somewhere in Europe]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19000/19005v.jpg#h=1024&w=982",
-        "subjects": [
-            "Frissell, Toni,--1907-1988",
-            "Children--Europe--1940-1950",
-            "Photographers--Europe--1940-1950",
-            "World War, 1939-1945--Communications"
-        ],
-        "dates": "1945-01-01",
-        "contributors": [
-            "Frissell, Toni, 1907-1988, photographer"
-        ],
-        "description": [
-            "1 negative : film."
-        ],
-        "alt_text": "Woman sitting in front of a stone wall while showing her camera to a group of children.",
-        "collection": "Toni Frissell photograph collection",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2015652321.jpg": {
-        "resource_id": "2015652321",
-        "title": "Pygmy hippo and her new baby before a battery of press cameras, New York Zoological Park / Photo by A.G. Bauman[n].",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ds/08100/08166v.jpg#h=627&w=1024",
-        "subjects": [
-            "New York Zoological Park--Exhibitions & displays--New York (State)--New York--1910-1920",
-            "Zoos--New York (State)--New York--1910-1920",
-            "Zoo animals--New York (State)--New York--1910-1920",
-            "Hippopotamuses--New York (State)--1910-1920",
-            "Baby animals--New York (State)--New York--1910-1920",
-            "Zoo keepers--New York (State)--New York--1910-1920",
-            "Photographers--New York (State)--New York--1910-1920"
-        ],
-        "dates": "1919-01-01",
-        "contributors": [
-            "Baumann, A. G. (Anton G.), approximately 1858-1938, photographer",
-            "New York Zoological Society."
-        ],
-        "description": [
-            "1 photograph : print ; sheet 18 x 12 cm. | Photograph shows zoo keeper with mother and baby pygmy hippopotamuses as photographers shoot their photographs at New York Zoological Park, probably after the birth of the first baby pygmy hippo born in captivity on December 24, 1919."
-        ],
-        "alt_text": "Photographers with four cameras capture hippos and a zoo keeper.",
-        "collection": "Hornaday, William T. (William Temple), 1854-1937. William Temple Hornaday papers",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2019708497.jpg": {
-        "resource_id": "2019708497",
-        "title": "Tanganyika. Arusha. A yound Masai interested in the camera",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/matpc/17700/17721v.jpg#h=754&w=1024",
-        "subjects": [
-            "Tanzania--Arusha"
-        ],
-        "dates": "1936-01-01",
-        "contributors": [
-            "Matson Photo Service, photographer"
-        ],
-        "description": [
-            "1 negative : nitrate ; 4 x 5 in."
-        ],
-        "alt_text": "Man standing in front of the camera on a tripod with a crowd in the background.",
-        "collection": "Matson photograph collection",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2021643419.jpg": {
-        "resource_id": "2021643419",
-        "title": "[Georgia O'Keeffe House, Abiquiu, New Mexico]. [Interior]. [Studio with O'Keeffe present]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/72200/72243v.jpg#h=957&w=1024",
-        "subjects": [
-            "O'Keeffe, Georgia,--1887-1986",
-            "O'Keeffe, Georgia,--1887-1986--Homes & haunts--New Mexico--Abiquiu",
-            "Artists' studios--New Mexico--Abiquiu--1960-1970"
-        ],
-        "dates": "1965-01-01",
-        "contributors": [
-            "Balthazar Korab Studios, Ltd., photographer",
-            "Chabot, Maria, 1913-2001, architect"
-        ],
-        "description": [
-            "1 photograph : negative ; sheet 6 x 6 cm (2-1/4 format) | Photograph shows Georgia O'Keeffe seated in her studio, designed by Maria Chabot."
-        ],
-        "alt_text": "Woman sits in a chair near an easel at the end of a room with a long window on one side and tables on the other.",
-        "collection": "Balthazar Korab collection",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020732637.jpg": {
-        "resource_id": "2020732637",
-        "title": "[Nun and woman with cameras at appearance of] Pope J. Paul II at Yankee Stadium [New York]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/gtfy/03000/03096v.jpg#h=696&w=1024",
-        "subjects": [
-            "United States--New York (State)--New York",
-            "Popes",
-            "Pope John Paul II visit to NYC",
-            "Personalities",
-            "United Nations",
-            "Cameras"
-        ],
-        "dates": "1979",
-        "contributors": [
-            "Gotfryd, Bernard, photographer"
-        ],
-        "description": [
-            "1 photograph : color transparency ; 35mm (slide format)"
-        ],
-        "alt_text": "Two women, one wearing a nun's habit and both holding cameras, stand in front of a crowd.",
-        "collection": "Bernard Gotfryd photograph collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2020733354.jpg": {
-        "resource_id": "2020733354",
-        "title": "Ken Scharf, painter",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/gtfy/03800/03813v.jpg#h=1024&w=700",
-        "subjects": [
-            "United States--New York (State)--New York",
-            "Pop artists",
-            "Personalities"
-        ],
-        "dates": "1985",
-        "contributors": [
-            "Gotfryd, Bernard, photographer"
-        ],
-        "description": [
-            "1 photograph : color transparency ; 35mm (slide format)"
-        ],
-        "alt_text": "A man stands in front of a painting he is creating on the wall of a room.",
-        "collection": "Bernard Gotfryd photograph collection (Library of Congress)",
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
     "image_2021638548.jpg": {
         "resource_id": "2021638548",
         "title": "[The National Chanukah Menorah in Lafayette Park across from the White House, Washington, D.C.] / WKL.",
@@ -845,402 +66,1854 @@
             "photo, print, drawing"
         ]
     },
-    "image_93511941.jpg": {
-        "resource_id": "93511941",
-        "title": "Tom Armour wins U.S. golf title by defeating Harry Cooper",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c08000/3c08400/3c08418v.jpg#h=1024&w=810",
-        "subjects": "NA",
-        "dates": "1927-01-01",
-        "contributors": "NA",
+    "image_2016871965.jpg": {
+        "resource_id": "2016871965",
+        "title": "Plenty of basehits in these bats. Washington D.C., July 7. A million dollar base-ball flesh is represented in these sluggers of the two All- Star Teams which met in the 1937 game at Griffith Stadium today. Left to right: Lou Gehrig, Joe Cronin, Bill Dickey, Joe DiMaggio, Charley Gehringer, Jimmie Foxx, and Hank Greenberg, 7/7/37",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22900/22989v.jpg#h=823&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
         "description": [
-            "1 photographic print. | Tommy Armour, full-length portrait, facing front, swinging golf club."
+            "1 negative : glass ; 4 x 5 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "Seven baseball players in their uniforms (New York Yankees, Detroit Tigers, and Boston Red Sox) stand in a row leaning on their bats with people gathering in the stands behind them.",
+        "collection": "Harris & Ewing photograph collection",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2004668297.jpg": {
-        "resource_id": "2004668297",
-        "title": "Evora and Porfirio Bonet [looking at book in front of fireplace]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b15000/3b15600/3b15683r.jpg#h=640&w=455",
-        "subjects": "NA",
+    "image_2011631448.jpg": {
+        "resource_id": "2011631448",
+        "title": "Poet Kahlil Gibran Memorial in Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13200:13254/full/pct:50/0/default.jpg#h=1723&w=2196",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Kahlil Gibran",
+            "Memorials"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller."
+        ],
+        "alt_text": "Sculpted bust of Kahlil Gibran\u2019s head accompanied by birds accentuates an outdoor fountain.\n",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016855814.jpg": {
+        "resource_id": "2016855814",
+        "title": "Senate Subway R.R.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/14700/14709v.jpg#h=826&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1905-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 8 x 10 in. or smaller"
+        ],
+        "alt_text": "Men sit on two open-sided subway cars powered from a monorail above the cars.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016871873.jpg": {
+        "resource_id": "2016871873",
+        "title": "Imperishable insects created by scientists. Washington, D.C. June 18. William R. Walton, Senior Entomologist of the Division of Cereal and Forage Insects, U.S. Department of Agriculture, whose unique hobby is the making of metal casts of all sorts of insects from the tiniest Scarab to the enormous six-inch Goliath Beetle, which feeds on the tropical vegetation of New Guinea. In his distinctly original work Mr. Walton uses the Galvano-Plasty method of metal coating, which he set about developing over 30 years ago. This is an electro-mechanical process similar to the electrotype process used in making newspaper cuts. 6/18/37",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22800/22897v.jpg#h=819&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "Man sitting in a chair at a table holding a metal cast of an insect. Other insect models are on the table.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016874827.jpg": {
+        "resource_id": "2016874827",
+        "title": "Television inventor tells Economic Committee of difficulties in getting patents. Washington, D.C., Jan. 19. Philo T. Farnsworth, who conceived the principle of television when 14 years old came before the Temporary National Economic Committee today and told them that his firm, Farnsworth Television, Inc., has taken out 46 patents, has twice as many pending, and that more than 20 patent suits have resulted in which his firm was cleared in each case. Farnsworth is Vice President in charge of research in the Philadelphia firm. He is shown here with George Everson [?], Secretary of the company on his right, and Richard C. Patterson, Jr., Assistant Secretary of Commerce, 1/19/39",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/25800/25858v.jpg#h=819&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1939-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "Three men in suits, seated and in conversation.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010630446.jpg": {
+        "resource_id": "2010630446",
+        "title": "July 4th fireworks, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04460/full/pct:50/0/default.jpg#h=1846&w=2706",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "July 4th fireworks",
+            "America"
+        ],
+        "dates": "2007-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, color."
+        ],
+        "alt_text": "Red and green fireworks appear as a huge burst of color above monuments lighted in white and a river in the foreground.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011633142.jpg": {
+        "resource_id": "2011633142",
+        "title": "Second Floor, East Corridor. Mosaic of Minerva by Elihu Vedder, with restorer at work. Library of Congress Thomas Jefferson Building, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14900:14949/full/pct:25/0/default.jpg#h=1736&w=1359",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Library of Congress",
+            "Jefferson Building"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "The figure of Minerva features blue, pink, green, and gold colors.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2013634076.jpg": {
+        "resource_id": "2013634076",
+        "title": "Mural showing Native Americans by artist Gerald Nailor at the Interior Department Building, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18479/full/pct:50/0/default.jpg#h=2146&w=2048",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Department of Interior",
+            "GSA",
+            "Murals",
+            "Native Americans"
+        ],
+        "dates": "2012-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, tiff file, color."
+        ],
+        "alt_text": "A mural with two men wearing headgear and holding green plants, facing a woman and two children. One man stands and holds out his arm while the other kneels and grasps one of the children by the ankle.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2013634071.jpg": {
+        "resource_id": "2013634071",
+        "title": "Detail of mural showing Native American woman with child by artist Velino Herrara at the Interior Department Building, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18474/full/pct:50/0/default.jpg#h=2532&w=1098",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Department of Interior",
+            "GSA",
+            "Murals",
+            "Native Americans"
+        ],
+        "dates": "2012-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, tiff file, color."
+        ],
+        "alt_text": "Mural of a woman walking toward the right. A baby rides on her back, wrapped in a red patterned cloth.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011635657.jpg": {
+        "resource_id": "2011635657",
+        "title": "Participant in the \"Million Indian March\" on Washington, D.C., photographed on the National Mall on June 27th, 2003",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:17400:17463/full/pct:50/0/default.jpg#h=1461&w=1963",
+        "subjects": [
+            "Indians of North America--Political activity--Washington (D.C.)--2000-2010",
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Million Indian March",
+            "National Mall",
+            "Native Americans"
+        ],
+        "dates": "2003-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller."
+        ],
+        "alt_text": "A woman wearing a beaded vest looks to the left while standing on the National Mall. The Washington Monument is visible behind her.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2015645184.jpg": {
+        "resource_id": "2015645184",
+        "title": "[Representative Loretta Sanchez speaking at microphone with others behind her at a Congressional Hispanic Caucus press conference outside the U.S. Capitol]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38890v.jpg#h=733&w=1024",
+        "subjects": [
+            "Sanchez, Loretta--Public appearances",
+            "Congressional Hispanic Caucus (U.S.)--People--1990-2000",
+            "Legislators--Washington (D.C.)--1990-2000",
+            "Press conferences--Washington (D.C.)--1990-2000"
+        ],
+        "dates": "1997-01-01",
+        "contributors": [
+            "Keating, Maureen, photographer"
+        ],
+        "description": [
+            "1 photograph : negative ; film width 35mm (roll format)"
+        ],
+        "alt_text": "Former U.S. Representative Loretta Sanchez speaks in front of an array of microphones. A group of people stand behind her.",
+        "collection": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_96516051.jpg": {
+        "resource_id": "96516051",
+        "title": "[Elementary school children standing and watching teacher write at blackboard, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b36000/3b36900/3b36952r.jpg#h=455&w=640",
+        "subjects": [
+            "Teachers--Washington (D.C.)--1890-1900",
+            "School children--Washington (D.C.)--1890-1900",
+            "Blackboards--1890-1900"
+        ],
+        "dates": "1899-01-01",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer"
+        ],
+        "description": [
+            "1 photographic print."
+        ],
+        "alt_text": "A group of children stands together watching a woman writing on a chalkboard.",
+        "collection": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017764422.jpg": {
+        "resource_id": "2017764422",
+        "title": "Washington, D.C. Government employee taking a nap on a bench in the Botanical Garden",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14500/8b14514v.jpg#h=792&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Ferrell, John, photographer"
+        ],
+        "description": [
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+        ],
+        "alt_text": "Woman wearing a flower-patterned dress, is stretched out on a bench with her shoes off.",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2001703638.jpg": {
+        "resource_id": "2001703638",
+        "title": "[Kindergarten in a vegetable garden, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a25000/3a25200/3a25266r.jpg#h=497&w=640",
+        "subjects": [
+            "Education--Washington (D.C.)--1890-1900"
+        ],
+        "dates": "1899-01-01",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer"
+        ],
+        "description": [
+            "1 photographic print : cyanotype."
+        ],
+        "alt_text": "More than 12 children and a teacher are in a narrow, fenced garden.",
+        "collection": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2015645165.jpg": {
+        "resource_id": "2015645165",
+        "title": "[Representative Patsy Mink announces the formation of the Congressional Asian Pacific American Caucus at a press conference with (left to right) Representatives Don Edwards and Norman Mineta, Guam Delegate Robert Underwood, and Representatives Nancy Pelosi and Neil Abercrombie]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38887v.jpg#h=708&w=1024",
+        "subjects": [
+            "Mink, Patsy T.,--1927-2002--Public appearances",
+            "Legislators--Washington (D.C.)--1990-2000",
+            "Press conferences--Washington (D.C.)--1990-2000"
+        ],
+        "dates": "1994-01-01",
+        "contributors": [
+            "Patterson, Laura, active approximately 1989-2000, photographer"
+        ],
+        "description": [
+            "1 photograph : negative ; film width 35mm (roll format)"
+        ],
+        "alt_text": "NA",
+        "collection": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2021630920.jpg": {
+        "resource_id": "2021630920",
+        "title": "[Marie Brose Tepe, Civil War nurse and vivandi\u00e8re of 27th Pennsylvania Infantry Regiment and 114th Pennsylvania Infantry Regiment in zouave uniform with Kearny Cross holding barrel canteen and revolver] / R.W. Addis, 308 Penna. Avenue, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75500/75531v.jpg#h=1024&w=627",
+        "subjects": [
+            "Leonard, Marie Brose Tepe,--1834-1901",
+            "Nurses--Union--1860-1870",
+            "Vivandi\u00e8res--1860-1870",
+            "Medals--1860-1870",
+            "United States--History--Civil War, 1861-1865--Women--Union",
+            "United States--History--Civil War, 1861-1865--Medical aspects--Union"
+        ],
+        "dates": "1862",
+        "contributors": [
+            "Addis, R. W. (Robert W.), -1874, photographer"
+        ],
+        "description": [
+            "1 photograph : albumen print on card mount ; mount 102 x 61 mm (carte de visite format) | Photograph shows portrait of Mary Tepe, also known as \"French Mary\" and later as Mary Tepe Leonard, who served at battles including Bull Run, Chancellorsville, and Fredricksburg and was awarded the Kearny Cross medal for bravery."
+        ],
+        "alt_text": "Marie Brose Tepe stands for a photographic portrait wearing a uniform embellished with a cross medal.",
+        "collection": "Liljenquist Family collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016866957.jpg": {
+        "resource_id": "2016866957",
+        "title": "WOMAN SUFFRAGE. BIRTHDAY CAKE",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/07000/07052v.jpg#h=762&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1916-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller | Photo shows Gertrude Crocker (right, wearing wide-brimmed hat), holding cake with another woman, possibly her sister Ruth, in front of the Congressional Union for Woman Suffrage at 21 Madison Place, Washington, D.C. Crocker was Assistant Treasurer or Treasurer of the National Woman's Party at the time."
+        ],
+        "alt_text": "Two women hold a birthday cake encircled by flowers and two small flags.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019681158.jpg": {
+        "resource_id": "2019681158",
+        "title": "Theodor Horydczak and family. Norma Horydczak and friends at her 8th year birthday party IV",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a35000/5a35600/5a35642r.jpg#h=401&w=560",
+        "subjects": [
+            "Birthday parties",
+            "Children",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
         "dates": "1920-01-01",
-        "contributors": "NA",
+        "contributors": [
+            "Horydczak, Theodor, approximately 1890-1971, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : glass ; 5 x 7 in."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "Children in party hats seated at a table look in the direction of the camera.",
+        "collection": "Horydczak photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_97518968.jpg": {
-        "resource_id": "97518968",
-        "title": "[Charles Curtis, 31st vice president, half-length portrait, facing front, standing on the Senate rostrum in the U.S. Capitol]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b31000/3b31700/3b31743r.jpg#h=640&w=528",
-        "subjects": "NA",
-        "dates": "1929-01-01",
-        "contributors": "NA",
+    "image_2017764973.jpg": {
+        "resource_id": "2017764973",
+        "title": "Washington, D.C. Pouring lemonade at a birthday party on Seaton Road",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14700/8b14757v.jpg#h=1024&w=825",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Parks, Gordon, 1912-2006, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : safety ; 4 x 5 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "A woman pours from a pitcher into glass jars held by a group of children.",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2010651699.jpg": {
-        "resource_id": "2010651699",
-        "title": "[Secretary of Navy Josephus Daniels (center) seated with Admiral [Trevylyan] Napier, R.N.; standing left to right: Capt. Blake of Naval Attache British Embassy, Admiral Long of U.S.N., Lt. Curzon-Howe, R.N., Com. Bevan, R.N., Com. Foote, U.S.N.]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ds/00100/00151v.jpg#h=809&w=1024",
-        "subjects": "NA",
-        "dates": "1920-01-01",
-        "contributors": "NA",
+    "image_2016883798.jpg": {
+        "resource_id": "2016883798",
+        "title": "FIRST LADY CUTS PRESIDENT'S BIRTHDAY CAKE. WASHINGTON, D.C. JANUARY 29. MRS. ROOSEVELT CLIMAXES HER VISITS TO THE NUMEROUS BIRTHDAY BALLS FOR THE PRESIDENT BY CUTTING THE HUGE BIRTHDAY CAKE AT THE WILLARD HOTEL",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/47300/47379v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1938-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : glass ; 4 x 5 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "Eleanor Roosevelt cuts into a four-tiered cake in front of a group of men in suits.",
+        "collection": "Harris & Ewing photograph collection",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_00652544.jpg": {
-        "resource_id": "00652544",
-        "title": "[Eamonn De Valera, head-and-shoulders portrait, facing front]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b15000/3b15200/3b15291r.jpg#h=640&w=479",
-        "subjects": "NA",
+    "image_2016800361.jpg": {
+        "resource_id": "2016800361",
+        "title": "Pennsylvania Avenue, Washington",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/det/4a00000/4a09000/4a09400/4a09425v.jpg#h=821&w=1024",
+        "subjects": [
+            "Streets",
+            "Commercial facilities",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1902-01-01",
+        "contributors": [
+            "Jackson, William Henry, 1843-1942, photographer",
+            "Detroit Publishing Co., copyright claimant",
+            "Detroit Publishing Co., publisher"
+        ],
+        "description": [
+            "1 negative : glass ; 8 x 10 in."
+        ],
+        "alt_text": "A wide street hosts streetcars, pedestrians, and horse-drawn vehicles and leads to the Capitol Dome. Large buildings flank sidewalks peopled with pedestrians.",
+        "collection": "Detroit Publishing Company photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2001703618.jpg": {
+        "resource_id": "2001703618",
+        "title": "[A chemistry lab, Central High School]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a17000/3a17700/3a17787r.jpg#h=509&w=640",
+        "subjects": [
+            "Education--Washington (D.C.)--1890-1900"
+        ],
+        "dates": "1899-01-01",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer"
+        ],
+        "description": [
+            "1 photographic print : cyanotype."
+        ],
+        "alt_text": "Several male students and one female student are working at countertops with elevated shelves filled with glass bottles and tubes. A male teacher stands at the side.",
+        "collection": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2001702332.jpg": {
+        "resource_id": "2001702332",
+        "title": "[A visit to the Library of Congress]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a07000/3a07900/3a07933v.jpg#h=817&w=1024",
+        "subjects": [
+            "Education--Washington (D.C.)--1890-1900"
+        ],
+        "dates": "1899-01-01",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer"
+        ],
+        "description": [
+            "1 photographic print : cyanotype."
+        ],
+        "alt_text": "A group of well-dressed African American women and children stand in a line looking up at a mural. Archways and murals are visible above them.",
+        "collection": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2001699137.jpg": {
+        "resource_id": "2001699137",
+        "title": "[Female students playing basketball, Western High School, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/31900/31958v.jpg#h=796&w=1024",
+        "subjects": [
+            "Women--Sports--Washington (D.C.)--1890-1900",
+            "Students--Washington (D.C.)--1890-1900",
+            "Physical fitness--Washington (D.C.)--1890-1900",
+            "Basketball--Washington (D.C.)--1890-1900"
+        ],
+        "dates": "1899-01-01",
+        "contributors": [
+            "Johnston, Frances Benjamin, 1864-1952, photographer"
+        ],
+        "description": [
+            "1 photographic print : cyanotype."
+        ],
+        "alt_text": "Eight girls are posed in basketball positions as one girl aims the ball towards the basket. They wear belted, knee-length outfits and stockings.",
+        "collection": "Johnston, Frances Benjamin,1864-1952. Washington, D.C., school survey",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017863265.jpg": {
+        "resource_id": "2017863265",
+        "title": "Washington, D.C. Mrs. Mary Spangler, a Woodrow Wilson High School teacher, at a class in organic chemistry which she attends in the evening at the U.S. Department of Agriculture",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41200/8d41251v.jpg#h=757&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
+        "description": [
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+        ],
+        "alt_text": "Three people sit at a long table covered with paper binders and a lantern slide projector. One of them, a uniformed woman, reads a book. Three other people tare in the background.\n",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016891178.jpg": {
+        "resource_id": "2016891178",
+        "title": "[Collapsed roof following snow storm on January 28, 1922. Knickerbocker Theater located on the southwest corner of 18th Street and Columbia Road, N.W., Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/41900/41932v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States"
+        ],
         "dates": "1922-01-01",
-        "contributors": "NA",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
         "description": [
-            "Photograph by National Photo Company. Original negative may be available: LC-F82-3483"
+            "1 negative : glass ; 4 x 5 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "catalog",
-            "american leaders speak: recordings from world war i",
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "prints and photographs division"
-        ],
+        "alt_text": "Groups of men are examining the wreckage in the interior of a large building. The letter K is visible on the curtain surrounding a stage at one end of the building.",
+        "collection": "Harris & Ewing photograph collection",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2002710466.jpg": {
-        "resource_id": "2002710466",
-        "title": "Allen Welsh Dulles, 1893-1969",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29700/3b29712r.jpg#h=640&w=494",
-        "subjects": "NA",
+    "image_2002716781.jpg": {
+        "resource_id": "2002716781",
+        "title": "[African American woman, seated on ground, fishing, at the Tidal Basin, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01900/01947v.jpg#h=1024&w=950",
+        "subjects": [
+            "African Americans--Women--Washington (D.C.)--1950-1960",
+            "Fishing--Washington (D.C.)--1950-1960",
+            "Tidal Basin (Washington, D.C.)--1950-1960"
+        ],
+        "dates": "1957",
+        "contributors": [
+            "Frissell, Toni, 1907-1988, photographer"
+        ],
+        "description": [
+            "1 negative : nitrate film ; 120 medium format."
+        ],
+        "alt_text": "Smiling  woman sitting on the ground with a fishing pole and her bare feet dangling over the water.",
+        "collection": "Toni Frissell photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016874951.jpg": {
+        "resource_id": "2016874951",
+        "title": "Life begins at 70. Washington, D.C., Feb. 3. Retired from the Bureau of Indian Affairs, U.S. Department of Interior, after 33 years of service, Mrs. Isabelle Haggett at 75 is now a co-ed at George Washington University, proving the old adage 'one is never to old to learn' still holds good. She retired from the government service in 1933 at the age of 70. Her worried expression in this photograph can be attributed to the fact she is now boning for the mid-year exams in English Romantic Poetry, 2-3-39",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/25900/25993v.jpg#h=1024&w=820",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1939-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "An old woman seated in a chair looks carefully at the pages of an open book that she is holding. Her hair is in careful waves and her long-sleeve blouse has a shiny fabric.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016876665.jpg": {
+        "resource_id": "2016876665",
+        "title": "Collecting old bottles is hobby of retired professor. Washington, D.C., Nov. 27. Bottles here, bottles there, and bottles everywhere amply describes the home here of W. Edwin Priest, retired Professor of History in the Washington high schools. Now 78 years old, Professor Priest has been collecting bottles of every imaginary kind, shape, and variety for 40 years. He now has over 1,000 bottles in his prized collection. Prof. Priest is shown holding the latest addition--the most valuable one--the little bottle which was found in Chaldea, home of the early christians, and said to be over 4,000 years old",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/27700/27717v.jpg#h=1024&w=820",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1939-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "An old man seated in a chair is looking at a small bottle and a large glass bottle that he holds in his hands. Many more bottles are on shelves behind him.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016872565.jpg": {
+        "resource_id": "2016872565",
+        "title": "Elder Michaux, [Happy News Cafe, 1727 7th St.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/23500/23593v.jpg#h=809&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "A man in a three-piece suit leaning over a table, while two men, wearing suits and hats, sit at the table.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011633149.jpg": {
+        "resource_id": "2011633149",
+        "title": "Charles Lindbergh's \"Spirit of St Louis\" airplane, hanging at the Smithsonian Institution's Air and Space Museum on the National Mall, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14900:14956/full/pct:25/0/default.jpg#h=1356&w=1732",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Spirit of St. Louis",
+            "Charles Lindbergh",
+            "Air and Space Museum",
+            "Smithsonian"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "Color photo shows the airplane in profile as it hangs from the  museum ceiling.",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019672846.jpg": {
+        "resource_id": "2019672846",
+        "title": "Lincoln Memorial. Army blimp at Lincoln Memorial",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a48000/5a48300/5a48355r.jpg#h=420&w=532",
+        "subjects": [
+            "Airships",
+            "Monuments & memorials",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1930-01-01",
+        "contributors": [
+            "Horydczak, Theodor, approximately 1890-1971, photographer"
+        ],
+        "description": [
+            "1 negative : nitrate ; 8 x 10 in."
+        ],
+        "alt_text": "Photo shows a blimp tethered to the right of the Lincoln Memorial, with people around it.",
+        "collection": "Horydczak photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016873397.jpg": {
+        "resource_id": "2016873397",
+        "title": "Goodyear blimp at Wash. Air Port, 4/13/38",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/24400/24426v.jpg#h=825&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1938-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller | Photo shows the blimp tethered to the ground while passengers enter the gondola. Words on the blimp say \"Lifeguard tires\" and \"Enterprise.\""
+        ],
+        "alt_text": "Photo shows a Goodyear blimp tethered to the ground while passengers climb into the gondola. Words on the blimp say \"Lifeguard tires\" and \"Enterprise.\"\n",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019646236.jpg": {
+        "resource_id": "2019646236",
+        "title": "[V-22 Osprey prototype aircraft in front of the U.S. Capitol]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/65000/65019v.jpg#h=685&w=1024",
+        "subjects": [
+            "United States Capitol (Washington, D.C.)--1990",
+            "V-22 Osprey (Transport plane)--1990",
+            "Transport planes--Washington (D.C.)--1990"
+        ],
+        "dates": "1990-04-25",
+        "contributors": [
+            "Jenkins, R. Michael, photographer"
+        ],
+        "description": [
+            "1 photograph : negative ; film width 35mm (roll format)"
+        ],
+        "alt_text": "Aircraft on the ground in a parking lot at the U.S. Capitol",
+        "collection": "CQ portion of CQ Roll Call Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016869441.jpg": {
+        "resource_id": "2016869441",
+        "title": "WALTER REED HOSPITAL",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/11300/11308v.jpg#h=1024&w=741",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1918-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller"
+        ],
+        "alt_text": "Two men in uniforms stand in front of a hospital building. One man is using crutches and does not have a left foot. He is lighting the other man's cigarette. The other man does not have hands.",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010641826.jpg": {
+        "resource_id": "2010641826",
+        "title": "College Hall, Gallaudet University, between 6th and 9th St., NE, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10000:10015/full/pct:50/0/default.jpg#h=1764&w=1680",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Gallaudet University"
+        ],
+        "dates": "2010-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, color."
+        ],
+        "alt_text": "A large red building. A sign in front of the building reads, \"College Hall.\"\n",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019646232.jpg": {
+        "resource_id": "2019646232",
+        "title": "[Jesse Jackson shaking hands with disability advocate Justin Dart Jr., who is in a wheelchair, during a hearing of the House Committee on Education and Labor on a bill which became the Americans with Disabilities Act]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/65000/65015v.jpg#h=1024&w=693",
+        "subjects": [
+            "Jackson, Jesse,--1941",
+            "Dart, Justin,--1930-2002",
+            "United States.--Congress.--House.--Committee on Education and Labor",
+            "People with disabilities--Meetings--Washington (D.C.)--1980-1990",
+            "Wheelchairs--Washington (D.C.)--1980-1990",
+            "Legislative hearings--Washington (D.C.)--1980-1990",
+            "Activists--Washington (D.C.)--1980-1990"
+        ],
+        "dates": "1989-07-17",
+        "contributors": [
+            "Jenkins, R. Michael, photographer"
+        ],
+        "description": [
+            "1 photograph : negative ; film width 35mm (roll format)"
+        ],
+        "alt_text": "Justin Dart, Jr., in a suit and a hat, and Jesse Jackson in a suit. They are shaking hands. Justin Dart., Jr., is using a wheelchair.",
+        "collection": "CQ portion of CQ Roll Call Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2003680531.jpg": {
+        "resource_id": "2003680531",
+        "title": "Hospital for the insane of the Army and Navy and the District of Columbia / [lith. of] J. Bien, 180 Broadway, N.Y.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/pga/04400/04407v.jpg#h=412&w=1024",
+        "subjects": [
+            "Pierce, Franklin,--1804-1869",
+            "Nichols, Charles H.--(Charles Henry),--1820-1889",
+            "Saint Elizabeths Hospital (Washington, D.C.)--1860-1870",
+            "Psychiatric hospitals--Washington (D.C.)--1860-1870",
+            "Pedestrians--Washington (D.C.)--1860-1870"
+        ],
+        "dates": "1860",
+        "contributors": [
+            "Bien, Julius, 1826-1909",
+            "Walter, Thomas Ustick, 1804-1887."
+        ],
+        "description": [
+            "1 print : lithograph ; sheet 17.5 x 47.2 cm. | Print shows a street-level view of Saint Elizabeths Hospital in Washington, D.C., formerly known as the Government Hospital for the Insane, showing the central building and the east and west wings, with pedestrians, carriages, and horseback riders on the plaza in the foreground."
+        ],
+        "alt_text": "A large building. In front of the building, people are walking past or riding in horse-drawn buggies. At the bottom, a caption reads, \"Hospital for the insane of the Army and Navy and the District of Columbia.\"\n",
+        "collection": "Popular graphic art print filing series (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017765150.jpg": {
+        "resource_id": "2017765150",
+        "title": "Washington, D.C. Mr. J. Benjamin's daughter waiting on a customer in her father's store",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14900/8b14924v.jpg#h=815&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Parks, Gordon, 1912-2006, photographer"
+        ],
+        "description": [
+            "1 negative : safety ; 4 x 5 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017765147.jpg": {
+        "resource_id": "2017765147",
+        "title": "Washington, D.C. Grocery store owned by Mr. J. Benjamin, on Saturday afternoon",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b14000/8b14900/8b14922v.jpg#h=815&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Parks, Gordon, 1912-2006, photographer"
+        ],
+        "description": [
+            "1 transparency : safety ; 4 x 5 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017696790.jpg": {
+        "resource_id": "2017696790",
+        "title": "Canned meat and canned fish. All of these are rationed",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08100/8b08182v.jpg#h=764&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Palmer, Alfred T., photographer"
+        ],
+        "description": [
+            "1 negative : nitrate ; 4 x 5 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016892186.jpg": {
+        "resource_id": "2016892186",
+        "title": "[Group of boys with bird houses; White House in background. Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/42900/42940v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1923-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016887160.jpg": {
+        "resource_id": "2016887160",
+        "title": "Wash. radio show. The latest in spring styles for men. A radio set in a straw hat",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/32200/32213v.jpg#h=1024&w=740",
+        "subjects": [
+            "Hats",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1921-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019631085.jpg": {
+        "resource_id": "2019631085",
+        "title": "Library. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335v.jpg#h=1000&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Herbert Hoover Federal Building",
+            "Federal buildings",
+            "GSA",
+            "Commerce Building",
+            "James A. Wetmore",
+            "Libraries",
+            "America"
+        ],
+        "dates": "2018-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, tiff file, color."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017765480.jpg": {
+        "resource_id": "2017765480",
+        "title": "Pa Pa 'as walked holes in his shoes. Cherry Blossom Festival, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b31000/8b31100/8b31139v.jpg#h=1024&w=939",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1941-01-01",
+        "contributors": [
+            "Roberts, Martha McMillan, photographer"
+        ],
+        "description": [
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017863004.jpg": {
+        "resource_id": "2017863004",
+        "title": "Washington, D.C. Moccasins are worn without socks at Woodrow Wilson High School",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33850v.jpg#h=1024&w=983",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
+        "description": [
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016894037.jpg": {
+        "resource_id": "2016894037",
+        "title": "Old age versus the cross word puzzle. They don't come too hard for Ambrose Hin[...] D.C., who just celebrated his one hundredth [...] \"Bring on the hard ones,\" says Mr. Hines. \"I've [...] dictionaries, time and pencils necessary.\" And he [...] too",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/44700/44791v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States",
+            "Crossword puzzles--1920-1930"
+        ],
+        "dates": "1925-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017863919.jpg": {
+        "resource_id": "2017863919",
+        "title": "Washington, D.C. Soldiers waiting between trains playing cards in the game room at the United Nations service center",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41600/8d41607v.jpg#h=790&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
+        "description": [
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010641712.jpg": {
+        "resource_id": "2010641712",
+        "title": "\"Crispus Attucks,\" by Herschel Levit, mural at the Recorder of Deeds building, built in 1943. 515 D St., NW, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09900:09900/full/pct:50/0/default.jpg#h=2529&w=1794",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Recorder of Deeds building",
+            "Murals"
+        ],
+        "dates": "2010-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, color."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016870156.jpg": {
+        "resource_id": "2016870156",
+        "title": "FOURTH OF JULY. TABLEAU ON ELLIPSE: 'LIBERTY,' 'COLUMBIA,' AND DANCERS",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/12400/12403v.jpg#h=738&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1919-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016875639.jpg": {
+        "resource_id": "2016875639",
+        "title": "Art plus diplomacy. Washington, D.C., May 13. Miss Virginia Chang, star of the Chinese Cultural Theater, yesterday changed her role of Queen to the role of bride. She was married in the beautiful Gardens of Twin Oaks, the Chinese Embassy, to Kien-Wen Yu, second secretary of the embassy. The simple Chinese ceremony culminated a whirlwind romance and was performed by Chinese ambassador, Dr. Hu Shih. Left to right: Chinese ambassador Dr. Hu Shih, the bride, and Kien-Wen Yu",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/26600/26683v.jpg#h=823&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1939-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016871072.jpg": {
+        "resource_id": "2016871072",
+        "title": "Florida Senator and bride on way to opening session. Washington, D.C., Jan. 5. Happy as only a bridal couple can be, Senator and Mrs. Claude Pepper of Florida, wave a greeting to friends as they boarded the Capitol subway on the way to the opening of the 75th session of Congress. Senator Pepper is a Democrat",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/21900/21941v.jpg#h=819&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011631890.jpg": {
+        "resource_id": "2011631890",
+        "title": "Cherry Blossoms around the Tidal Basin in Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13600:13696/full/pct:25/0/default.jpg#h=1358&w=1730",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Cherry Blossoms",
+            "America"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011630694.jpg": {
+        "resource_id": "2011630694",
+        "title": "Jefferson Memorial with cherry blossoms, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12500:12500/full/pct:25/0/default.jpg#h=1225&w=1541",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Jefferson Memorial",
+            "Cherry blossoms"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011632545.jpg": {
+        "resource_id": "2011632545",
+        "title": "Aerial view of Washington, D.C., showing the FDR Memorial in the foreground at Cherry Blossom Festival time, with the Potomac Tidal Basin and the Jefferson Memorial also in sight",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14300:14351/full/pct:25/0/default.jpg#h=1197&w=1522",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "FDR Memorial",
+            "Tidal Basin",
+            "Aerial views of Jefferson Memorial"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011633233.jpg": {
+        "resource_id": "2011633233",
+        "title": "Cherry trees along the Tidal Basin with Japanese Lantern placed in the park in 1954. Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15000:15040/full/pct:25/0/default.jpg#h=1744&w=1379",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Tidal Basin",
+            "Cherry Blossom Festival"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011634248.jpg": {
+        "resource_id": "2011634248",
+        "title": "Japanese lantern on the Potomac River Tidal Basin during spring cherry blossom season, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:16000:16055/full/pct:25/0/default.jpg#h=1678&w=1283",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Cherry Blossom Festival",
+            "Tidal Basin",
+            "Japanese lantern"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010630036.jpg": {
+        "resource_id": "2010630036",
+        "title": "Washington Monument, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04000:04037/full/pct:25/0/default.jpg#h=1357&w=1807",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Washington Monument",
+            "Cherry trees",
+            "Spring"
+        ],
+        "dates": "2007-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, color."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010630192.jpg": {
+        "resource_id": "2010630192",
+        "title": "Washington Monument, Washington, D.C",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/04100/04197v.jpg#h=1024&w=768",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Washington Monument",
+            "Cherry blossoms"
+        ],
+        "dates": "2007-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, infrared."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016871505.jpg": {
+        "resource_id": "2016871505",
+        "title": "Crowned Queen of Cherry Blossoms. Washington, D.C., April 8. A colorful ceremony which attracted thousands of visitors to the Capital, little Sakiko Saito, daughter of the Japanese Ambassador and Mme. Saito, was crowned Queen of the Cherry Blossoms by Melvin Hazen, Commissioner of the District of Columbia. The festival was held to celebrate the anniversary of the presentation of the Japanese cherry trees to the capital by the citizens of Tokio, Japan during the Taft Administration. With the Queen as shown her two attendants Masako Saito, also a daughter of the Japanese Amabassador, and Barbara Caldwell, American playmate of the two youngsters, 4/8/1937",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22500/22528v.jpg#h=815&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016875338.jpg": {
+        "resource_id": "2016875338",
+        "title": "Cameramen tree Cherry Blossom Queen. Washington, D.C., March 28. Peggy Townsend, pretty Washington Miss who will be crowned Queen of the Cherry Blossoms at appropriate ceremonies on Friday, was t'treed\" by the photographers as she arrived to get a preview of the beautiful blooms in Potomac Park today. 3- 28-39",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/26300/26381v.jpg#h=818&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1939-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017848679.jpg": {
+        "resource_id": "2017848679",
+        "title": "Washington, D.C. Taking pictures of the cherry blossoms",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d27000/8d27100/8d27148v.jpg#h=1017&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
+        "description": [
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016879575.jpg": {
+        "resource_id": "2016879575",
+        "title": "[Japanese strollers at cherry blossoms, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/36800/36801v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1932-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017696833.jpg": {
+        "resource_id": "2017696833",
+        "title": "The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530v.jpg#h=1024&w=814",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "United States. Office of War Information."
+        ],
+        "description": [
+            "1 negative : safety ; 4 x 5 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2010630700.jpg": {
+        "resource_id": "2010630700",
+        "title": "[Goggles carried by Lincoln's bodyguards during his train ride through Baltimore.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:50/0/default.jpg#h=2102&w=2922",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "Abraham Lincoln",
+            "Ford's Theatre",
+            "America"
+        ],
+        "dates": "2007-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 photograph : digital, TIFF file, color."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2018648196.jpg": {
+        "resource_id": "2018648196",
+        "title": "National Association of Civil War Musicians in the Grand Army review, Washington, D.C., 1915 / Photo by Schutz, 613 14th St., Wash., D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/55700/55787v.jpg#h=154&w=1024",
+        "subjects": [
+            "United States.--Army--People--1910-1920",
+            "Grand Army of the Republic--People--1910-1920",
+            "Veterans--Union--Washington (D.C.)--1910-1920",
+            "Musicians--Washington (D.C.)--1910-1920",
+            "United States--History--Civil War, 1861-1865--Veterans--Union"
+        ],
+        "dates": "1915-01-01",
+        "contributors": [
+            "Schutz Group Photographers (Washington, D.C.), photographer"
+        ],
+        "description": [
+            "1 photograph : gelatin silver print ; sheet 140 x 21 cm."
+        ],
+        "alt_text": "NA",
+        "collection": "Liljenquist Family collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016873653.jpg": {
+        "resource_id": "2016873653",
+        "title": "Heroes of battle of Gettysburg paid tribute by surviving brothers-in-arms. Washington, D.C., May 30, Although there are only a few of the boys in blue and gray left, two of them were strong enough today, Memorial Day, to drop flowers from the air on the Gettysburg battlefield to honor their comrades who lost their lives in this historic battle of the Civil War. Here we see, left to right: William H. Jackson, 95, of Washington, D.C., 5/30/38",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/24600/24682v.jpg#h=820&w=1024",
+        "subjects": [
+            "United States--History--Civil War, 1861-1865--Veterans",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1938-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller | Photograph shows Civil War verterans William H. Jackson and Robert W. Wilson in the passenger cabin of a Boeing 247D airliner, belonging to Pennsylvania Central Airlines (PCA) flying over the Gettysburg battlefield. (Source: Flickr Commons project, 2018 and  neighboring Harris & Ewing image)"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017878551.jpg": {
+        "resource_id": "2017878551",
+        "title": "Sailor and girl at the Tomb of the Unknown Soldier, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34500/1a34520v.jpg#h=841&w=1024",
+        "subjects": [
+            "Cemeteries",
+            "World War, 1939-1945",
+            "Tombs & sepulchral monuments",
+            "Couples",
+            "Tomb of the Unknowns (Va.)",
+            "Arlington National Cemetery (Va.)",
+            "United States--Virginia"
+        ],
+        "dates": "1939",
+        "contributors": [
+            "Collier, John, Jr., 1913-1992, photographer"
+        ],
+        "description": [
+            "1 transparency : color. | Photo shows sailor with Margaret Mary McCloskey (Source: L. Rozanek, daughter of McCloskey, 2013)"
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016871444.jpg": {
+        "resource_id": "2016871444",
+        "title": "Washington youngster solves parking problem. Washington, D.C., March 30. Transportation and no parking worries. Nelm Clark, 16-year old Washington youngster, solved this problem by combining a lawn mower motor with a set of motor cycle gears to make this unusual midget auto. Costing $60 to build the contraption weighs only 150 pounds--the weight is its main feature--and if you run out of gas you easily push it or tuck it under your arm and walk home, 3/30/1937",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/22400/22467v.jpg#h=817&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1937-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 4 x 5 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2016885398.jpg": {
+        "resource_id": "2016885398",
+        "title": "[Man with automobile in front of State, War and Navy Building, Washington, D.C.]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/30400/30448v.jpg#h=730&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1915-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller"
+        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2017822324.jpg": {
+        "resource_id": "2017822324",
+        "title": "Washington D.C. Changing a tire",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c26000/8c26500/8c26566v.jpg#h=805&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Collier, John, Jr., 1913-1992, photographer"
+        ],
+        "description": [
+            "1 negative : safety ; 4 x 5 inches or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2011631396.jpg": {
+        "resource_id": "2011631396",
+        "title": "Peacock Alley in the historic Willard Hotel, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:13200:13202/full/pct:50/0/default.jpg#h=2823&w=2341",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Peacock Alley",
+            "Willard Hotel",
+            "Historic hotels"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
+        "description": [
+            "1 transparency : color ; 4 x 5 in. or smaller."
+        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+        "original_format": [
+            "photo, print, drawing"
+        ]
+    },
+    "image_2019680628.jpg": {
+        "resource_id": "2019680628",
+        "title": "Memorial Bridge. Construction of Memorial Bridge",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/thc/5a49000/5a49600/5a49629r.jpg#h=420&w=533",
+        "subjects": [
+            "Bridge construction",
+            "Bridges",
+            "United States--District of Columbia--Washington (D.C.)",
+            "United States--Virginia--Arlington County"
+        ],
         "dates": "1920-01-01",
-        "contributors": "NA",
+        "contributors": [
+            "Horydczak, Theodor, approximately 1890-1971, photographer"
+        ],
         "description": [
-            "1 photographic print. | Head and shoulders, facing slightly left."
+            "1 negative : nitrate ; 8 x 10 in."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Horydczak photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_99471841.jpg": {
-        "resource_id": "99471841",
-        "title": "Miss Mary Garrett Hay, treasurer of the Republican Women's National Executive Committee",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23800/3c23839v.jpg#h=1024&w=845",
-        "subjects": "NA",
-        "dates": "1921-01-01",
-        "contributors": "NA",
+    "image_2011630135.jpg": {
+        "resource_id": "2011630135",
+        "title": "Arlington Memorial Bridge, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:11900:11939/full/pct:25/0/default.jpg#h=1195&w=1541",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Arlington Memorial Bridge",
+            "Potomac River",
+            "Bridges"
+        ],
+        "dates": "1980",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
         "description": [
-            "1 photographic print. | Mary Garrett Hay, head-and-shoulders portrait, facing front."
+            "1 transparency : color ; 4 x 5 in. or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_96508832.jpg": {
-        "resource_id": "96508832",
-        "title": "[Charles Evans Hughes, full-length portrait, seated in rocker on lawn, facing left, with wife]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b38000/3b38600/3b38633r.jpg#h=455&w=640",
-        "subjects": "NA",
-        "dates": "1900-01-01",
-        "contributors": "NA",
+    "image_2015646966.jpg": {
+        "resource_id": "2015646966",
+        "title": "[Man and boy riding a bike with a dog perched on the man's shoulder near the U.S. Capitol Reflecting Pool]",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/38800/38847v.jpg#h=720&w=1024",
+        "subjects": [
+            "Reflecting pools--Washington (D.C.)--1990-2000",
+            "Cycling--Washington (D.C.)--1990-2000",
+            "Dogs--Washington (D.C.)--1990-2000"
+        ],
+        "dates": "1991-01-01",
+        "contributors": [
+            "Patterson, Laura, active approximately 1989-2000, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 photograph : negative ; film width 35mm (roll format)"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Roll Call portion of CQ Roll Call Photograph Collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_89709659.jpg": {
-        "resource_id": "89709659",
-        "title": "[Charles Evans Hughes seated at head of table, with eight other men around the table in the Diplomatic Room of the State Department]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42900/3b42943r.jpg#h=477&w=640",
-        "subjects": "NA",
-        "dates": "1921-01-01",
-        "contributors": "NA",
+    "image_2017825632.jpg": {
+        "resource_id": "2017825632",
+        "title": "Sunday cyclists in East Potomac Park, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c34000/8c34800/8c34879v.jpg#h=1024&w=999",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Collins, Marjory, 1912-1985, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2003680152.jpg": {
-        "resource_id": "2003680152",
-        "title": "Charles Evans Hughes, 1862-1948",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b12000/3b12900/3b12967r.jpg#h=640&w=463",
-        "subjects": "NA",
-        "dates": "NA",
-        "contributors": "NA",
+    "image_2011632658.jpg": {
+        "resource_id": "2011632658",
+        "title": "Bike race on Pennsylvania Avenue, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:14400:14464/full/pct:100/0/default.jpg#h=1519&w=2292",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Bicycle races",
+            "Pennsylvania Avenue"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
         "description": [
-            "1 photographic print. | 3/4 lgth., seated, facing slightly left; detail of larger photo."
+            "1 transparency : color ; 4 x 5 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_98507080.jpg": {
-        "resource_id": "98507080",
-        "title": "[Charles Evans Hughes, wife, and daughter, standing on lawn]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c20000/3c20100/3c20107v.jpg#h=1024&w=821",
-        "subjects": "NA",
-        "dates": "1917-01-01",
-        "contributors": "NA",
+    "image_2016878424.jpg": {
+        "resource_id": "2016878424",
+        "title": "\"In a bicycle built for two,\" Washington, D.C. September 8. Dr. Loo S. Rowe greets Victor Scarraffia and Vincente Gregori ? (front to rear) two Argentinian cyclists who left Buenos Aires January 1, 1934 in their bicycle. After two years and a half of privations which included being lost in the desert, attacks of tropical fever, etc., they have finally completed their \"goodwil visit.\" Doctor Rowe is the Director General of the Pan-American Union",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/33700/33721v.jpg#h=793&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1936-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : glass ; 4 x 5 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2006681388.jpg": {
-        "resource_id": "2006681388",
-        "title": "[Frank B. Kellogg, Ambassador to England ,and Secretary of State Hughes in Mr. Hughes' office, on the day of the announcement of Mr. Kellogg's appointment as his successor]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00400/3b00488r.jpg#h=520&w=640",
-        "subjects": "NA",
-        "dates": "1925-01-01",
-        "contributors": "NA",
+    "image_2011630582.jpg": {
+        "resource_id": "2011630582",
+        "title": "Great Hall at the Library of Congress's Thomas Jefferson Building, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12300:12386/full/pct:100/0/default.jpg#h=2365&w=2985",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)",
+            "America",
+            "Thomas Jefferson Building",
+            "Great Hall"
+        ],
+        "dates": "1980-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 transparency : color ; 4 x 5 in. or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_97502654.jpg": {
-        "resource_id": "97502654",
-        "title": "[Charles Evans Hughes, laying cornerstone for National Baptist Memorial Church at 16th & Columbia Rd. NW, Washington, DC]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b36000/3b36400/3b36447r.jpg#h=475&w=640",
-        "subjects": "NA",
-        "dates": "1922-01-01",
-        "contributors": "NA",
+    "image_2010719313.jpg": {
+        "resource_id": "2010719313",
+        "title": "2009 Inaugural Parade. Michelle and Barack Obama join Joe and Jill Biden watch the parade from the viewing stand in front of the White House, Washington, D.C.",
+        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03841/full/pct:50/0/default.jpg#h=1183&w=2265",
+        "subjects": [
+            "Parades & processions--District of Columbia--Washington (D.C.)--2000-2010",
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "2009-01-01",
+        "contributors": [
+            "Highsmith, Carol M., 1946-, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 photograph : digital, TIFF file, color."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2003669736.jpg": {
-        "resource_id": "2003669736",
-        "title": "Hiram Warren Johnson, 1866-1945",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b20000/3b20200/3b20284r.jpg#h=640&w=516",
-        "subjects": "NA",
-        "dates": "NA",
-        "contributors": "NA",
+    "image_2017863034.jpg": {
+        "resource_id": "2017863034",
+        "title": "Washington, D.C. Watching a football game",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33880v.jpg#h=1024&w=1014",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
         "description": [
-            "1 photographic print. | Full lgth., seated on patio, facing right; reading newspaper."
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2002705621.jpg": {
-        "resource_id": "2002705621",
-        "title": "Walter Perry Johnson, 1887-1946",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24884r.jpg#h=640&w=488",
-        "subjects": "NA",
-        "dates": "NA",
-        "contributors": "NA",
+    "image_2017863029.jpg": {
+        "resource_id": "2017863029",
+        "title": "Washington, D.C. Woodrow Wilson High School manager watching a football game from the sidelines",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33875v.jpg#h=1024&w=992",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
         "description": [
-            "1 photographic print. | Full lgth., standing, facing left; in baseball uniform and throwing ball."
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_96508557.jpg": {
-        "resource_id": "96508557",
-        "title": "[Frank Billings Kellogg, three-quarter length portrait, seated, facing left, holding eyeglasses]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b38000/3b38600/3b38613r.jpg#h=640&w=474",
-        "subjects": "NA",
-        "dates": "1900-01-01",
-        "contributors": "NA",
+    "image_2017863013.jpg": {
+        "resource_id": "2017863013",
+        "title": "Washington, D.C. Watching a football game at Woodrow Wilson High School",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d33000/8d33800/8d33859v.jpg#h=1024&w=1006",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2005690021.jpg": {
-        "resource_id": "2005690021",
-        "title": "[Paulina Longworth, daughter of Alice Roosevelt Longworth, being held by nurse for first news photos by 8 news photographiers]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a50000/3a50200/3a50290r.jpg#h=508&w=640",
-        "subjects": "NA",
-        "dates": "1925-01-01",
-        "contributors": "NA",
+    "image_2017863648.jpg": {
+        "resource_id": "2017863648",
+        "title": "Washington, D.C. Walter Spangenberg at a pep assembly held the day before a football game at Woodrow Wilson High School",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d41000/8d41500/8d41522v.jpg#h=763&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1943-01-01",
+        "contributors": [
+            "Bubley, Esther, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2002724022.jpg": {
-        "resource_id": "2002724022",
-        "title": "William Gibbs McAdoo, 1863-1941",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a01000/3a01400/3a01428r.jpg#h=470&w=640",
-        "subjects": "NA",
-        "dates": "1910-01-01",
-        "contributors": "NA",
+    "image_2017840870.jpg": {
+        "resource_id": "2017840870",
+        "title": "Washington, D.C. Dr. Mordica [i.e. Mordecai] Johnson, president of Howard University, serving portions of Thanksgiving turkey to members of his family",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d10000/8d10900/8d10908v.jpg#h=1024&w=869",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1942-01-01",
+        "contributors": [
+            "Parks, Gordon, 1912-2006, photographer"
+        ],
         "description": [
-            "1 photographic print. | 3/4 lgth., seated at desk, facing front."
+            "1 negative : safety ; 4 x 5 inches or smaller."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
         "original_format": [
             "photo, print, drawing"
         ]
     },
-    "image_2003666590.jpg": {
-        "resource_id": "2003666590",
-        "title": "General Peyton March and family ... at the Georgetown, Washington and Lee football game ... Left to right: Major and Mrs. Milliken, Gen. March and Mrs. E.C. Scanlon",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b20000/3b20000/3b20064r.jpg#h=488&w=640",
-        "subjects": "NA",
-        "dates": "NA",
-        "contributors": "NA",
+    "image_2016865984.jpg": {
+        "resource_id": "2016865984",
+        "title": "PAN AMERICAN MASS. THANKSGIVING DAY AT ST. PATRICK'S. CROWDS LEAVING ST. PATRICK'S. SECRETARY LANE, UPPER LEFT CENTER",
+        "item_url": "https://tile.loc.gov/storage-services/service/pnp/hec/05100/05122v.jpg#h=766&w=1024",
+        "subjects": [
+            "United States--District of Columbia--Washington (D.C.)"
+        ],
+        "dates": "1915-01-01",
+        "contributors": [
+            "Harris & Ewing, photographer"
+        ],
         "description": [
-            "1 photographic print."
+            "1 negative : glass ; 5 x 7 in. or smaller"
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
+        "alt_text": "NA",
+        "collection": "Harris & Ewing photograph collection",
         "original_format": [
             "photo, print, drawing"
         ]
@@ -1255,75 +1928,12 @@
         "description": [
             "1 photographic print."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+        "alt_text": "",
         "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
+            "prints and photographs division",
             "catalog",
-            "prints and photographs division"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_95512849.jpg": {
-        "resource_id": "95512849",
-        "title": "[Lyudvig Martens (left) and his secretary, Mr. S. Nuorteva(right), posed standing, full-length, facing front]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c14000/3c14800/3c14889v.jpg#h=1024&w=822",
-        "subjects": "NA",
-        "dates": "1919-01-01",
-        "contributors": "NA",
-        "description": [
-            "1 photographic print."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
             "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_95512864.jpg": {
-        "resource_id": "95512864",
-        "title": "[Ludwig Martens (right), representative of the Soviet government, with his secretary, Mr. S. Nuorteva (left), and Madam Nuorteva, posed on roof, for motion picture camera crew]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c14000/3c14800/3c14890v.jpg#h=831&w=1024",
-        "subjects": "NA",
-        "dates": "1920-01-01",
-        "contributors": "NA",
-        "description": [
-            "1 photographic print."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2003662267.jpg": {
-        "resource_id": "2003662267",
-        "title": "James Southworth Parker, 1867-1933",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b19000/3b19000/3b19016r.jpg#h=640&w=510",
-        "subjects": "NA",
-        "dates": "NA",
-        "contributors": "NA",
-        "description": [
-            "1 photographic print. | Head and shoulders, holding eyeglasses. Republ. Congressman, N.Y. (1913-1933)."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
+            "national photo company collection"
         ],
         "original_format": [
             "photo, print, drawing"
@@ -1339,609 +1949,12 @@
         "description": [
             "1 photographic print."
         ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+        "alt_text": "",
         "collection": [
-            "national photo company collection",
+            "prints and photographs division",
+            "catalog",
             "prints & photographs online catalog (library of congress)",
-            "catalog",
-            "prints and photographs division"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_00652557.jpg": {
-        "resource_id": "00652557",
-        "title": "[Miles Poindexter, three-quarter length portrait, seated at desk, facing left]",
-        "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03680v.jpg#h=1024&w=749",
-        "subjects": "NA",
-        "dates": "1920-01-01",
-        "contributors": "NA",
-        "description": [
-            "Photograph by National Photo Company."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "catalog",
-            "american leaders speak: recordings from world war i",
-            "national photo company collection",
-            "prints & photographs online catalog (library of congress)",
-            "prints and photographs division"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2015631182.jpg": {
-        "resource_id": "2015631182",
-        "title": "Sign and bust of former U.S. General and President Dwight D. Eisenhower located in Denison, Texas",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:30900:30946/full/pct:50/0/default.jpg#h=2989&w=2354",
-        "subjects": "NA",
-        "dates": "2014-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631653.jpg": {
-        "resource_id": "2016631653",
-        "title": "Aerial view of the Indianapolis Motor Speedway, the host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40835/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631654.jpg": {
-        "resource_id": "2016631654",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40836/full/pct:25/0/default.jpg#h=1358&w=2097",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631655.jpg": {
-        "resource_id": "2016631655",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40837/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631656.jpg": {
-        "resource_id": "2016631656",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40838/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631657.jpg": {
-        "resource_id": "2016631657",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40839/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631658.jpg": {
-        "resource_id": "2016631658",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40840/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631659.jpg": {
-        "resource_id": "2016631659",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40841/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631660.jpg": {
-        "resource_id": "2016631660",
-        "title": "Aerial view of an enormous field of solar panels near the Indianapolis Motor Speedway in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40842/full/pct:25/0/default.jpg#h=1400&w=2100",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631661.jpg": {
-        "resource_id": "2016631661",
-        "title": "Aerial view of the Indianapolis Motor Speedway, host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40843/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631662.jpg": {
-        "resource_id": "2016631662",
-        "title": "Aerial view of an enormous field of solar panels near the Indianapolis Motor Speedway in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40844/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631663.jpg": {
-        "resource_id": "2016631663",
-        "title": "Aerial view of the Larue D. Carter psychiatric hospital complex in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40845/full/pct:25/0/default.jpg#h=1238&w=1857",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631664.jpg": {
-        "resource_id": "2016631664",
-        "title": "Aerial view of the White River as it winds through the west side of Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40846/full/pct:25/0/default.jpg#h=1355&w=2033",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631665.jpg": {
-        "resource_id": "2016631665",
-        "title": "Aerial view of the Larue D. Carter psychiatric hospital complex in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40847/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631666.jpg": {
-        "resource_id": "2016631666",
-        "title": "Aerial view of the Indianapolis Museum of Art in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40848/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631667.jpg": {
-        "resource_id": "2016631667",
-        "title": "Aerial view of Oldfields, also known as the Lilly House and Gardens in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40849/full/pct:25/0/default.jpg#h=1357&w=2036",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631668.jpg": {
-        "resource_id": "2016631668",
-        "title": "Aerial view of Oldfields, also known as the Lilly House and Gardens in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40850/full/pct:25/0/default.jpg#h=1316&w=1974",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631669.jpg": {
-        "resource_id": "2016631669",
-        "title": "Aerial view of the multi-multi-million dollar home, and private lake, of time-share executive Christel DeHaan in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40851/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631670.jpg": {
-        "resource_id": "2016631670",
-        "title": "Aerial view of the Butler University campus in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40852/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631671.jpg": {
-        "resource_id": "2016631671",
-        "title": "Aerial view of the Butler University campus in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40853/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631672.jpg": {
-        "resource_id": "2016631672",
-        "title": "Aerial view of the Butler University sports complex in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40854/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631673.jpg": {
-        "resource_id": "2016631673",
-        "title": "Aerial view of the Butler University sports complex in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40855/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631674.jpg": {
-        "resource_id": "2016631674",
-        "title": "Aerial view of the multi-multi-million dollar home, and private lake, of time-share executive Christel DeHaan in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40856/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631675.jpg": {
-        "resource_id": "2016631675",
-        "title": "Aerial view of the multi-multi-million dollar home, and private lake, of time-share executive Christel DeHaan in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40857/full/pct:25/0/default.jpg#h=1448&w=2172",
-        "subjects": "NA",
-        "dates": "2016",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
-        ],
-        "original_format": [
-            "photo, print, drawing"
-        ]
-    },
-    "image_2016631676.jpg": {
-        "resource_id": "2016631676",
-        "title": "Aerial view of North Meridian Street as it crosses the White River in Indianapolis, Indiana",
-        "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40858/full/pct:25/0/default.jpg#h=1396&w=2095",
-        "subjects": "NA",
-        "dates": "2016-01-01",
-        "contributors": [
-            "highsmith, carol m."
-        ],
-        "description": [
-            "1 photograph : digital, tiff file, color."
-        ],
-        "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
-        "collection": [
-            "highsmith (carol m.) archive",
-            "prints and photographs division",
-            "catalog",
-            "prints & photographs online catalog (library of congress)"
+            "national photo company collection"
         ],
         "original_format": [
             "photo, print, drawing"
