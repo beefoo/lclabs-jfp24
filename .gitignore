@@ -1,7 +1,7 @@
 #environment
 loc_env/
-
 pickling_test/
-__pycache__/
+*/__pycache__/*
 early_work/efficient_sam/EfficientSAM/
+workflow/EfficientSAM/
 node_modules/

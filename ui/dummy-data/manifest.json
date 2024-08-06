@@ -1,6 +1,138 @@
 {
     "items": [
         {
+            "resource_id": "2020721404",
+            "original_format": [
+                678,
+                1024
+            ],
+            "thumbnail": "image_2020721404_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9953944683074951,
+                    "label": "person",
+                    "cutout": "cutout_2020721404_person_0.png",
+                    "mask": "mask_2020721404_person_0.png",
+                    "bounding_box": [
+                        321.45782470703125,
+                        608.3378295898438,
+                        470.1802673339844,
+                        956.02587890625
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Spaceman and American flag \"far from the moon but rather outside Paxton's Corner Coop ice-cream (and other treats) parlor in the little Illinois town of Annawan",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/59200/59208v.jpg#h=1024&w=678",
+            "subjects": [
+                "United States--Illinois --Henry County --Annawan",
+                "America",
+                "Paxton's Corner Coop",
+                "Spacemen displays",
+                "Flags"
+            ],
+            "dates": "2019-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "An astronaut's space suit is standing on green grass and holding onto the pole of a U.S. flag as it flies in the breeze. A white wall, green trees and blue sky are in the background.\n",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+        },
+        {
+            "resource_id": "2020734020",
+            "original_format": [
+                695,
+                1024
+            ],
+            "thumbnail": "image_2020734020_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9975491166114807,
+                    "label": "person",
+                    "cutout": "cutout_2020734020_person_0.png",
+                    "mask": "mask_2020734020_person_0.png",
+                    "bounding_box": [
+                        22.123748779296875,
+                        252.6683807373047,
+                        589.7575073242188,
+                        1011.5851440429688
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.988430380821228,
+                    "label": "tie",
+                    "cutout": "cutout_2020734020_tie_1.png",
+                    "mask": "mask_2020734020_tie_1.png",
+                    "bounding_box": [
+                        439.505615234375,
+                        577.429443359375,
+                        571.7139282226562,
+                        1016.489501953125
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "Andy Warhol [polaroid; polavision]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/gtfy/04400/04479v.jpg#h=1024&w=695",
+            "subjects": [
+                "United States",
+                "Artists",
+                "Personalities"
+            ],
+            "dates": "1977",
+            "contributors": [
+                "Gotfryd, Bernard, photographer"
+            ],
+            "description": [
+                "1 photograph : color transparency ; 35mm (slide format)"
+            ],
+            "alt_text": "Man holds a camera to his eye inside a room painted in wide color stripes.",
+            "collections": "Bernard Gotfryd photograph collection (Library of Congress)"
+        },
+        {
+            "resource_id": "00652557",
+            "original_format": [
+                749,
+                1024
+            ],
+            "thumbnail": "image_00652557_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9979680180549622,
+                    "label": "person",
+                    "cutout": "cutout_00652557_person_0.png",
+                    "mask": "mask_00652557_person_0.png",
+                    "bounding_box": [
+                        307.4764099121094,
+                        252.66482543945312,
+                        643.5601196289062,
+                        937.5606079101562
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[Miles Poindexter, three-quarter length portrait, seated at desk, facing left]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03680v.jpg#h=1024&w=749",
+            "subjects": "NA",
+            "dates": "1920-01-01",
+            "contributors": "NA",
+            "description": [
+                "Photograph by National Photo Company."
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": [
+                "catalog",
+                "american leaders speak: recordings from world war i",
+                "national photo company collection",
+                "prints & photographs online catalog (library of congress)",
+                "prints and photographs division"
+            ]
+        },
+        {
             "resource_id": "2023632670",
             "original_format": [
                 1024,
@@ -85,13 +217,78 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
+        },
+        {
+            "resource_id": "2021643419",
+            "original_format": [
+                1024,
+                957
+            ],
+            "thumbnail": "image_2021643419_thumbnail.jpg",
+            "segments": [],
+            "title": "[Georgia O'Keeffe House, Abiquiu, New Mexico]. [Interior]. [Studio with O'Keeffe present]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/72200/72243v.jpg#h=957&w=1024",
+            "subjects": [
+                "O'Keeffe, Georgia,--1887-1986",
+                "O'Keeffe, Georgia,--1887-1986--Homes & haunts--New Mexico--Abiquiu",
+                "Artists' studios--New Mexico--Abiquiu--1960-1970"
+            ],
+            "dates": "1965-01-01",
+            "contributors": [
+                "Balthazar Korab Studios, Ltd., photographer",
+                "Chabot, Maria, 1913-2001, architect"
+            ],
+            "description": [
+                "1 photograph : negative ; sheet 6 x 6 cm (2-1/4 format) | Photograph shows Georgia O'Keeffe seated in her studio, designed by Maria Chabot."
+            ],
+            "alt_text": "Woman sits in a chair near an easel at the end of a room with a long window on one side and tables on the other.",
+            "collections": "Balthazar Korab collection"
+        },
+        {
+            "resource_id": "2010648441",
+            "original_format": [
+                1024,
+                612
+            ],
+            "thumbnail": "image_2010648441_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9846950173377991,
+                    "label": "person",
+                    "cutout": "cutout_2010648441_person_0.png",
+                    "mask": "mask_2010648441_person_0.png",
+                    "bounding_box": [
+                        140.3727264404297,
+                        111.69409942626953,
+                        342.84210205078125,
+                        562.1649169921875
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "[Civil War envelope showing Columbia with shield and American flag and White House]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/26400/26466v.jpg#h=612&w=1024",
+            "subjects": [
+                "White House (Washington, D.C.)--1860-1870",
+                "Columbia (Symbolic character)--1860-1870",
+                "United States--History--Civil War, 1861-1865--Social aspects"
+            ],
+            "dates": "1822-01-01",
+            "contributors": [
+                "Magnus, Charles, publisher"
+            ],
+            "description": [
+                "1 print on envelope."
+            ],
+            "alt_text": "On an ivory background with a couple of brown splotches from left to right are three graphic images. On the left is a woman in a red robe with a flag and a shield to her right, both in red, white and blue. At center left is what appears to be a brown, three-cent stamp with a portrait of a man in profile. On the right is a white house on a blue and green background. An address written in cursive below the white house image.\n",
+            "collections": "Liljenquist Family collection (Library of Congress)"
         },
         {
             "resource_id": "2011631485",
@@ -187,13 +384,52 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
+        },
+        {
+            "resource_id": "2010637045",
+            "original_format": [
+                1536,
+                1024
+            ],
+            "thumbnail": "image_2010637045_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9784368872642517,
+                    "label": "umbrella",
+                    "cutout": "cutout_2010637045_umbrella_0.png",
+                    "mask": "mask_2010637045_umbrella_0.png",
+                    "bounding_box": [
+                        350.1692199707031,
+                        27.122831344604492,
+                        609.9266967773438,
+                        492.5713806152344
+                    ],
+                    "instance": 0
+                }
+            ],
+            "title": "Mardi Gras displays and details in store windows during the Mardi Gras season in Mobile, Alabama",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:05100:05185/full/pct:25/0/default.jpg#h=1024&w=1536",
+            "subjects": [
+                "United States--Alabama--Mobile",
+                "Mardi Gras",
+                "America"
+            ],
+            "dates": "2010-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "A window display shows umbrellas, masks, feathers, and ribbons in the traditional Mardi Gras colors of purple, green, and gold.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
         },
         {
             "resource_id": "2006681388",
@@ -238,12 +474,12 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
         },
         {
@@ -276,12 +512,12 @@
             "description": [
                 "1 photographic print. | Full lgth., standing, facing left; in baseball uniform and throwing ball."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
         },
         {
@@ -314,13 +550,38 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
+        },
+        {
+            "resource_id": "2010630073",
+            "original_format": [
+                1536,
+                1024
+            ],
+            "thumbnail": "image_2010630073_thumbnail.jpg",
+            "title": "Rusty Bolt souvenir store, Route 66, Seligman, Arizona",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04000:04074/full/pct:25/0/default.jpg#h=1024&w=1536",
+            "subjects": [
+                "United States--Arizona--Seligman",
+                "Route 66",
+                "Signs",
+                "America"
+            ],
+            "dates": "2006-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, TIFF file, color."
+            ],
+            "alt_text": "A white road sign in the shape of a shield reads \"Arizona Route 66\" in black font. Above the sign, a wooden arrow points the direction to \"Los Angeles.\"\n",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
         },
         {
             "resource_id": "2016826637",
@@ -418,12 +679,12 @@
             "description": [
                 "Photograph by National Photo Company. Original negative may be available: LC-F82-3483"
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "catalog",
                 "american leaders speak: recordings from world war i",
-                "prints & photographs online catalog (library of congress)",
                 "national photo company collection",
+                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division"
             ]
         },
@@ -444,12 +705,12 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
             ]
         },
         {
@@ -470,12 +731,76 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
+            ]
+        },
+        {
+            "resource_id": "95512864",
+            "original_format": [
+                1024,
+                831
+            ],
+            "thumbnail": "image_95512864_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9994581341743469,
+                    "label": "person",
+                    "cutout": "cutout_95512864_person_0.png",
+                    "mask": "mask_95512864_person_0.png",
+                    "bounding_box": [
+                        614.2725830078125,
+                        317.83642578125,
+                        899.9256591796875,
+                        744.1603393554688
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9993370175361633,
+                    "label": "person",
+                    "cutout": "cutout_95512864_person_1.png",
+                    "mask": "mask_95512864_person_1.png",
+                    "bounding_box": [
+                        512.843017578125,
+                        263.612548828125,
+                        698.6194458007812,
+                        738.7945556640625
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9982923865318298,
+                    "label": "person",
+                    "cutout": "cutout_95512864_person_2.png",
+                    "mask": "mask_95512864_person_2.png",
+                    "bounding_box": [
+                        389.2611999511719,
+                        289.474609375,
+                        508.0496520996094,
+                        743.370361328125
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Ludwig Martens (right), representative of the Soviet government, with his secretary, Mr. S. Nuorteva (left), and Madam Nuorteva, posed on roof, for motion picture camera crew]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c14000/3c14800/3c14890v.jpg#h=831&w=1024",
+            "subjects": "NA",
+            "dates": "1920-01-01",
+            "contributors": "NA",
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": [
+                "national photo company collection",
+                "prints & photographs online catalog (library of congress)",
+                "catalog",
+                "prints and photographs division"
             ]
         },
         {
@@ -508,12 +833,12 @@
             "description": [
                 "1 photographic print. | Head and shoulders, facing slightly left."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
         },
         {
@@ -534,12 +859,12 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
             ]
         },
         {
@@ -559,12 +884,12 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
             ]
         },
         {
@@ -583,12 +908,12 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
         },
         {
@@ -609,12 +934,12 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
             ]
         },
         {
@@ -660,13 +985,103 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
+        },
+        {
+            "resource_id": "2002705861",
+            "original_format": [
+                640,
+                497
+            ],
+            "thumbnail": "image_2002705861_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9993127584457397,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_0.png",
+                    "mask": "mask_2002705861_person_0.png",
+                    "bounding_box": [
+                        361.7947082519531,
+                        110.97821807861328,
+                        467.277587890625,
+                        416.3982238769531
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.9979839324951172,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_1.png",
+                    "mask": "mask_2002705861_person_1.png",
+                    "bounding_box": [
+                        73.51287841796875,
+                        35.341060638427734,
+                        194.9751739501953,
+                        478.5426940917969
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9974998831748962,
+                    "label": "person",
+                    "cutout": "cutout_2002705861_person_2.png",
+                    "mask": "mask_2002705861_person_2.png",
+                    "bounding_box": [
+                        243.77122497558594,
+                        124.72966766357422,
+                        369.7688903808594,
+                        423.73406982421875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "Reception of the Alaskan flyers at Washington, D.C. - Gen. Pershing congratulating Capt. Street of the squadron [alongside airplane, as 2 other men watch]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b25000/3b25100/3b25160r.jpg#h=497&w=640",
+            "subjects": "NA",
+            "dates": "1920-01-01",
+            "contributors": "NA",
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": [
+                "national photo company collection",
+                "prints & photographs online catalog (library of congress)",
+                "catalog",
+                "prints and photographs division"
+            ]
+        },
+        {
+            "resource_id": "2017882233",
+            "original_format": [
+                1448,
+                2172
+            ],
+            "thumbnail": "image_2017882233_thumbnail.jpg",
+            "segments": [],
+            "title": "The first movie camera in Thomas Edison's office & library at The Thomas Edison National Historical Park in West Orange, New Jersey",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45484/full/pct:25/0/default.jpg#h=2172&w=1448",
+            "subjects": [
+                "United States--New Jersey--West Orange",
+                "America",
+                "Thomas Edison National Historical Park",
+                "Movie cameras"
+            ],
+            "dates": "2017-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "A large movie camera is in the foreground with shelves of books in the background.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
         },
         {
             "resource_id": "2016631657",
@@ -686,13 +1101,38 @@
             "description": [
                 "1 photograph : digital, tiff file, color."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "highsmith (carol m.) archive",
-                "prints & photographs online catalog (library of congress)",
                 "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
             ]
+        },
+        {
+            "resource_id": "2018698633",
+            "original_format": [
+                843,
+                1024
+            ],
+            "thumbnail": "image_2018698633_thumbnail.jpg",
+            "title": "The Space Needle, a struture that has become the informal symbol of the Pacific Northwest city of Seattle, Washington",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/highsm/50400/50431v.jpg#h=1024&w=843",
+            "subjects": [
+                "United States--Washington (State)--King County--Seattle",
+                "America",
+                "Space Needle",
+                "Seattle World's Fair"
+            ],
+            "dates": "2018-01-01",
+            "contributors": [
+                "Highsmith, Carol M., 1946-, photographer"
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "A flying saucer shape tops a tall steel tower that rises above green grass. A few trees with green leaves, and a clear dark blue sky are also visible.",
+            "collections": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
         },
         {
             "resource_id": "2003666591",
@@ -724,13 +1164,158 @@
             "description": [
                 "1 photographic print."
             ],
-            "alt_text": "An illustration shows a snake cut into eight separate pieces labeled with the  initials of eight areas from \"S.C.\" to \"N.E.\" Newsprint text columns printed below, above and to the right of the illustration's rectangular black frame.\n",
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
             "collections": [
                 "national photo company collection",
                 "prints & photographs online catalog (library of congress)",
-                "prints and photographs division",
-                "catalog"
+                "catalog",
+                "prints and photographs division"
             ]
+        },
+        {
+            "resource_id": "2016631653",
+            "original_format": [
+                2172,
+                1448
+            ],
+            "thumbnail": "image_2016631653_thumbnail.jpg",
+            "segments": [],
+            "title": "Aerial view of the Indianapolis Motor Speedway, the host track of the venerable Indianapolis 500 auto race, held every Memorial Day weekend in Speedway, Indiana, an enclave of the Indiana capital city of Indianapolis",
+            "item_url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:40800:40835/full/pct:25/0/default.jpg#h=1448&w=2172",
+            "subjects": "NA",
+            "dates": "2016-01-01",
+            "contributors": [
+                "highsmith, carol m."
+            ],
+            "description": [
+                "1 photograph : digital, tiff file, color."
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": [
+                "highsmith (carol m.) archive",
+                "prints and photographs division",
+                "catalog",
+                "prints & photographs online catalog (library of congress)"
+            ]
+        },
+        {
+            "resource_id": "96508832",
+            "original_format": [
+                640,
+                455
+            ],
+            "thumbnail": "image_96508832_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9985120892524719,
+                    "label": "person",
+                    "cutout": "cutout_96508832_person_0.png",
+                    "mask": "mask_96508832_person_0.png",
+                    "bounding_box": [
+                        326.3941345214844,
+                        144.37599182128906,
+                        536.7315063476562,
+                        395.9251708984375
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.996976375579834,
+                    "label": "person",
+                    "cutout": "cutout_96508832_person_1.png",
+                    "mask": "mask_96508832_person_1.png",
+                    "bounding_box": [
+                        112.58836364746094,
+                        151.880126953125,
+                        270.9693603515625,
+                        396.6846618652344
+                    ],
+                    "instance": 1
+                }
+            ],
+            "title": "[Charles Evans Hughes, full-length portrait, seated in rocker on lawn, facing left, with wife]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b30000/3b38000/3b38600/3b38633r.jpg#h=455&w=640",
+            "subjects": "NA",
+            "dates": "1900-01-01",
+            "contributors": "NA",
+            "description": [
+                "1 photographic print."
+            ],
+            "alt_text": "A large, 9-branch menorah is in the foreground with the White House in the background.",
+            "collections": [
+                "national photo company collection",
+                "prints & photographs online catalog (library of congress)",
+                "catalog",
+                "prints and photographs division"
+            ]
+        },
+        {
+            "resource_id": "2020732637",
+            "original_format": [
+                1024,
+                696
+            ],
+            "thumbnail": "image_2020732637_thumbnail.jpg",
+            "segments": [
+                {
+                    "confidence": 0.9985973238945007,
+                    "label": "person",
+                    "cutout": "cutout_2020732637_person_0.png",
+                    "mask": "mask_2020732637_person_0.png",
+                    "bounding_box": [
+                        526.29052734375,
+                        125.394775390625,
+                        898.7908325195312,
+                        692.889892578125
+                    ],
+                    "instance": 0
+                },
+                {
+                    "confidence": 0.99835205078125,
+                    "label": "person",
+                    "cutout": "cutout_2020732637_person_1.png",
+                    "mask": "mask_2020732637_person_1.png",
+                    "bounding_box": [
+                        133.2210235595703,
+                        171.70741271972656,
+                        594.025146484375,
+                        689.5489501953125
+                    ],
+                    "instance": 1
+                },
+                {
+                    "confidence": 0.9926658272743225,
+                    "label": "person",
+                    "cutout": "cutout_2020732637_person_2.png",
+                    "mask": "mask_2020732637_person_2.png",
+                    "bounding_box": [
+                        1.5375357866287231,
+                        181.5545196533203,
+                        175.0556640625,
+                        687.92138671875
+                    ],
+                    "instance": 2
+                }
+            ],
+            "title": "[Nun and woman with cameras at appearance of] Pope J. Paul II at Yankee Stadium [New York]",
+            "item_url": "https://tile.loc.gov/storage-services/service/pnp/gtfy/03000/03096v.jpg#h=696&w=1024",
+            "subjects": [
+                "United States--New York (State)--New York",
+                "Popes",
+                "Pope John Paul II visit to NYC",
+                "Personalities",
+                "United Nations",
+                "Cameras"
+            ],
+            "dates": "1979",
+            "contributors": [
+                "Gotfryd, Bernard, photographer"
+            ],
+            "description": [
+                "1 photograph : color transparency ; 35mm (slide format)"
+            ],
+            "alt_text": "Two women, one wearing a nun's habit and both holding cameras, stand in front of a crowd.",
+            "collections": "Bernard Gotfryd photograph collection (Library of Congress)"
         }
     ]
 }
