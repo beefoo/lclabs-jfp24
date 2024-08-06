@@ -170,8 +170,6 @@ export default class Canvas {
         const y = parseFloat(target.getAttribute('data-y'));
         const width = parseFloat(target.getAttribute('data-width'));
         const height = parseFloat(target.getAttribute('data-height'));
-        // console.log(x, y, width, height);
-        // console.log(target.getAttribute('data-x'), target.getAttribute('data-y'), target.getAttribute('data-width'), target.getAttribute('data-height'));
         const element = {
             el: target,
             startX: (x / 100.0) * c.width,
