@@ -2,7 +2,7 @@ export default class PhotoBrowser {
     constructor(options = {}) {
         const defaults = {
             debug: false,
-            dataPath: 'dummy-data/',
+            dataPath: 'data/',
             displayCount: 10,
             listElement: 'photos',
         };
@@ -65,12 +65,13 @@ export default class PhotoBrowser {
         const { dataPath, displayCount } = this.options;
         photos.slice(0, displayCount).forEach((photo) => {
             if (!photo.is_valid) return;
+            const title = photo.title.replace('"', '');
             html += '<li><button class="photo">';
-            html += `  <img src="${dataPath}${photo.thumbnail}" class="photo-thumbnail" alt="${photo.title}" title="${photo.title}" />`;
+            html += `  <img src="${dataPath}${photo.thumbnail}" class="photo-thumbnail" alt="${photo.alt_text}" title="${title}" />`;
             html += '  <div class="photo-segments">';
             photo.segments.forEach((segment) => {
                 const [left, top, width, height] = segment.bounding_box;
-                html += `<div class="photo-segment" style="width: ${width}%; height: ${height}%; top: ${top}%; left: ${left}%; background-image: url(${dataPath}cutouts/${segment.cutout})" data-image="${dataPath}cutouts/${segment.cutout}"></div>`;
+                html += `<div class="photo-segment" style="width: ${width}%; height: ${height}%; top: ${top}%; left: ${left}%; background-image: url(${dataPath}cutouts/${segment.cutout})" data-image="${dataPath}cutouts/${segment.cutout}" data-title="${title}" data-url="${photo.item_url}"></div>`;
             });
             html += '  </div>';
             html += '</button></li>';

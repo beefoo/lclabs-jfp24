@@ -122,19 +122,21 @@ main {
     margin: 6px 0;
 }
 
-#prompt-section {
+#info-section {
     background-color: var(--bg-secondary);
-    height: 54px;
+    height: 40px;
     flex-grow: 1;
     display: flex;
+    justify-content: space-between;
     color: var(--text-base-lightest);
     align-items: center;
     padding: 0 12px;
 }
-#prompt-text {
-    font-size: 2.5rem;
-    flex-grow: 1;
-    text-align: center;
+#item-text {
+    display: none;
+}
+#item-text.active {
+    display: block;
 }
 
 #main-ui {
