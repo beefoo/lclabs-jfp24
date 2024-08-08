@@ -12,9 +12,27 @@ export default class App {
     }
 
     init() {
-        const canvas = new Canvas(this.options);
-        const canvas_tools = new CanvasTools(this.options);
-        const photo_browser = new PhotoBrowser(this.options);
+        const { options } = this;
+
+        this.itemDetails = document.getElementById('item-details');
+        this.itemLink = document.getElementById('item-link');
+
+        this.canvas = new Canvas(Object.assign(options, {onItemSelect: (resourceId) => this.onItemSelect(resourceId)}));
+        this.canvasTools = new CanvasTools(options);
+        this.photoBrowser = new PhotoBrowser(options);
         this.initialized = true;
+    }
+
+    onItemSelect(resourceId) {
+        if (!resourceId) {
+            this.itemDetails.classList.remove('active');
+            return;
+        }
+        const photo = this.photoBrowser.getItemById(resourceId);
+        if (!photo) return;
+
+        this.itemLink.setAttribute('href', photo.item_url);
+        this.itemLink.innerText = photo.title;
+        this.itemDetails.classList.add('active');
     }
 }

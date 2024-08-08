@@ -17,6 +17,10 @@ export default class PhotoBrowser {
         this.loadListeners();
     }
 
+    getItemById(resourceId) {
+        return this.photos.find((photo) => photo.resource_id === resourceId);
+    }
+
     async loadData() {
         const manifestFile = `${this.options.dataPath}manifest.json`;
         const response = await fetch(manifestFile);
@@ -66,12 +70,12 @@ export default class PhotoBrowser {
         photos.slice(0, displayCount).forEach((photo) => {
             if (!photo.is_valid) return;
             const title = photo.title.replace('"', '');
-            html += '<li><button class="photo">';
+            html += `<li><button class="photo" data-item="${photo.resource_id}">`;
             html += `  <img src="${dataPath}${photo.thumbnail}" class="photo-thumbnail" alt="${photo.alt_text}" title="${title}" />`;
             html += '  <div class="photo-segments">';
             photo.segments.forEach((segment) => {
                 const [left, top, width, height] = segment.bounding_box;
-                html += `<div class="photo-segment" style="width: ${width}%; height: ${height}%; top: ${top}%; left: ${left}%; background-image: url(${dataPath}cutouts/${segment.cutout})" data-image="${dataPath}cutouts/${segment.cutout}" data-title="${title}" data-url="${photo.item_url}"></div>`;
+                html += `<div class="photo-segment" style="width: ${width}%; height: ${height}%; top: ${top}%; left: ${left}%; background-image: url(${dataPath}cutouts/${segment.cutout})" data-image="${dataPath}cutouts/${segment.cutout}" data-item="${photo.resource_id}"></div>`;
             });
             html += '  </div>';
             html += '</button></li>';
