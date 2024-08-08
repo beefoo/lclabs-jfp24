@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 h2 {
     font-size: 1.5rem;
@@ -131,12 +131,23 @@ main {
     color: var(--text-base-lightest);
     align-items: center;
     padding: 0 12px;
+    gap: 40px;
 }
-#item-text {
+#info-section h1 {
+    white-space: nowrap;
+}
+#item-details {
     display: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
-#item-text.active {
+#item-details.active {
     display: block;
+}
+#item-details a {
+    color: var(--bg-secondary-light);
+    font-weight: bold;
 }
 
 #main-ui {

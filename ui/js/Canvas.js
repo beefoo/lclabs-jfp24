@@ -6,6 +6,7 @@ export default class Canvas {
         const defaults = {
             canvasEl: 'canvas',
             debug: false,
+            onItemSelect: (resourceId) => console.log('Override this'),
             pointerTarget: 'main-ui',
         };
         this.options = Object.assign(defaults, options);
@@ -54,7 +55,7 @@ export default class Canvas {
 
         // check to see if we should create a new instances of segments from a photo
         if (!foundValidPointer) {
-            Canvas.selectSegment(false); // deselect all segments
+            this.selectSegment(false); // deselect all segments
             const photo = event.target.closest('.photo');
             if (photo) {
                 if (this.options.debug) console.log('Photo detected');
@@ -92,6 +93,7 @@ export default class Canvas {
         const { canvas } = this;
         const c = canvas.getBoundingClientRect();
         const { clientX, clientY } = event;
+        const itemId = target.getAttribute('data-item');
         const segments = target.querySelectorAll('.photo-segment');
         const segInstances = [];
         segments.forEach((segment) => {
@@ -110,7 +112,8 @@ export default class Canvas {
             el.style.left = `${elLeft}%`;
             el.style.top = `${elTop}%`;
             el.style.backgroundImage = `url(${imageURL})`;
-            el.innerHTML = '<div class="canvas-segment-bar"><div class="canvas-segment-handle"></div></div>';
+            el.innerHTML = `<div class="canvas-segment-bar"><div class="canvas-segment-handle" data-item="${itemId}"></div></div>`;
+            el.setAttribute('data-item', itemId);
             // store position, size, and rotation data directly in the element
             el.setAttribute('data-x', elLeft);
             el.setAttribute('data-y', elTop);
@@ -133,6 +136,7 @@ export default class Canvas {
             startY: clientY,
             elements: segInstances,
         });
+        this.options.onItemSelect(itemId);
     }
 
     onSegmentManipulateStart(event, target) {
@@ -144,6 +148,7 @@ export default class Canvas {
         const y = parseFloat(segment.getAttribute('data-y'));
         const width = parseFloat(segment.getAttribute('data-width'));
         const height = parseFloat(segment.getAttribute('data-height'));
+        const itemId = segment.getAttribute('data-item');
         const element = {
             el: segment,
             rotationStart: parseFloat(segment.getAttribute('data-rotation')),
@@ -160,6 +165,7 @@ export default class Canvas {
             startY: clientY,
             elements: [element],
         });
+        this.options.onItemSelect(itemId);
     }
 
     onSegmentTouchStart(event, target) {
@@ -170,6 +176,7 @@ export default class Canvas {
         const y = parseFloat(target.getAttribute('data-y'));
         const width = parseFloat(target.getAttribute('data-width'));
         const height = parseFloat(target.getAttribute('data-height'));
+        const itemId = target.getAttribute('data-item');
         const element = {
             el: target,
             startX: (x / 100.0) * c.width,
@@ -184,10 +191,11 @@ export default class Canvas {
             startY: clientY,
             elements: [element],
         });
-        Canvas.selectSegment(target);
+        this.selectSegment(target);
+        this.options.onItemSelect(itemId);
     }
 
-    static selectSegment(target = false) {
+    selectSegment(target = false) {
         // select this segment and de-select others
         const segments = document.querySelectorAll('.canvas-segment');
         segments.forEach((segment) => {
@@ -197,5 +205,6 @@ export default class Canvas {
                 segment.classList.remove('selected');
             }
         });
+        if (!target) this.options.onItemSelect(false);
     }
 }
