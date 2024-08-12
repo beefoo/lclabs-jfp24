@@ -180,10 +180,19 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
+
+.tool {
+    opacity: 1;
+}
+.tool:disabled {
+    opacity: 0.33;
+}
+
 .tool-icon {
     width: 40px;
     height: auto;
 }
+
 #object-tools {
     border-top: 3px solid var(--bg-base-darkest);
 }
