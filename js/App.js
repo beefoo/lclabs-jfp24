@@ -17,13 +17,16 @@ export default class App {
         this.itemDetails = document.getElementById('item-details');
         this.itemLink = document.getElementById('item-link');
 
-        this.canvas = new Canvas(Object.assign(options, {onItemSelect: (resourceId) => this.onItemSelect(resourceId)}));
-        this.canvasTools = new CanvasTools(options);
+        const canvasOptions = { onItemSelect: (resourceId) => this.onItemSelect(resourceId) };
+        this.canvas = new Canvas(Object.assign(options, canvasOptions));
+        const toolsOptions = { onTriggerAction: (action) => this.onTriggerAction(action) };
+        this.canvasTools = new CanvasTools(Object.assign(options, toolsOptions));
         this.photoBrowser = new PhotoBrowser(options);
         this.initialized = true;
     }
 
     onItemSelect(resourceId) {
+        this.canvasTools.activateSegmentTools(resourceId !== false);
         if (!resourceId) {
             this.itemDetails.classList.remove('active');
             return;
@@ -34,5 +37,12 @@ export default class App {
         this.itemLink.setAttribute('href', photo.item_url);
         this.itemLink.innerText = photo.title;
         this.itemDetails.classList.add('active');
+    }
+
+    onTriggerAction(action) {
+        if (action === 'delete') {
+            this.canvas.deleteActiveSegment();
+            this.onItemSelect(false);
+        }
     }
 }

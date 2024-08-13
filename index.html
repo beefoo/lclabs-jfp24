@@ -53,18 +53,19 @@
                 <nav id="tool-menu" class="menu">
                     <h2>Tools</h2>
                     <ul id="main-tools" class="tool-list">                        
-                        <li><button id="tool-undo" class="tool" disabled><img src="img/undo.svg" alt="Undo tool" title="Undo" class="tool-icon" /></button></li>
-                        <li><button id="tool-redo" class="tool" disabled><img src="img/redo.svg" alt="Redo tool" title="Redo" class="tool-icon" /></button></li>
-                        <li><button id="tool-save" class="tool" disabled><img src="img/save.svg" alt="Save tool" title="Save" class="tool-icon" /></button></li>
+                        <li><button id="tool-reset" class="tool" data-action="reset" disabled><img src="img/blank.svg" alt="Reset tool" title="Reset" class="tool-icon" /></button></li>
+                        <li><button id="tool-save" class="tool" data-action="save" disabled><img src="img/save.svg" alt="Save tool" title="Save" class="tool-icon" /></button></li>
+                        <li><button id="tool-undo" class="tool" data-action="undo" disabled><img src="img/undo.svg" alt="Undo tool" title="Undo" class="tool-icon" /></button></li>
+                        <li><button id="tool-redo" class="tool" data-action="redo" disabled><img src="img/redo.svg" alt="Redo tool" title="Redo" class="tool-icon" /></button></li>
                     </ul>
-                    <ul id="object-tools" class="tool-list">
-                        <li><button id="tool-grow" class="tool" disabled><img src="img/grow.svg" alt="Grow" title="Grow" class="tool-icon" /></button></li>
-                        <li><button id="tool-shrink" class="tool" disabled><img src="img/shrink.svg" alt="Shrink" title="Shrink" class="tool-icon" /></button></li>
-                        <li><button id="tool-rotate-left" class="tool" disabled><img src="img/rotate-left.svg" alt="Rotate left" title="Rotate left" class="tool-icon" /></button></li>
-                        <li><button id="tool-rotate-right" class="tool" disabled><img src="img/rotate-right.svg" alt="Rotate right" title="Rotate right" class="tool-icon" /></button></li>
-                        <li><button id="tool-backward" class="tool" disabled><img src="img/backward.svg" alt="Send to the back" title="Send to the back" class="tool-icon" /></button></li>
-                        <li><button id="tool-front" class="tool" disabled><img src="img/forward.svg" alt="Send to the front" title="Send to the front" class="tool-icon" /></button></li>
-                        <li><button id="tool-delete" class="tool" disabled><img src="img/delete.svg" alt="Delete tool" title="Delete" class="tool-icon" /></button></li>
+                    <ul id="segment-tools" class="tool-list">
+                        <li><button id="tool-grow" class="tool" data-action="grow" disabled><img src="img/grow.svg" alt="Grow" title="Grow" class="tool-icon" /></button></li>
+                        <li><button id="tool-shrink" class="tool" data-action="shrink" disabled><img src="img/shrink.svg" alt="Shrink" title="Shrink" class="tool-icon" /></button></li>
+                        <li><button id="tool-rotate-left" class="tool" data-action="rotate-left" disabled><img src="img/rotate-left.svg" alt="Rotate left" title="Rotate left" class="tool-icon" /></button></li>
+                        <li><button id="tool-rotate-right" class="tool" data-action="rotate-right" disabled><img src="img/rotate-right.svg" alt="Rotate right" title="Rotate right" class="tool-icon" /></button></li>
+                        <li><button id="tool-backward" class="tool" data-action="backward" disabled><img src="img/backward.svg" alt="Send to the back" title="Send to the back" class="tool-icon" /></button></li>
+                        <li><button id="tool-front" class="tool" data-action="front" disabled><img src="img/forward.svg" alt="Send to the front" title="Send to the front" class="tool-icon" /></button></li>
+                        <li><button id="tool-delete" class="tool" data-action="delete" disabled><img src="img/delete.svg" alt="Delete tool" title="Delete" class="tool-icon" /></button></li>
                         
                     </ul>
                   </nav>
