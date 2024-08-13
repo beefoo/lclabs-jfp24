@@ -20,6 +20,12 @@ export default class Canvas {
         this.loadListeners();
     }
 
+    deleteActiveSegment() {
+        const $segment = this.canvas.querySelector('.canvas-segment.selected');
+        if (!$segment) return;
+        $segment.remove();
+    }
+
     loadListeners() {
         // listen to pointer events to account for mouse and touch
         const el = this.pointerTarget;
@@ -34,6 +40,10 @@ export default class Canvas {
         if (!event.isPrimary) return;
 
         let foundValidPointer = false;
+
+        // check to see if we are clicking a tool; don't do anything
+        const tool = event.target.closest('.tool');
+        if (tool) return;
 
         // check to see if we are scaling/rotating an existing segment instance
         const handle = event.target.closest('.canvas-segment-handle');
@@ -96,13 +106,14 @@ export default class Canvas {
         const itemId = target.getAttribute('data-item');
         const segments = target.querySelectorAll('.photo-segment');
         const segInstances = [];
-        segments.forEach((segment) => {
+        segments.forEach((segment, i) => {
             const {
                 x, y, width, height,
             } = segment.getBoundingClientRect();
             const imageURL = segment.getAttribute('data-image');
             const el = document.createElement('div');
             el.classList.add('canvas-segment');
+            if (i === 0) el.classList.add('selected');
             const elWidth = Helper.pxToPercent(width, c.width);
             const elHeight = Helper.pxToPercent(height, c.height);
             const elLeft = Helper.pxToPercent(x - c.x, c.width);
