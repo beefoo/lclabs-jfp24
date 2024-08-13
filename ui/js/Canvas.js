@@ -1,3 +1,4 @@
+import CanvasHistory from './CanvasHistory.js';
 import CanvasPointer from './CanvasPointer.js';
 import Helper from './Helper.js';
 
@@ -17,6 +18,7 @@ export default class Canvas {
         this.pointer = false;
         this.pointerTarget = document.getElementById(this.options.pointerTarget);
         this.canvas = document.getElementById(this.options.canvasEl);
+        this.history = new CanvasHistory(this.options);
         this.loadListeners();
     }
 
@@ -24,6 +26,7 @@ export default class Canvas {
         const $segment = this.canvas.querySelector('.canvas-segment.selected');
         if (!$segment) return;
         $segment.remove();
+        this.history.pushState();
     }
 
     loadListeners() {
@@ -96,6 +99,7 @@ export default class Canvas {
 
         const { clientX, clientY } = event;
         this.pointer.onPointerUp({ x: clientX, y: clientY });
+        if (this.pointer.changed) this.history.pushState();
         this.pointer = false;
     }
 
@@ -147,6 +151,7 @@ export default class Canvas {
             startY: clientY,
             elements: segInstances,
         });
+        this.pointer.changed = true;
         this.options.onItemSelect(itemId);
     }
 

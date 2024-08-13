@@ -21,6 +21,7 @@ export default class CanvasPointer {
         this.elements = elements;
         this.mode = mode;
         this.start = { x: startX, y: startY };
+        this.changed = false;
         this.canvasRect = canvas.getBoundingClientRect();
         this.onPointerDown();
     }
@@ -54,6 +55,11 @@ export default class CanvasPointer {
         const newRotation = (rotationStart + rotationDelta) % 360.0;
         el.style.transform = `rotate3d(0, 0, 1, ${newRotation}deg)`;
         this.elements[0].rotation = newRotation;
+
+        // log if there was a change
+        const t = 0.0001;
+        this.changed = scale < (1.0 - t) || scale > (1.0 + t)
+                    || newRotation > t || newRotation < -t;
     }
 
     onManipulateEnd(xy) {
@@ -89,6 +95,8 @@ export default class CanvasPointer {
             this.elements[i].x = left;
             this.elements[i].y = top;
         });
+        const t = 0.0001;
+        this.changed = delta.x < -t || delta.x > t || delta.y < -t || delta.y > t;
     }
 
     onMoveEnd(xy) {
@@ -136,6 +144,7 @@ export default class CanvasPointer {
     }
 
     onPointerDown() {
+        this.changed = false;
         if (this.mode === 'manipulate') return this.onManipulateStart();
         return this.onMoveStart();
     }
