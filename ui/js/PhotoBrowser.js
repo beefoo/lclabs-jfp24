@@ -26,7 +26,7 @@ export default class PhotoBrowser {
         const response = await fetch(manifestFile);
         const data = await response.json();
         const parsedData = PhotoBrowser.parseData(data);
-        return parsedData;
+        return parsedData.filter((item) => item.is_valid);
     }
 
     loadListeners() {
