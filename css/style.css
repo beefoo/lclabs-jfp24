@@ -193,7 +193,7 @@ main {
     height: auto;
 }
 
-#object-tools {
+#segment-tools {
     border-top: 3px solid var(--bg-base-darkest);
 }
 
