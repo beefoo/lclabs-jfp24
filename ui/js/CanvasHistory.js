@@ -4,6 +4,7 @@ export default class CanvasHistory {
             debug: false,
             canvasEl: 'canvas',
             maxItems: 5,
+            storageKey: 'canvas-history',
         };
         this.options = Object.assign(defaults, options);
         this.init();
@@ -14,8 +15,10 @@ export default class CanvasHistory {
         this.$undoButton = document.getElementById('tool-undo');
         this.$redoButton = document.getElementById('tool-redo');
         this.$resetButton = document.getElementById('tool-reset');
-        this.history = [];
-        this.reset();
+        if (!this.loadHistory()) {
+            this.history = [];
+            this.reset();
+        }
         this.loadListeners();
     }
 
@@ -25,6 +28,17 @@ export default class CanvasHistory {
 
     hasUndo() {
         return this.index > 0;
+    }
+
+    loadHistory() {
+        const dataString = localStorage.getItem(this.options.storageKey);
+        if (!dataString) return false;
+        const data = JSON.parse(dataString);
+        this.history = data.history;
+        this.index = data.index;
+        this.updateState(this.index);
+        this.updateButtons();
+        return true;
     }
 
     loadListeners() {
@@ -44,11 +58,13 @@ export default class CanvasHistory {
         }
         this.index = this.history.length - 1;
         this.updateButtons();
+        this.saveHistory();
     }
 
     redo() {
         this.index = Math.min(this.index + 1, this.history.length - 1);
         this.updateState(this.index);
+        this.saveHistory();
     }
 
     reset() {
@@ -56,9 +72,18 @@ export default class CanvasHistory {
         this.pushState();
     }
 
+    saveHistory() {
+        const data = {
+            index: this.index,
+            history: this.history,
+        };
+        localStorage.setItem(this.options.storageKey, JSON.stringify(data));
+    }
+
     undo() {
         this.index = Math.max(0, this.index - 1);
         this.updateState(this.index);
+        this.saveHistory();
     }
 
     updateButtons() {
