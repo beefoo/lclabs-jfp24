@@ -22,7 +22,7 @@ export default class Canvas {
         this.loadListeners();
     }
 
-    deleteActiveSegment() {
+    deleteActive() {
         const $segment = this.canvas.querySelector('.canvas-segment.selected');
         if (!$segment) return;
         $segment.remove();
@@ -135,6 +135,7 @@ export default class Canvas {
             el.setAttribute('data-width', elWidth);
             el.setAttribute('data-height', elHeight);
             el.setAttribute('data-rotation', '0.0');
+            el.setAttribute('data-zindex', '1000');
             canvas.appendChild(el);
             segInstances.push({
                 el,
@@ -222,5 +223,24 @@ export default class Canvas {
             }
         });
         if (!target) this.options.onItemSelect(false);
+    }
+
+    sendBackwardActive() {
+        this.setZindexActive(false);
+    }
+
+    sendFrontActive() {
+        this.setZindexActive(true);
+    }
+
+    setZindexActive(front = true) {
+        const $segment = this.canvas.querySelector('.canvas-segment.selected');
+        if (!$segment) return;
+        const $segments = this.canvas.querySelectorAll('.canvas-segment');
+        const zindices = Array.from($segments, (s) => parseInt(s.getAttribute('data-zindex'), 10));
+        const newZIndex = front ? Math.max(...zindices) + 1 : Math.min(...zindices) - 1;
+        $segment.setAttribute('data-zindex', newZIndex);
+        $segment.style.zIndex = newZIndex;
+        this.history.pushState();
     }
 }

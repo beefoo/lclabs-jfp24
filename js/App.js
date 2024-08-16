@@ -41,8 +41,12 @@ export default class App {
 
     onTriggerAction(action) {
         if (action === 'delete') {
-            this.canvas.deleteActiveSegment();
+            this.canvas.deleteActive();
             this.onItemSelect(false);
+        } else if (action === 'backward') {
+            this.canvas.sendBackwardActive();
+        } else if (action === 'front') {
+            this.canvas.sendFrontActive();
         }
     }
 }

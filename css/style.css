@@ -32,10 +32,10 @@ body {
 }
 
 h1 {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
 }
 
@@ -161,7 +161,7 @@ main {
     background-color: var(--bg-base-lighter);
     flex-grow: 0;
     flex-shrink: 0;
-    flex-basis: 110px;
+    flex-basis: 64px;
 }
 
 .tool-list,
@@ -179,6 +179,7 @@ main {
 .tool-list {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .tool {
@@ -195,6 +196,7 @@ main {
 
 #segment-tools {
     border-top: 3px solid var(--bg-base-darkest);
+    padding-top: 1rem;
 }
 
 #canvas-section {
@@ -222,14 +224,15 @@ main {
 }
 .canvas-segment:hover,
 .canvas-segment:focus {
-    z-index: 1001;
+    /* z-index: 1001; */
+    outline: 1px solid var(--bg-secondary);
 }
 .canvas-segment.animating {
     transition: left ease-in-out 0.5s, top ease-in-out 0.5s;
 }
 .canvas-segment.selected {
     outline: 3px solid var(--bg-secondary);
-    z-index: 1002;
+    /* z-index: 1002; */
 }
 .canvas-segment-bar {
     width: 60px;
