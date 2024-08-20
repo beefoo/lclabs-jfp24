@@ -1,6 +1,7 @@
 import CanvasHistory from './CanvasHistory.js';
 import CanvasPointer from './CanvasPointer.js';
 import Helper from './Helper.js';
+import html2canvas from './vendor/html2canvas.esm.js';
 
 export default class Canvas {
     constructor(options = {}) {
@@ -210,6 +211,15 @@ export default class Canvas {
         });
         this.selectSegment(target);
         this.options.onItemSelect(itemId);
+    }
+
+    save() {
+        html2canvas(this.canvas).then((canvas) => {
+            const image = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream');
+            const link = document.getElementById('download-link');
+            link.setAttribute('href', image);
+            link.click();
+        });
     }
 
     selectSegment(target = false) {
