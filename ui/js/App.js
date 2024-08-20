@@ -1,4 +1,5 @@
 import Canvas from './Canvas.js';
+import CanvasBackground from './CanvasBackground.js';
 import CanvasTools from './CanvasTools.js';
 import PhotoBrowser from './PhotoBrowser.js';
 
@@ -19,6 +20,7 @@ export default class App {
 
         const canvasOptions = { onItemSelect: (resourceId) => this.onItemSelect(resourceId) };
         this.canvas = new Canvas(Object.assign(options, canvasOptions));
+        this.canvasBackground = new CanvasBackground(options);
         const toolsOptions = { onTriggerAction: (action) => this.onTriggerAction(action) };
         this.canvasTools = new CanvasTools(Object.assign(options, toolsOptions));
         this.photoBrowser = new PhotoBrowser(options);
