@@ -47,6 +47,8 @@ export default class App {
             this.canvas.sendBackwardActive();
         } else if (action === 'front') {
             this.canvas.sendFrontActive();
+        } else if (action === 'save') {
+            this.canvas.save();
         }
     }
 }
