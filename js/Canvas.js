@@ -1,3 +1,4 @@
+import CanvasBackground from './CanvasBackground.js';
 import CanvasHistory from './CanvasHistory.js';
 import CanvasPointer from './CanvasPointer.js';
 import Helper from './Helper.js';
