@@ -24,7 +24,14 @@ export default class App {
         const toolsOptions = { onTriggerAction: (action) => this.onTriggerAction(action) };
         this.canvasTools = new CanvasTools(Object.assign(options, toolsOptions));
         this.photoBrowser = new PhotoBrowser(options);
-        this.initialized = true;
+        this.constructor.loadListeners();
+    }
+
+    static loadListeners() {
+        const startButton = document.getElementById('start');
+        startButton.onclick = (e) => {
+            Canvas.start();
+        };
     }
 
     onItemSelect(resourceId) {

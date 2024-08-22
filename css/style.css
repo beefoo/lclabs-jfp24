@@ -32,7 +32,13 @@ body {
 }
 
 h1 {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+h1 small {
+    font-size: 0.9rem;
+    font-style: italic;
+    font-weight: normal;
 }
 h2 {
     font-size: 1.2rem;
@@ -124,7 +130,7 @@ main {
 
 #info-section {
     background-color: var(--bg-secondary);
-    height: 40px;
+    height: 50px;
     flex-grow: 1;
     display: flex;
     justify-content: space-between;
@@ -141,6 +147,7 @@ main {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    max-width: 50%;
 }
 #item-details.active {
     display: block;
@@ -150,11 +157,36 @@ main {
     font-weight: bold;
 }
 
+#intro {
+    display: none;
+    background-color: var(--bg-base-lightest);
+}
+#intro.active {
+    display: block;
+}
+#intro p {
+    font-size: 1.3rem;
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem auto;
+}
+#intro p:last-child {
+    text-align: center;
+}
+#intro button {
+    font-size: 2.4rem;
+    padding: 6px 24px;
+}
+
 #main-ui {
+    display: none;
     touch-action: none;
     user-select: none;
     -webkit-user-drag: none;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+#main-ui.active {
+    display: flex;
 }
 
 #tools-section {
@@ -407,6 +439,11 @@ button.photo.active .photo-segment {
     text-align: center;
     font-size: 0.9rem;
     position: relative;
+}
+
+.loc-footer p {
+    max-width: 960px;
+    margin: 6px auto;
 }
 
 .loc-footer .loc-footer-nav-list {
