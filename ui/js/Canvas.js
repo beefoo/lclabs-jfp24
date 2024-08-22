@@ -254,4 +254,9 @@ export default class Canvas {
         $segment.style.zIndex = newZIndex;
         this.history.pushState();
     }
+
+    static start() {
+        document.getElementById('intro').classList.remove('active');
+        document.getElementById('main-ui').classList.add('active');
+    }
 }
