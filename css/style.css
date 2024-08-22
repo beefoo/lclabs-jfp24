@@ -16,6 +16,7 @@
     --bg-primary-dark: #1a4480;
     --bg-secondary: #e3670d;
     --bg-secondary-light: #edc5a9;
+    --bg-secondary-dark: #973f00;
 }
 
 body {
@@ -84,10 +85,17 @@ button + button,
 
 button:hover,
 .button:hover,
-a.button:hover {
+a.button:hover,
+button:focus-visible,
+a.button:focus-visible {
     background: var(--bg-primary-dark);
     color: var(--text-base-lightest);
 }
+button:focus-visible,
+a.button:focus-visible {
+    outline: 3px solid var(--bg-secondary);
+}
+
 
 button.small,
 .button.small {
@@ -129,7 +137,7 @@ main {
 }
 
 #info-section {
-    background-color: var(--bg-secondary);
+    background-color: var(--bg-secondary-dark);
     height: 50px;
     flex-grow: 1;
     display: flex;
@@ -206,6 +214,10 @@ main {
 .photo-list button {
     background: none;
     border: none;
+}
+.tool-list button:focus-visible,
+.photo-list button:focus-visible {
+    outline: 3px solid var(--bg-secondary);
 }
 
 .tool-list {
