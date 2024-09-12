@@ -59,19 +59,19 @@
                 <nav id="tool-menu" class="menu">
                     <h2>Tools</h2>
                     <ul id="main-tools" class="tool-list">                        
-                        <li><button id="tool-reset" class="tool" data-action="reset" disabled><img src="img/blank.svg" alt="Reset tool" title="Reset" class="tool-icon" /></button></li>
-                        <li><button id="tool-save" class="tool" data-action="save"><img src="img/save.svg" alt="Save tool" title="Save" class="tool-icon" /></button></li>
-                        <li><button id="tool-undo" class="tool" data-action="undo" disabled><img src="img/undo.svg" alt="Undo tool" title="Undo" class="tool-icon" /></button></li>
-                        <li><button id="tool-redo" class="tool" data-action="redo" disabled><img src="img/redo.svg" alt="Redo tool" title="Redo" class="tool-icon" /></button></li>
+                        <li><button id="tool-save" class="tool" data-action="save" title="Save"><img src="img/save.svg" alt="Save" class="tool-icon" /></button></li>
+                        <li><button id="tool-undo" class="tool" data-action="undo" title="Undo" disabled><img src="img/undo.svg" alt="Undo" class="tool-icon" /></button></li>
+                        <li><button id="tool-redo" class="tool" data-action="redo" title="Redo" disabled><img src="img/redo.svg" alt="Redo" class="tool-icon" /></button></li>
+                        <li><button id="tool-reset" class="tool" data-action="reset" title="Reset" disabled><img src="img/reset.svg" alt="Reset" class="tool-icon" /></button></li>
                     </ul>
                     <ul id="segment-tools" class="tool-list">
-                        <!-- <li><button id="tool-grow" class="tool" data-action="grow" disabled><img src="img/grow.svg" alt="Grow" title="Grow" class="tool-icon" /></button></li>
-                        <li><button id="tool-shrink" class="tool" data-action="shrink" disabled><img src="img/shrink.svg" alt="Shrink" title="Shrink" class="tool-icon" /></button></li>
-                        <li><button id="tool-rotate-left" class="tool" data-action="rotate-left" disabled><img src="img/rotate-left.svg" alt="Rotate left" title="Rotate left" class="tool-icon" /></button></li>
-                        <li><button id="tool-rotate-right" class="tool" data-action="rotate-right" disabled><img src="img/rotate-right.svg" alt="Rotate right" title="Rotate right" class="tool-icon" /></button></li> -->
-                        <li><button id="tool-backward" class="tool" data-action="backward" disabled><img src="img/backward.svg" alt="Send to the back" title="Send to the back" class="tool-icon" /></button></li>
-                        <li><button id="tool-front" class="tool" data-action="front" disabled><img src="img/forward.svg" alt="Send to the front" title="Send to the front" class="tool-icon" /></button></li>
-                        <li><button id="tool-delete" class="tool" data-action="delete" disabled><img src="img/delete.svg" alt="Delete tool" title="Delete" class="tool-icon" /></button></li>
+                        <li><button id="tool-grow" class="tool" data-action="grow" title="Grow" disabled><img src="img/grow.svg" alt="Grow" class="tool-icon" /></button></li>
+                        <li><button id="tool-shrink" class="tool" data-action="shrink" title="Shrink" disabled><img src="img/shrink.svg" alt="Shrink" class="tool-icon" /></button></li>
+                        <li><button id="tool-rotate-left" class="tool" data-action="rotate-left" title="Rotate left" disabled><img src="img/rotate-left.svg" alt="Rotate left" class="tool-icon" /></button></li>
+                        <li><button id="tool-rotate-right" class="tool" data-action="rotate-right" title="Rotate right" disabled><img src="img/rotate-right.svg" alt="Rotate right" class="tool-icon" /></button></li>
+                        <li><button id="tool-backward" class="tool" data-action="backward" title="Send to the back"disabled><img src="img/backward.svg" alt="Send to the back" class="tool-icon" /></button></li>
+                        <li><button id="tool-front" class="tool" data-action="front" title="Send to the front" disabled><img src="img/forward.svg" alt="Send to the front" class="tool-icon" /></button></li>
+                        <li><button id="tool-delete" class="tool" data-action="delete" title="Delete" disabled><img src="img/delete.svg" alt="Delete" class="tool-icon" /></button></li>
                         
                     </ul>
                   </nav>
@@ -79,7 +79,7 @@
             <div id="canvas-section" class="section">
                 <div id="canvas" style="background-image: url(img/backgrounds/2016800361.jpg)"></div>
                 <div id="background-photo-credit">
-                    <p>Background photo from: <a id="bg-link" href="https://www.loc.gov/resource/det.4a09425/">Pennsylvania Avenue, Washington</a>. Change background: <button id="prev-bg">Previous photo</button> <button id="next-bg">Next photo</button></p>
+                    <p>Background photo from: <a id="bg-link" href="https://www.loc.gov/resource/det.4a09425/">Pennsylvania Avenue, Washington</a>. <span class="nowrap">Change background: <button id="prev-bg">Previous photo</button> <button id="next-bg">Next photo</button></span></p>
                 </div>
             </div>
             <div id="photo-section" class="section">
