@@ -38,11 +38,17 @@ export default class Canvas {
         el.onpointermove = (event) => this.onPointerMove(event);
         el.onpointerup = (event) => this.onPointerUp(event);
         el.onpointercancel = (event) => this.onPointerUp(event);
+        el.onclick = (event) => {
+            this.onPointerDown(event);
+            this.onPointerUp(event);
+        };
     }
 
     onPointerDown(event) {
         // only listen for primary pointer (i.e. not multitouch)
         if (!event.isPrimary) return;
+
+        event.stopPropagation();
 
         let foundValidPointer = false;
 
@@ -79,7 +85,7 @@ export default class Canvas {
             }
         }
 
-        if (foundValidPointer) {
+        if (foundValidPointer && event.pointerId >= 0) {
             // keep track of this pointer until pointerup, even if it goes outside of container
             this.pointerTarget.setPointerCapture(event.pointerId);
         }
@@ -117,7 +123,7 @@ export default class Canvas {
                 x, y, width, height,
             } = segment.getBoundingClientRect();
             const imageURL = segment.getAttribute('data-image');
-            const el = document.createElement('div');
+            const el = document.createElement('button');
             el.classList.add('canvas-segment');
             if (i === 0) el.classList.add('selected');
             const elWidth = Helper.pxToPercent(width, c.width);
