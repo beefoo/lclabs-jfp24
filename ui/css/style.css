@@ -258,7 +258,13 @@ main {
     position: relative;
     z-index: 1;
 }
-.canvas-segment {
+
+button.canvas-segment {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    display: block;
     position: absolute;
     z-index: 1000;
     background-repeat: no-repeat;
@@ -266,15 +272,20 @@ main {
     background-size: cover;
     transform-origin: 50% 50%;
 }
-.canvas-segment:hover,
-.canvas-segment:focus {
+button.canvas-segment:hover,
+button.canvas-segment:focus,
+button.canvas-segment:focus-visible {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     /* z-index: 1001; */
     outline: 1px solid var(--bg-secondary);
 }
-.canvas-segment.animating {
+button.canvas-segment.animating {
     transition: left ease-in-out 0.5s, top ease-in-out 0.5s;
 }
-.canvas-segment.selected {
+button.canvas-segment.selected {
     outline: 3px solid var(--bg-secondary);
     /* z-index: 1002; */
 }
@@ -298,7 +309,7 @@ main {
     margin-top: -12px;
     border-radius: 50%;
 }
-.canvas-segment.selected .canvas-segment-bar {
+button.canvas-segment.selected .canvas-segment-bar {
     display: block;
 }
 #background-photo-credit {
