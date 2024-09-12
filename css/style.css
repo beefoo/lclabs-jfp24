@@ -388,6 +388,10 @@ button.photo.active .photo-segment {
     transform: scale3d(1.667, 1.667, 1);
 }
 
+.nowrap {
+    white-space: nowrap;
+}
+
 .loc-header {
     position: sticky;
     top: 0;

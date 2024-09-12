@@ -44,7 +44,12 @@ export default class CanvasHistory {
     loadListeners() {
         this.$undoButton.onclick = (e) => this.undo();
         this.$redoButton.onclick = (e) => this.redo();
-        this.$resetButton.onclick = (e) => this.reset();
+        this.$resetButton.onclick = (e) => {
+            // eslint-disable-next-line no-alert
+            if (window.confirm('Do you want to reset this canvas?')) {
+                this.reset();
+            }
+        };
     }
 
     pushState() {
