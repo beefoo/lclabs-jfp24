@@ -44,6 +44,24 @@ export default class Canvas {
         };
     }
 
+    moveActive(dx, dy) {
+        const $segment = this.canvas.querySelector('.canvas-segment.selected');
+        if (!$segment) return false;
+
+        const x = parseFloat($segment.getAttribute('data-x'));
+        const y = parseFloat($segment.getAttribute('data-y'));
+        const x1 = x + dx;
+        const y1 = y + dy;
+
+        $segment.style.left = `${x1}%`;
+        $segment.style.top = `${y1}%`;
+        $segment.setAttribute('data-x', x1);
+        $segment.setAttribute('data-y', y1);
+
+        this.history.pushState();
+        return true;
+    }
+
     onPointerDown(event) {
         // only listen for primary pointer (i.e. not multitouch)
         if (!event.isPrimary) return;
@@ -220,6 +238,19 @@ export default class Canvas {
         this.options.onItemSelect(itemId);
     }
 
+    rotateActive(degrees) {
+        const $segment = this.canvas.querySelector('.canvas-segment.selected');
+        if (!$segment) return;
+
+        const d = parseFloat($segment.getAttribute('data-rotation'));
+        const d1 = (d + degrees) % 360.0;
+
+        $segment.style.transform = `rotate3d(0, 0, 1, ${d1}deg)`;
+        $segment.setAttribute('data-rotation', d1);
+
+        this.history.pushState();
+    }
+
     save() {
         html2canvas(this.canvas).then((canvas) => {
             const image = canvas.toDataURL('image/png').replace('image/png', 'image/octet-stream');
@@ -227,6 +258,23 @@ export default class Canvas {
             link.setAttribute('href', image);
             link.click();
         });
+    }
+
+    scaleActive(amount) {
+        const $segment = this.canvas.querySelector('.canvas-segment.selected');
+        if (!$segment) return;
+
+        const w = parseFloat($segment.getAttribute('data-width'));
+        const h = parseFloat($segment.getAttribute('data-height'));
+        const w1 = w * (1.0 + amount);
+        const h1 = h * (1.0 + amount);
+
+        $segment.style.width = `${w1}%`;
+        $segment.style.height = `${h1}%`;
+        $segment.setAttribute('data-width', w1);
+        $segment.setAttribute('data-height', h1);
+
+        this.history.pushState();
     }
 
     selectSegment(target = false) {
