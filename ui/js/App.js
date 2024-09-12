@@ -24,14 +24,52 @@ export default class App {
         const toolsOptions = { onTriggerAction: (action) => this.onTriggerAction(action) };
         this.canvasTools = new CanvasTools(Object.assign(options, toolsOptions));
         this.photoBrowser = new PhotoBrowser(options);
-        this.constructor.loadListeners();
+        this.loadListeners();
     }
 
-    static loadListeners() {
+    loadListeners() {
         const startButton = document.getElementById('start');
         startButton.onclick = (e) => {
             Canvas.start();
         };
+        // keyboard events
+        document.addEventListener('keydown', (event) => {
+            if (event.ctrlKey) return;
+            const keyName = event.key;
+            const moveAmount = 1; // in %
+            if (keyName === 'ArrowLeft') {
+                // move left
+                const moved = this.canvas.moveActive(-moveAmount, 0);
+                if (moved) event.preventDefault();
+            } else if (keyName === 'ArrowRight') {
+                // move right
+                const moved = this.canvas.moveActive(moveAmount, 0);
+                if (moved) event.preventDefault();
+            } else if (keyName === 'ArrowUp') {
+                // move up
+                const moved = this.canvas.moveActive(0, -moveAmount);
+                if (moved) event.preventDefault();
+            } else if (keyName === 'ArrowDown') {
+                // move down
+                const moved = this.canvas.moveActive(0, moveAmount);
+                if (moved) event.preventDefault();
+            } else if (keyName === '=') {
+                // scale up
+                this.canvas.scaleActive(0.1);
+            } else if (keyName === '-') {
+                // scale down
+                this.canvas.scaleActive(-0.1);
+            } else if (keyName === '[') {
+                // rotate left
+                this.canvas.rotateActive(-5);
+            } else if (keyName === ']') {
+                // rotate right
+                this.canvas.rotateActive(5);
+            } else if (keyName === 'Escape') {
+                // deselect all
+                this.canvas.selectSegment(false);
+            }
+        }, false);
     }
 
     onItemSelect(resourceId) {
